@@ -214,6 +214,39 @@ function renderRoute(initial = false) {
   }
 }
 
+function renderRacePreview(realRaces) {
+  const today = new Date().toISOString().slice(0, 10);
+  const featured = realRaces.filter(race => {
+    const {boston, field} = race.attributes;
+    return race.date >= today && boston?.status === 'verified' && boston.value === 'eligible' &&
+      field?.status === 'verified' && field.basis === 'registration cap' &&
+      Number.isInteger(field.value) && field.value > 0 && field.value <= 2500;
+  }).sort((left, right) => left.attributes.field.value - right.attributes.field.value ||
+    left.date.localeCompare(right.date)).slice(0, 3);
+  if (!featured.length) return;
+
+  const largestCap = featured.at(-1).attributes.field.value;
+  const date = new Intl.DateTimeFormat('en-US', {dateStyle:'medium', timeZone:'UTC'});
+  const number = new Intl.NumberFormat('en-US');
+  const list = $('race-preview-list');
+  for (const race of featured) {
+    const entry = element('li');
+    const row = element('div', '', 'race-preview-row');
+    const link = element('a', race.name);
+    link.href = '#race/' + race.id;
+    const cap = race.attributes.field.value;
+    row.append(link, element('span', number.format(cap), 'race-preview-count'));
+    const track = element('div', '', 'race-preview-track');
+    track.setAttribute('aria-hidden', 'true');
+    const bar = element('span');
+    bar.style.width = (cap / largestCap * 100) + '%';
+    track.append(bar);
+    entry.append(row, element('p', race.setting + ' · ' + date.format(Date.parse(race.date)), 'meta'), track);
+    list.append(entry);
+  }
+  $('race-preview').hidden = false;
+}
+
 async function start() {
   try {
     const response = await fetch(new URL('../data/races.json', import.meta.url));
@@ -222,6 +255,7 @@ async function start() {
     const realRaces = data.races.filter(race => !race.demo);
     races = realRaces.length ? realRaces : data.races;
     if (realRaces.length) {
+      renderRacePreview(realRaces);
       $('catalog-note').textContent = realRaces.length +
         ' sourced races. Check with organizers before booking. Missing and unverified details are shown separately.';
       const countries = [...new Set(realRaces.map(race => race.country).filter(Boolean))]
