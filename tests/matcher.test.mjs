@@ -41,3 +41,23 @@ test('month similarity wraps around the new year', () => {
     {month:pick('January')});
   assert.equal(result.score, 50);
 });
+
+test('date windows include both boundaries across years and keep near and missing dates distinct', () => {
+  const base = {...races[0], demo:false};
+  const examples = [
+    {...base, id:'first-day', date:'2026-12-20'},
+    {...base, id:'last-day', date:'2027-01-05'},
+    {...base, id:'near', date:'2027-01-06'},
+    {...base, id:'missing'},
+  ];
+  const date = {start:'2026-12-20', end:'2027-01-05', importance:'2'};
+  const results = rankRaces(examples, {date});
+  assert.deepEqual(results.map(item => item.score), [100, 100, 98, null]);
+  assert.equal(results[2].details[0].status, 'Near match');
+  assert.equal(results[3].details[0].status, 'Missing');
+  const required = rankRaces(examples, {date:{...date, importance:'required'}});
+  assert.equal(required.find(item => item.race.id === 'near').unmet, true);
+  assert.equal(required.find(item => item.race.id === 'missing').unconfirmed, true);
+  const [fromOnly] = rankRaces([examples[2]], {date:{start:'2027-01-05', importance:'1'}});
+  assert.equal(fromOnly.score, 100);
+});

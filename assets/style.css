@@ -5,3 +5,9 @@
 
 #country-filter{align-items:center;margin-bottom:1rem;border:1px solid var(--line)}
 #country-filter .meta{font-size:.85rem}
+
+#date-range{border:1px solid var(--line);margin:0 0 1rem}
+#date-range legend{font-weight:800;padding-inline:.35rem}
+#date-range input{display:block;width:100%;min-width:0;min-height:44px;margin-top:.25rem;padding:.3rem;border:1px solid var(--line);border-radius:0;background:white;color:var(--ink)}
+#date-range .meta{margin-top:.5rem;font-size:.85rem}
+@media(min-width:40rem){#date-range .controls{grid-template-columns:repeat(3,minmax(0,1fr))}}

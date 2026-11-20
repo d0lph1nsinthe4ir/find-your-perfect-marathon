@@ -16,12 +16,32 @@ export function similarity(criterion, option, value) {
   return Math.max(0, 1 - gap / criterion.scale);
 }
 
+const dateCriterion = {key:'date', label:'Race date range', scale:60};
+const dateFormatter = new Intl.DateTimeFormat('en-US', {
+  dateStyle:'medium', timeZone:'UTC',
+});
+
+function calendarDay(value) {
+  return Date.parse(value + 'T00:00:00Z') / 86400000;
+}
+
 export function rankRaces(races, selections) {
   const selected = criteria.flatMap(criterion => {
     const selection = selections[criterion.key];
     const option = criterion.options.find(item => item.value === selection?.value);
     return option ? [{criterion, option, importance:selection.importance}] : [];
   });
+  const {start, end, importance} = selections.date ?? {};
+  if (start || end) {
+    const low = start ? calendarDay(start) : -Infinity;
+    const high = end ? calendarDay(end) : Infinity;
+    if (low <= high) {
+      const label = start && end ? dateFormatter.formatRange(Date.parse(start), Date.parse(end)) :
+        start ? 'On or after ' + dateFormatter.format(Date.parse(start)) :
+        'On or before ' + dateFormatter.format(Date.parse(end));
+      selected.unshift({criterion:dateCriterion, option:{low, high, label}, importance});
+    }
+  }
   return races.map(race => {
     let total = 0;
     let known = 0;
@@ -29,7 +49,9 @@ export function rankRaces(races, selections) {
     let unmet = false;
     let unconfirmed = false;
     const details = selected.map(({criterion, option, importance}) => {
-      const field = race.attributes[criterion.key];
+      const isDate = criterion.key === 'date';
+      const field = isDate ? {value:race.date ? calendarDay(race.date) : null,
+        status:race.dateStatus ?? (race.demo ? 'demo' : 'verified')} : race.attributes[criterion.key];
       const required = importance === 'required';
       const weight = required ? 0 : Number(importance);
       total += weight;
@@ -44,7 +66,8 @@ export function rankRaces(races, selections) {
       known += weight;
       earned += weight * fraction;
       const status = fraction === 1 ? 'Fit' : fraction > 0 && !required ? 'Near match' : 'Compromise';
-      const actual = Array.isArray(field.value) ? field.value.join(', ') : displayValue(criterion, field.value);
+      const actual = isDate ? dateFormatter.format(Date.parse(race.date)) :
+        Array.isArray(field.value) ? field.value.join(', ') : displayValue(criterion, field.value);
       return {criterion, option, importance, status, actual, fraction};
     });
     return {race, details, score:known ? Math.round(100 * earned / known) : null,

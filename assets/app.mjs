@@ -46,7 +46,22 @@ function select(label, name, options, description) {
   return wrapper;
 }
 
-for (const criterion of criteria) {
+const startDate = $('race-start');
+const endDate = $('race-end');
+const dateImportance = $('date-importance');
+dateImportance.append(select('Importance', 'date-weight', importance, 'Race date range importance'));
+const dateWeight = dateImportance.querySelector('select');
+
+function syncDateRange() {
+  dateWeight.disabled = !(startDate.value || endDate.value);
+  endDate.setCustomValidity(startDate.value && endDate.value && startDate.value > endDate.value ?
+    'Choose an end date on or after the start date.' : '');
+}
+
+for (const input of [startDate, endDate]) input.addEventListener('input', syncDateRange);
+syncDateRange();
+
+for (const criterion of criteria.filter(item => item.key !== 'month')) {
   const item = element('div', '', 'criterion');
   const title = element('div', '', 'criterion-title');
   title.append(icon(criterion.icon), criterion.label);
@@ -97,6 +112,8 @@ form.addEventListener('submit', event => {
   const selections = Object.fromEntries(criteria.map(({key}) => [
     key, {value:inputs.get(key), importance:inputs.get(key + '-weight')},
   ]));
+  selections.date = {start:inputs.get('race-start'), end:inputs.get('race-end'),
+    importance:inputs.get('date-weight')};
   const country = inputs.get('race-country');
   const candidates = country ? races.filter(race => race.country === country) : races;
   const ranked = rankRaces(candidates, selections);
@@ -105,7 +122,8 @@ form.addEventListener('submit', event => {
   const excluded = ranked.filter(result => result.unmet);
   const rankings = $('rankings');
   rankings.replaceChildren();
-  const hasPreferences = [...Object.values(selections)].some(item => item.value);
+  const hasPreferences = Boolean(selections.date.start || selections.date.end) ||
+    Object.values(selections).some(item => item.value);
   rankings.append(element('p', hasPreferences ?
     'Fit is the percentage of available weighted points earned. Near misses can earn partial points. Coverage shows how much weighted data is available.' :
     'Choose a preference to score races. Races are listed alphabetically.', 'muted'));
@@ -126,6 +144,7 @@ form.addEventListener('submit', event => {
 
 form.addEventListener('reset', () => {
   results.hidden = true;
+  endDate.setCustomValidity('');
   for (const select of form.querySelectorAll('select[name$="-weight"]')) select.disabled = true;
 });
 
