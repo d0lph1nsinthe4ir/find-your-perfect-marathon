@@ -64,3 +64,10 @@ shape when used as a weighted preference. Required course types use exact
 matches. Course type sources are linked from race profiles. A directory's
 course classification describes its published listing. Check the organizer
 for changes to the upcoming edition, especially before booking.
+
+Scenery entries can use `coverage: "partial"` with an `evidence` array. Each
+item records a `tag`, a short course-specific reason, a `sourceUrl`, and a
+`sourceTitle`. Tag sizable stretches or documented views, using organizer
+sources where available. A missing tag in a partial list is unverified in the
+matcher. Preserve that distinction when adding more evidence. City names, park
+names, and generic marketing descriptions alone do not establish a scenery tag.

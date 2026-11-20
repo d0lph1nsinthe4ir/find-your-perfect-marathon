@@ -70,3 +70,13 @@ test('mostly-loop courses are near matches for a loop preference', () => {
   const [required] = rankRaces([race], {configuration:pick('Loop','required')});
   assert.equal(required.unmet, true);
 });
+
+test('a partial scenery record confirms only the tagged scenery', () => {
+  const race = {...races[0], attributes:{scenery:{status:'verified', value:['Waterfront'], coverage:'partial'}}};
+  const [ waterfront ] = rankRaces([race], {scenery:pick('Waterfront','required')});
+  assert.equal(waterfront.details[0].status, 'Fit');
+  const [ forest ] = rankRaces([race], {scenery:pick('Forest','required')});
+  assert.equal(forest.unmet, false);
+  assert.equal(forest.unconfirmed, true);
+  assert.equal(forest.details[0].status, 'Unverified');
+});

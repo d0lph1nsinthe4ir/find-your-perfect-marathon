@@ -62,10 +62,12 @@ export function rankRaces(races, selections) {
       const required = importance === 'required';
       const weight = required ? 0 : Number(importance);
       total += weight;
-      const available = field?.value != null && ['demo','verified'].includes(field.status);
+      const undocumentedScenery = criterion.key === 'scenery' && field?.coverage === 'partial' &&
+        !field.value?.includes(option.value);
+      const available = field?.value != null && ['demo','verified'].includes(field.status) && !undocumentedScenery;
       if (!available) {
         unconfirmed ||= required;
-        const status = field?.status === 'unverified' ? 'Unverified' : 'Missing';
+        const status = field?.status === 'unverified' || undocumentedScenery ? 'Unverified' : 'Missing';
         return {criterion, option, importance, status, actual:status, fraction:null};
       }
       const fraction = similarity(criterion, option, field.value);

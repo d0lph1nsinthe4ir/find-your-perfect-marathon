@@ -218,6 +218,18 @@ function renderRoute(initial = false) {
         fact.append(' · ', sourceLink(field.sourceUrl, 'Source'),
           ' · ', sourceLink('https://www.baa.org/races/boston-marathon/qualify/', 'B.A.A. rules'));
       }
+      if (criterion.key === 'scenery' && field?.evidence?.length) {
+        const details = element('details', '', 'scenery-evidence');
+        details.append(element('summary', 'Scenery sources'));
+        const list = element('ul');
+        for (const item of field.evidence) {
+          const entry = element('li', item.tag + ' · ' + item.reason + ' ');
+          entry.append(sourceLink(item.sourceUrl, item.sourceTitle));
+          list.append(entry);
+        }
+        details.append(list);
+        fact.append(details);
+      }
       if (criterion.key === 'configuration' && field?.status === 'verified' && field.sourceUrl) {
         fact.append(' · ', sourceLink(field.sourceUrl, 'Course type source'));
       }

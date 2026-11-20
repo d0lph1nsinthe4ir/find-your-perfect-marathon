@@ -457,6 +457,22 @@
           "sourceUrl": "https://www.marathon.tokyo/en/participants/guideline/",
           "sourceTitle": "Tokyo Marathon official course information",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Urban"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Urban",
+              "reason": "The race crosses central Tokyo districts including Asakusa, Ginza and Hibiya.",
+              "sourceUrl": "https://www.marathon.tokyo/en/participants/guideline/",
+              "sourceTitle": "Organizer course information"
+            }
+          ]
         }
       },
       "courseVersions": [],
@@ -937,6 +953,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Big+Sur+International+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The Highway 1 course follows the Pacific coastline.",
+              "sourceUrl": "https://www.bigsurmarathon.org/races/marathon/",
+              "sourceTitle": "Organizer course information"
+            }
+          ]
         }
       },
       "courseVersions": [],
@@ -997,6 +1029,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Eugene+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The final miles follow the Willamette River.",
+              "sourceUrl": "https://www.eugenemarathon.com/marathon/",
+              "sourceTitle": "Organizer course information"
+            }
+          ]
         }
       },
       "courseVersions": [],
@@ -1099,6 +1147,29 @@
           ],
           "sampleDays": 21,
           "editions": []
+        },
+        "scenery": {
+          "value": [
+            "Waterfront",
+            "Mountains"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course passes beaches and follows the Stanley Park seawall.",
+              "sourceUrl": "https://www.bmovanmarathon.com/marathon",
+              "sourceTitle": "Organizer course information"
+            },
+            {
+              "tag": "Mountains",
+              "reason": "The organizer describes views of snow-capped mountains from the course.",
+              "sourceUrl": "https://www.bmovanmarathon.com/run",
+              "sourceTitle": "Organizer course information"
+            }
+          ]
         }
       },
       "courseVersions": [],
@@ -1314,6 +1385,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Grandmas+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course follows Lake Superior from near Two Harbors toward Duluth.",
+              "sourceUrl": "https://grandmasmarathon.com/the-marathon/grandmas-marathon/",
+              "sourceTitle": "Organizer course information"
+            }
+          ]
         }
       },
       "courseVersions": [],
@@ -1423,6 +1510,22 @@
           "sourceUrl": "https://www.tcssydneymarathon.com/marathon",
           "sourceTitle": "Sydney Marathon official course information",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The race crosses Sydney Harbour Bridge and continues around Circular Quay.",
+              "sourceUrl": "https://www.tcssydneymarathon.com/about-us",
+              "sourceTitle": "Organizer course information"
+            }
+          ]
         }
       },
       "courseVersions": [],
@@ -1479,6 +1582,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Chicago+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Urban"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Urban",
+              "reason": "The course runs through 29 Chicago neighborhoods.",
+              "sourceUrl": "https://www.chicagomarathon.com/event-info/participant-information/course/",
+              "sourceTitle": "Organizer course information"
+            }
+          ]
         }
       },
       "courseVersions": [],
@@ -1588,6 +1707,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Richmond+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Richmond+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": [],
@@ -5395,6 +5530,29 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Sugarloaf+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront",
+            "Mountains"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "Route 27 follows the Carrabassett River.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Sugarloaf+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            },
+            {
+              "tag": "Mountains",
+              "reason": "The course winds through the Bigelow Mountain range.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Sugarloaf+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -5491,6 +5649,22 @@
           "sourceUrl": "https://www.bayshoremarathon.org/",
           "sourceTitle": "Bayshore Marathon official course information",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "Most of the course follows the East Arm of Grand Traverse Bay.",
+              "sourceUrl": "https://www.bayshoremarathon.org/full-marathon",
+              "sourceTitle": "Organizer course information"
+            }
+          ]
         }
       },
       "courseVersions": [],
@@ -5591,6 +5765,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Missoula+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Countryside"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Countryside",
+              "reason": "Runners start in Frenchtown and cover countryside before entering Missoula.",
+              "sourceUrl": "https://www.missoulamarathon.org/events/marathon/",
+              "sourceTitle": "Organizer course information"
+            }
+          ]
         }
       },
       "courseVersions": [],
@@ -6043,6 +6233,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Carlsbad+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Carlsbad+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -6099,6 +6305,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Redding+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Redding+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -6155,6 +6377,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Louisiana+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Louisiana+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -6603,6 +6841,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Surf+City+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Surf+City+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -7331,6 +7585,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Myrtle+Beach+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Myrtle+Beach+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -7506,6 +7776,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Napa+Valley+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Countryside"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Countryside",
+              "reason": "The route passes vineyards and wineries along the Silverado Trail.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Napa+Valley+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": [],
@@ -7909,6 +8195,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Asheville+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Asheville+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -7965,6 +8267,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Shamrock+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Shamrock+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -8077,6 +8395,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Yakima+River+Canyon+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Yakima+River+Canyon+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -8413,6 +8747,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Knoxville+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Knoxville+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -8872,6 +9222,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Kalamazoo+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Urban"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Urban",
+              "reason": "The route passes through downtown or city streets.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Kalamazoo+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -9096,6 +9462,29 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Colorado+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront",
+            "Mountains"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Colorado+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            },
+            {
+              "tag": "Mountains",
+              "reason": "The course description identifies mountain views.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Colorado+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -9208,6 +9597,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Avenue+of+the+Giants+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Forest"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Forest",
+              "reason": "The course winds through dense forest in the Humboldt Redwoods area.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Avenue+of+the+Giants+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -9383,6 +9788,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Ogden+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Ogden+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -9607,6 +10028,29 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Vermont+City+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront",
+            "Mountains"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "About ten miles run beside Lake Champlain.",
+              "sourceUrl": "https://www.runvermont.org/vermont-city-marathon-relay/race-overview/",
+              "sourceTitle": "Organizer course information"
+            },
+            {
+              "tag": "Mountains",
+              "reason": "The lakeside bike path offers views of the Adirondacks.",
+              "sourceUrl": "https://www.runvermont.org/vermont-city-marathon-relay/race-overview/",
+              "sourceTitle": "Organizer course information"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -9719,6 +10163,29 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Utah+Valley+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront",
+            "Mountains"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Utah+Valley+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            },
+            {
+              "tag": "Mountains",
+              "reason": "The course description identifies mountain views.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Utah+Valley+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -9775,6 +10242,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Newport+Marathon+%28OR%29",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Newport+Marathon+%28OR%29",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -9943,6 +10426,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Charlevoix+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Charlevoix+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -9999,6 +10498,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mad+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Mountains"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Mountains",
+              "reason": "The course description identifies mountain views.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mad+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -10167,6 +10682,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Juneau+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Mountains"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Mountains",
+              "reason": "The course description identifies mountain views.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Juneau+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -10458,6 +10989,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Cape+Cod+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Cape+Cod+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -10770,6 +11317,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Tidewater+Striders+Dismal+Swamp+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The race uses the Dismal Swamp Canal Trail, which runs beside the canal.",
+              "sourceUrl": "https://www.cityofchesapeake.net/facilities/facility/details/Dismal-Swamp-Canal-Trail-95",
+              "sourceTitle": "City of Chesapeake trail description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -10833,6 +11396,22 @@
           ],
           "sampleDays": 21,
           "editions": []
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The race uses the Dismal Swamp Canal Trail, which runs beside the canal.",
+              "sourceUrl": "https://www.cityofchesapeake.net/facilities/facility/details/Dismal-Swamp-Canal-Trail-95",
+              "sourceTitle": "City of Chesapeake trail description"
+            }
+          ]
         }
       },
       "courseVersions": [],
@@ -11061,6 +11640,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=White+River+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=White+River+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -11173,6 +11768,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Harpeth+Hills+Flying+Monkey+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Forest"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Forest",
+              "reason": "The route traverses a forest or wooded stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Harpeth+Hills+Flying+Monkey+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -11285,6 +11896,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Philadelphia+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Philadelphia+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -11565,6 +12192,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Stennis+Space+Center+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Forest"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Forest",
+              "reason": "The route traverses a forest or wooded stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Stennis+Space+Center+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -12293,6 +12936,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=California+International+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Countryside"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Countryside",
+              "reason": "The route passes through farmland, vineyards or countryside.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=California+International+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -12685,6 +13344,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Kiawah+Island+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Forest"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Forest",
+              "reason": "The route traverses a forest or wooded stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Kiawah+Island+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -12797,6 +13472,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Phoenix+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Phoenix+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -13021,6 +13712,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Honolulu+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Urban"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Urban",
+              "reason": "The route passes through downtown or city streets.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Honolulu+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -13357,6 +14064,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Tucson+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Mountains"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Mountains",
+              "reason": "The course description identifies mountain views.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Tucson+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -14078,6 +14801,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=State+47+Las+Cruces+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Mountains"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Mountains",
+              "reason": "The course description identifies mountain views.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=State+47+Las+Cruces+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -14911,6 +15650,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Jed+Smith+Ultra+Classic+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Jed+Smith+Ultra+Classic+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -17207,6 +17962,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Fort+Smith+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Urban"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Urban",
+              "reason": "The route passes through downtown or city streets.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Fort+Smith+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -17263,6 +18034,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Irving+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Irving+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -17767,6 +18554,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Charlottesville+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Charlottesville+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -18495,6 +19298,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=New+South+Trail+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=New+South+Trail+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -18607,6 +19426,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Bend+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Forest"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Forest",
+              "reason": "The route traverses a forest or wooded stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Bend+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -18775,6 +19610,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Spring+Chance+BQ.2+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Spring+Chance+BQ.2+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -18999,6 +19850,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Horseshoe+Lake+Trail+Run+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Mountains"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Mountains",
+              "reason": "The course description identifies mountain views.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Horseshoe+Lake+Trail+Run+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -19179,23 +20046,23 @@
       "country": "United States",
       "demo": false,
       "source": {
-        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Run+the+River+Marathon",
-        "sourceTitle": "FindMyMarathon calendar listing",
+        "sourceUrl": "https://www.deltaendurancellc.com/races/run-the-river-marathon",
+        "sourceTitle": "Delta Endurance race information",
         "verifiedOn": "2026-11-20"
       },
       "attributes": {
         "month": {
           "value": "April",
           "status": "verified",
-          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Run+the+River+Marathon",
-          "sourceTitle": "FindMyMarathon calendar listing",
+          "sourceUrl": "https://www.deltaendurancellc.com/races/run-the-river-marathon",
+          "sourceTitle": "Delta Endurance race information",
           "verifiedOn": "2026-11-20"
         },
         "region": {
           "value": "North America",
           "status": "verified",
-          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Run+the+River+Marathon",
-          "sourceTitle": "FindMyMarathon calendar listing",
+          "sourceUrl": "https://www.deltaendurancellc.com/races/run-the-river-marathon",
+          "sourceTitle": "Delta Endurance race information",
           "verifiedOn": "2026-11-20"
         },
         "temperature": {
@@ -19218,11 +20085,27 @@
           "editions": []
         },
         "configuration": {
-          "value": "Point-to-point",
+          "value": "Mostly loop",
           "status": "verified",
-          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Run+the+River+Marathon",
-          "sourceTitle": "FindMyMarathon course classification",
+          "sourceUrl": "https://runsignup.com/Race/RuntheRiverMarathonandRelay/Page-10",
+          "sourceTitle": "Run the River official course description",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course follows the Columbia River through Kennewick, Richland and Pasco.",
+              "sourceUrl": "https://www.deltaendurancellc.com/races/run-the-river-marathon",
+              "sourceTitle": "Organizer course information"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -19335,6 +20218,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Wenatchee+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Wenatchee+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -20063,6 +20962,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Wisconsin+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Urban"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Urban",
+              "reason": "The route passes through downtown or city streets.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Wisconsin+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -20175,6 +21090,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Cedar+Rapids+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Cedar+Rapids+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -20343,6 +21274,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Jim+Thorpe+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Jim+Thorpe+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -20511,6 +21458,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=MV+Spring+Classic+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Forest"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Forest",
+              "reason": "The route traverses a forest or wooded stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=MV+Spring+Classic+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -21127,6 +22090,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Providence+Rhode+Races+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Providence+Rhode+Races+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -21239,6 +22218,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Tacoma+City+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Tacoma+City+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -21407,6 +22402,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Granite+State+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Granite+State+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -21687,6 +22698,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Famous+Idaho+Potato+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Famous+Idaho+Potato+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -21799,6 +22826,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Colfax+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Mountains"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Mountains",
+              "reason": "The course description identifies mountain views.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Colfax+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -22583,6 +23626,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Bear+Lake+Wyoming+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Bear+Lake+Wyoming+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -22975,6 +24034,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=MISH+Waterfront+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=MISH+Waterfront+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -23255,6 +24330,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Zip+Code+07662+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Zip+Code+07662+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -23311,6 +24402,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Casper+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Casper+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -23367,6 +24474,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Maritime+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Maritime+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -23423,6 +24546,29 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=North+Olympic+Discovery+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Mountains",
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Mountains",
+              "reason": "The course description identifies mountain views.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=North+Olympic+Discovery+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            },
+            {
+              "tag": "Waterfront",
+              "reason": "The last five miles follow the Strait of Juan de Fuca.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=North+Olympic+Discovery+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -23647,6 +24793,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Hatfield-McCoy+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Hatfield-McCoy+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -23759,6 +24921,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Skagway+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Mountains"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Mountains",
+              "reason": "The course description identifies mountain views.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Skagway+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -23983,6 +25161,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Moosehead+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Moosehead+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -24704,6 +25898,29 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Waugoshance+Trail+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront",
+            "Forest"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Waugoshance+Trail+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            },
+            {
+              "tag": "Forest",
+              "reason": "The route traverses a forest or wooded stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Waugoshance+Trail+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -24984,6 +26201,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Great+Augusta+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Countryside"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Countryside",
+              "reason": "The route passes through farmland, vineyards or countryside.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Great+Augusta+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -25096,6 +26329,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Idaho+Falls+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Countryside"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Countryside",
+              "reason": "The route passes through farmland, vineyards or countryside.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Idaho+Falls+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -25152,6 +26401,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Jack+and+Jills+Downhill+Marathon+%28Saturday%29",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Mountains"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Mountains",
+              "reason": "The route travels through mountain terrain.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Jack+and+Jills+Downhill+Marathon+%28Saturday%29",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -25264,6 +26529,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Jack+and+Jills+Downhill+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Mountains"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Mountains",
+              "reason": "The route travels through mountain terrain.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Jack+and+Jills+Downhill+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -25432,6 +26713,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Grand+Island+Trail+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Grand+Island+Trail+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -25824,6 +27121,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Paavo+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Forest"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Forest",
+              "reason": "The route traverses a forest or wooded stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Paavo+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -26104,6 +27417,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=New+England+Green+River+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=New+England+Green+River+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -26160,6 +27489,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Santa+Rosa+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Santa+Rosa+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -26440,6 +27785,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=East+Canyon+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=East+Canyon+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -26888,6 +28249,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Sackets+Harbor+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Sackets+Harbor+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -26944,6 +28321,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Surfers+Point+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Surfers+Point+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -27224,6 +28617,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Run+Woodstock+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Forest"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Forest",
+              "reason": "The route traverses a forest or wooded stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Run+Woodstock+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -27336,6 +28745,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Boston+or+Bust+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Boston+or+Bust+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -27560,6 +28985,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Bismarck+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Bismarck+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -28008,6 +29449,29 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Sioux+Falls+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront",
+            "Urban"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Sioux+Falls+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            },
+            {
+              "tag": "Urban",
+              "reason": "The route passes through downtown or city streets.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Sioux+Falls+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -28904,6 +30368,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Long+Beach+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Long+Beach+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -28960,6 +30440,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Portland+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Urban"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Urban",
+              "reason": "The route passes through downtown or city streets.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Portland+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -29072,6 +30568,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Bemidji+Blue+Ox+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Bemidji+Blue+Ox+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -29296,6 +30808,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Raquette+River+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Raquette+River+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -29464,6 +30992,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Spokane+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Spokane+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -30136,6 +31680,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Snohomish+River+Run+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Waterfront",
+              "reason": "The course description identifies a waterside stretch.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Snohomish+River+Run+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -30248,6 +31808,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Kansas+City+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Urban"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Urban",
+              "reason": "The route passes through downtown or city streets.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Kansas+City+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
@@ -30472,6 +32048,22 @@
           "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=bg26.2+Marathon",
           "sourceTitle": "FindMyMarathon course classification",
           "verifiedOn": "2026-11-20"
+        },
+        "scenery": {
+          "value": [
+            "Urban"
+          ],
+          "status": "verified",
+          "coverage": "partial",
+          "verifiedOn": "2026-11-20",
+          "evidence": [
+            {
+              "tag": "Urban",
+              "reason": "The route passes through downtown or city streets.",
+              "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=bg26.2+Marathon",
+              "sourceTitle": "FindMyMarathon course description"
+            }
+          ]
         }
       },
       "courseVersions": []
