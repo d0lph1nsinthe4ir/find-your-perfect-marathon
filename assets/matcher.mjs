@@ -1,7 +1,7 @@
 import {criteria, displayValue} from './criteria.mjs';
 
 export function similarity(criterion, option, value) {
-  if (Object.hasOwn(option, 'low')) {
+  if (Object.prototype.hasOwnProperty.call(option, 'low')) {
     const distance = Math.max(option.low - value, value - option.high, 0);
     return Math.max(0, 1 - distance / criterion.scale);
   }
@@ -36,7 +36,7 @@ export function rankRaces(races, selections) {
     const low = start ? calendarDay(start) : -Infinity;
     const high = end ? calendarDay(end) : Infinity;
     if (low <= high) {
-      const label = start && end ? dateFormatter.formatRange(Date.parse(start), Date.parse(end)) :
+      const label = start && end ? dateFormatter.format(Date.parse(start)) + ' to ' + dateFormatter.format(Date.parse(end)) :
         start ? 'On or after ' + dateFormatter.format(Date.parse(start)) :
         'On or before ' + dateFormatter.format(Date.parse(end));
       selected.unshift({criterion:dateCriterion, option:{low, high, label}, importance});

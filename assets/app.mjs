@@ -94,7 +94,7 @@ function resultCard(result) {
     breakdown.append(element('summary', 'See fits and compromises'));
     const list = element('ul');
     for (const item of details) {
-      const weightLabel = importance.find(([value]) => value === item.importance)[1];
+      const weightLabel = importance.find(([value]) => value === item.importance)?.[1] ?? importance[0][1];
       const points = item.importance === 'required' || item.fraction === null ? '' :
         ' · ' + Number((item.fraction * Number(item.importance)).toFixed(2)) + '/' + item.importance + ' points';
       list.append(element('li', item.status + ' · ' + item.criterion.label + ' (' + weightLabel + ')' +
@@ -106,14 +106,47 @@ function resultCard(result) {
   return card;
 }
 
+function appendResultPages(container, matches, moveFocus = false) {
+  const list = element('div');
+  const button = element('button', '', 'text-button');
+  button.type = 'button';
+  let shown = 0;
+  function showPage(focus) {
+    const page = matches.slice(shown, shown + 25);
+    const cards = page.map(resultCard);
+    list.append(...cards);
+    shown += page.length;
+    button.hidden = shown >= matches.length;
+    button.textContent = 'Show more races (' + (matches.length - shown) + ' remaining)';
+    if (focus) cards[0]?.querySelector('a').focus();
+  }
+  button.addEventListener('click', () => showPage(true));
+  container.append(list, button);
+  if (moveFocus) container.addEventListener('toggle', () => {
+    if (container.open && !shown) showPage(false);
+  });
+  else showPage(false);
+}
+
 form.addEventListener('submit', event => {
   event.preventDefault();
+  try {
+    renderMatches();
+  } catch (error) {
+    $('rankings').replaceChildren(element('p', 'Results could not load. Try refreshing the page.'));
+    results.hidden = false;
+    $('results-title').focus();
+    console.error(error);
+  }
+});
+
+function renderMatches() {
   const inputs = new FormData(form);
   const selections = Object.fromEntries(criteria.map(({key}) => [
-    key, {value:inputs.get(key), importance:inputs.get(key + '-weight')},
+    key, {value:inputs.get(key), importance:inputs.get(key + '-weight') ?? '1'},
   ]));
   selections.date = {start:inputs.get('race-start'), end:inputs.get('race-end'),
-    importance:inputs.get('date-weight')};
+    importance:inputs.get('date-weight') ?? '1'};
   const country = inputs.get('race-country');
   const candidates = country ? races.filter(race => race.country === country) : races;
   const ranked = rankRaces(candidates, selections);
@@ -130,17 +163,17 @@ form.addEventListener('submit', event => {
   const scope = country ? ' in ' + country : '';
   rankings.append(element('p', candidates.length + ' races searched' + scope + '.', 'meta'));
   if (!matches.length) rankings.append(element('p', 'No race confirms all your requirements.'));
-  for (const match of matches) rankings.append(resultCard(match));
+  if (matches.length) appendResultPages(rankings, matches);
   for (const [title, group] of [['Requirements to confirm',pending],['Does not meet requirements',excluded]]) {
     if (!group.length) continue;
     const more = element('details', '', 'result');
     more.append(element('summary', title + ' (' + group.length + ')'));
-    for (const result of group) more.append(resultCard(result));
+    appendResultPages(more, group, true);
     rankings.append(more);
   }
   results.hidden = false;
   $('results-title').focus();
-});
+}
 
 form.addEventListener('reset', () => {
   results.hidden = true;
@@ -227,7 +260,7 @@ function renderRaceWeather(temperature) {
   const pastEditions = temperature.basis === 'past editions';
   const basis = pastEditions ? 'Median of the morning averages from the editions below.' :
     'Seasonal estimate based on ' + temperature.sampleDays + ' mornings within three days of the scheduled month and day, ' +
-      temperature.years[0] + '–' + temperature.years.at(-1) + ', at 7–11 a.m. local time.';
+      temperature.years[0] + '–' + temperature.years[temperature.years.length - 1] + ', at 7–11 a.m. local time.';
   section.append(heading, element('p', 'Typical morning near ' + temperature.location + ' · ' +
     formatWeatherTemperature(temperature.value)), element('p', basis, 'meta'));
 
