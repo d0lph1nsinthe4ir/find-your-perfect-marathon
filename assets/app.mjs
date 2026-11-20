@@ -218,6 +218,9 @@ function renderRoute(initial = false) {
         fact.append(' · ', sourceLink(field.sourceUrl, 'Source'),
           ' · ', sourceLink('https://www.baa.org/races/boston-marathon/qualify/', 'B.A.A. rules'));
       }
+      if (criterion.key === 'configuration' && field?.status === 'verified' && field.sourceUrl) {
+        fact.append(' · ', sourceLink(field.sourceUrl, 'Course type source'));
+      }
       if (criterion.key === 'field' && field?.basis === 'registration cap' && field.sourceUrl) {
         fact.append(' · ', sourceLink(field.sourceUrl, 'Registration cap'));
       }

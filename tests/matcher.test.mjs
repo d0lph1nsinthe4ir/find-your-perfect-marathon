@@ -61,3 +61,12 @@ test('date windows include both boundaries across years and keep near and missin
   const [fromOnly] = rankRaces([examples[2]], {date:{start:'2027-01-05', importance:'1'}});
   assert.equal(fromOnly.score, 100);
 });
+
+test('mostly-loop courses are near matches for a loop preference', () => {
+  const race = {...races[0], attributes:{configuration:{status:'verified', value:'Mostly loop'}}};
+  const [weighted] = rankRaces([race], {configuration:pick('Loop')});
+  assert.equal(weighted.score, 50);
+  assert.equal(weighted.details[0].status, 'Near match');
+  const [required] = rankRaces([race], {configuration:pick('Loop','required')});
+  assert.equal(required.unmet, true);
+});

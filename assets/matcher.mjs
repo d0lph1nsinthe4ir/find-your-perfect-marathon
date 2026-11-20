@@ -1,5 +1,10 @@
 import {criteria, displayValue} from './criteria.mjs';
 
+const mostlyConfiguration = new Map([
+  ['Mostly loop', 'Loop'],
+  ['Mostly out-and-back', 'Out-and-back'],
+]);
+
 export function similarity(criterion, option, value) {
   if (Object.prototype.hasOwnProperty.call(option, 'low')) {
     const distance = Math.max(option.low - value, value - option.high, 0);
@@ -7,6 +12,8 @@ export function similarity(criterion, option, value) {
   }
   if (Array.isArray(value)) return Number(value.includes(option.value));
   if (value === option.value) return 1;
+  if (criterion.key === 'configuration' && (mostlyConfiguration.get(value) === option.value ||
+      mostlyConfiguration.get(option.value) === value)) return 0.5;
   if (!criterion.scale) return 0;
   const index = criterion.options.findIndex(item => item.value === value);
   if (index < 0) return 0;

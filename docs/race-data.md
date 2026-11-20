@@ -57,3 +57,10 @@ uses rounded Celsius values. Source and sample metadata travel with each estimat
 Run `python3 scripts/import_weather.py --checked-on YYYY-MM-DD --cache /tmp/marathon-weather-cache` from the
 repository root to refresh the catalog from the input sheets. Use an API access
 plan appropriate to the project's use and keep the source attribution visible.
+
+Course configuration can also be Mostly loop, Mostly out-and-back, or Multiple
+out-and-backs. A mostly variant gets partial credit for the corresponding exact
+shape when used as a weighted preference. Required course types use exact
+matches. Course type sources are linked from race profiles. A directory's
+course classification describes its published listing. Check the organizer
+for changes to the upcoming edition, especially before booking.
