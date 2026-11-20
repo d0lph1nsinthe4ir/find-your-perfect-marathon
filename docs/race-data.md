@@ -23,3 +23,10 @@ The option vocabulary is defined in `assets/criteria.mjs`. Demo and verified val
 ## Course version fields planned for verified profiles
 
 Each version should hold the race year, version ID, source title and URL, verification date, configuration, terrain, and optional geographic geometry with its coordinate reference system and provenance. A GPX source record should hold the original URL, verification date, license or permission evidence, and an optional hosted file URL when authorized. Record elevation source and processing method alongside any derived metrics. The demo catalog has empty version arrays and the profile intentionally displays availability placeholders.
+
+Imported real editions also have a local calendar `date` (ISO date), a top-level
+`source` with attribution and verification date, and, when available, a
+`courseSource` for an organizer's edition-specific course information page.
+A course information link does not imply that the site holds verified geometry
+or has permission to distribute files. Attributes that lack information may be
+omitted.

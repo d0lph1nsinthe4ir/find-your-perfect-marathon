@@ -1,0 +1,3 @@
+id,name,date,city,country,region,source_url,source_title,verified_on,distance_km,format,course_url
+tokyo-2027,Tokyo Marathon,2027-03-07,Tokyo,Japan,Asia,https://www.marathon.tokyo/en/about/outline/,Tokyo Marathon 2027 race information,2026-11-20,42.195,in-person,https://www.marathon.tokyo/en/about/course/
+boston-2027,Boston Marathon,2027-04-19,Boston,United States,North America,https://www.baa.org/races/boston-marathon/,Boston Athletic Association race information,2026-11-20,42.195,in-person,

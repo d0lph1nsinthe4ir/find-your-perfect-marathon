@@ -8,7 +8,7 @@ const {races} = JSON.parse(readFileSync(new URL('../data/races.json', import.met
 const pick = (value, importance = '1') => ({value, importance});
 
 test('demo records cover the criteria and contain no invented geometry', () => {
-  for (const race of races) {
+  for (const race of races.filter(race => race.demo)) {
     assert.equal(race.demo, true);
     assert.deepEqual(race.courseVersions, []);
     assert.deepEqual(Object.keys(race.attributes), criteria.map(({key}) => key));
@@ -16,7 +16,7 @@ test('demo records cover the criteria and contain no invented geometry', () => {
 });
 
 test('weighted fit rewards exact and near matches and handles missing data separately', () => {
-  const ranked = rankRaces(races, {gain:pick('At most 150 m','4'), cost:pick('At most $130 USD')});
+  const ranked = rankRaces(races.filter(race => race.demo), {gain:pick('At most 150 m','4'), cost:pick('At most $130 USD')});
   assert.equal(ranked[0].race.id, 'tideline');
   const estuary = ranked.find(x => x.race.id === 'blue-estuary');
   assert.equal(estuary.score, 98);
@@ -27,7 +27,7 @@ test('weighted fit rewards exact and near matches and handles missing data separ
 });
 
 test('requirements separate known misses from unknown eligibility', () => {
-  const ranked = rankRaces(races, {boston:pick('eligible','required'), temperature:pick('10–16 °C')});
+  const ranked = rankRaces(races.filter(race => race.demo), {boston:pick('eligible','required'), temperature:pick('10–16 °C')});
   assert.equal(ranked[0].race.id, 'meridian-city');
   assert.equal(ranked.find(x => x.race.id === 'silver-grove').unconfirmed, true);
   const lowSun = ranked.find(x => x.race.id === 'low-sun');

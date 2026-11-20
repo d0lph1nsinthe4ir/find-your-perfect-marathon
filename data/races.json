@@ -405,6 +405,68 @@
         }
       },
       "courseVersions": []
+    },
+    {
+      "id": "tokyo-2027",
+      "name": "Tokyo Marathon",
+      "setting": "Tokyo, Japan",
+      "date": "2027-03-07",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.marathon.tokyo/en/about/outline/",
+        "sourceTitle": "Tokyo Marathon 2027 race information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://www.marathon.tokyo/en/about/outline/",
+          "sourceTitle": "Tokyo Marathon 2027 race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://www.marathon.tokyo/en/about/outline/",
+          "sourceTitle": "Tokyo Marathon 2027 race information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": [],
+      "courseSource": {
+        "sourceUrl": "https://www.marathon.tokyo/en/about/course/",
+        "verifiedOn": "2026-11-20"
+      }
+    },
+    {
+      "id": "boston-2027",
+      "name": "Boston Marathon",
+      "setting": "Boston, United States",
+      "date": "2027-04-19",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.baa.org/races/boston-marathon/",
+        "sourceTitle": "Boston Athletic Association race information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://www.baa.org/races/boston-marathon/",
+          "sourceTitle": "Boston Athletic Association race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://www.baa.org/races/boston-marathon/",
+          "sourceTitle": "Boston Athletic Association race information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
     }
   ]
 }

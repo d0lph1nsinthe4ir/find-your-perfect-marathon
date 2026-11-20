@@ -8,6 +8,13 @@ const profile = $('profile');
 const results = $('results');
 let races = [];
 
+function sourceLink(url, label) {
+  const link = element('a', label);
+  const source = new URL(url);
+  if (source.protocol === 'https:') link.href = source.href;
+  return link;
+}
+
 function element(tag, text, className) {
   const node = document.createElement(tag);
   if (text) node.textContent = text;
@@ -64,7 +71,7 @@ function resultCard(result) {
   link.href = '#race/' + race.id;
   title.append(link);
   row.append(title, element('span', score === null ? 'Unscored' : score + '% fit', 'score'));
-  card.append(row, element('p', race.setting + ' · Demo race', 'meta'));
+  card.append(row, element('p', [race.setting, race.date, race.demo && 'Demo race'].filter(Boolean).join(' · '), 'meta'));
   if (coverage !== null) card.append(element('p', coverage + '% weighted data coverage', 'meta'));
   if (unconfirmed) card.append(element('p', 'One or more requirements need confirmation.'));
   if (details.length) {
@@ -99,7 +106,7 @@ form.addEventListener('submit', event => {
   const hasPreferences = [...Object.values(selections)].some(item => item.value);
   rankings.append(element('p', hasPreferences ?
     'Fit is the percentage of available weighted points earned. Near misses can earn partial points. Coverage shows how much weighted data is available.' :
-    'Choose a preference to score races. The demo races are listed alphabetically.', 'muted'));
+    'Choose a preference to score races. Races are listed alphabetically.', 'muted'));
   if (!matches.length) rankings.append(element('p', 'No race confirms all your requirements.'));
   for (const match of matches) rankings.append(resultCard(match));
   for (const [title, group] of [['Requirements to confirm',pending],['Does not meet requirements',excluded]]) {
@@ -134,8 +141,15 @@ function renderRoute(initial = false) {
   title.tabIndex = -1;
   profile.replaceChildren(back, title);
   if (race) {
-    profile.append(element('p', race.setting, 'meta'),
-      element('p', 'Demo race profile · Fictional attributes for testing the matcher.', 'demo'));
+    profile.append(element('p', [race.setting, race.date].filter(Boolean).join(' · '), 'meta'));
+    if (race.demo) {
+      profile.append(element('p', 'Demo race profile · Fictional attributes for testing the matcher.', 'demo'));
+    } else if (race.source) {
+      const attribution = element('p');
+      attribution.append(sourceLink(race.source.sourceUrl, race.source.sourceTitle),
+        ' · Checked ' + race.source.verifiedOn);
+      profile.append(attribution);
+    }
     const facts = element('dl', '', 'facts');
     for (const criterion of criteria) {
       const field = race.attributes[criterion.key];
@@ -152,9 +166,12 @@ function renderRoute(initial = false) {
     map.append(icon(criteria.find(item => item.key === 'region').icon),
       element('strong', 'Course map unavailable'),
       element('p', 'A map will appear when sourced course geometry is available.'));
+    if (race.courseSource) {
+      map.append(sourceLink(race.courseSource.sourceUrl, 'View the organizer’s course information'));
+    }
     const gpx = element('div');
     gpx.append(element('h3', 'GPX and course versions'),
-      element('p', 'No GPX source, downloadable file or race-year course version is available for this demonstration race.'),
+      element('p', 'No GPX source, downloadable file or race-year course version is available for this edition.'),
       element('h3', 'Elevation and gradients'),
       element('p', 'Elevation profiles and significant climbs or descents require a verified course route.'));
     panel.append(map, gpx);
@@ -171,7 +188,12 @@ async function start() {
     const response = await fetch(new URL('../data/races.json', import.meta.url));
     if (!response.ok) throw new Error('Race data request failed');
     const data = await response.json();
-    races = data.races;
+    const realRaces = data.races.filter(race => !race.demo);
+    races = realRaces.length ? realRaces : data.races;
+    if (realRaces.length) {
+      $('catalog-note').textContent = 'Course details vary by race. Missing and unverified details are shown separately.';
+      $('footer-note').textContent = 'Prototype · Sourced race listings';
+    }
     $('submit').disabled = false;
     renderRoute(true);
     window.addEventListener('hashchange', () => renderRoute());

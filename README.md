@@ -19,3 +19,7 @@ In **Settings → Pages**, select **Deploy from a branch**, choose **main** and 
 - `data/races.json` contains structured sample records.
 
 See [race data and scoring](docs/race-data.md) and the [development roadmap](docs/roadmap.md).
+
+## Import race editions in bulk
+
+See [bulk catalog import](docs/bulk-import.md) for the spreadsheet format, validation and update commands.
