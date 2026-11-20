@@ -51,8 +51,8 @@ daily average uses five hourly values from 7 through 11 a.m. local time. Race
 dates in `data/weather-editions.csv` also have sourced historical editions.
 For those, the matcher uses the median of the past edition morning averages
 and the profiles show each edition's low and high across its sampled hours.
-The historical start hour is rounded to the nearest whole hour. The matcher
-uses rounded Celsius values. Source and sample metadata travel with each estimate.
+The historical start hour is rounded to the nearest whole hour. The catalog stores Celsius values. The site converts to rounded Fahrenheit for
+matching and display. Source and sample metadata travel with each estimate.
 
 Run `python3 scripts/import_weather.py --checked-on YYYY-MM-DD --cache /tmp/marathon-weather-cache` from the
 repository root to refresh the catalog from the input sheets. Use an API access

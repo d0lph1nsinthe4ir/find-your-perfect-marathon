@@ -27,7 +27,7 @@ test('weighted fit rewards exact and near matches and handles missing data separ
 });
 
 test('requirements separate known misses from unknown eligibility', () => {
-  const ranked = rankRaces(races.filter(race => race.demo), {boston:pick('eligible','required'), temperature:pick('10–16 °C')});
+  const ranked = rankRaces(races.filter(race => race.demo), {boston:pick('eligible','required'), temperature:pick('50–61 °F')});
   assert.equal(ranked[0].race.id, 'meridian-city');
   assert.equal(ranked.find(x => x.race.id === 'silver-grove').unconfirmed, true);
   const lowSun = ranked.find(x => x.race.id === 'low-sun');
@@ -79,4 +79,14 @@ test('a partial scenery record confirms only the tagged scenery', () => {
   assert.equal(forest.unmet, false);
   assert.equal(forest.unconfirmed, true);
   assert.equal(forest.details[0].status, 'Unverified');
+});
+
+test('Fahrenheit preferences score the same temperature that the result displays', () => {
+  const racesWithTemperatures = [9.8, 16, 17].map((value, index) => ({
+    id:String(index), name:String(index), attributes:{temperature:{value,status:'verified'}},
+  }));
+  const results = rankRaces(racesWithTemperatures, {temperature:pick('50–61 °F','required')});
+  assert.deepEqual(results.map(item => [item.details[0].actual, item.unmet]), [
+    ['50 °F', false], ['61 °F', false], ['63 °F', true],
+  ]);
 });

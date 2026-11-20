@@ -1,4 +1,4 @@
-import {criteria, displayValue, importance} from './criteria.mjs';
+import {criteria, displayValue, formatTemperature, importance} from './criteria.mjs';
 import {rankRaces} from './matcher.mjs';
 
 const $ = id => document.getElementById(id);
@@ -291,7 +291,7 @@ function renderRaceWeather(temperature) {
     'Seasonal estimate based on ' + temperature.sampleDays + ' mornings within three days of the scheduled month and day, ' +
       temperature.years[0] + '–' + temperature.years[temperature.years.length - 1] + ', at 7–11 a.m. local time.';
   section.append(heading, element('p', 'Typical morning near ' + temperature.location + ' · ' +
-    formatWeatherTemperature(temperature.value)), element('p', basis, 'meta'));
+    formatTemperature(temperature.value)), element('p', basis, 'meta'));
 
   if (pastEditions) {
     const list = element('ul', '', 'weather-history');
@@ -300,8 +300,8 @@ function renderRaceWeather(temperature) {
       const entry = element('li');
       const start = String(edition.startHour).padStart(2, '0') + ':00';
       const end = String(edition.startHour + 4).padStart(2, '0') + ':00';
-      entry.append(date, element('span', formatWeatherTemperature(edition.low) + ' to ' +
-        formatWeatherTemperature(edition.high) + ' · ' + start + '–' + end + ' local'));
+      entry.append(date, element('span', formatTemperature(edition.low) + ' to ' +
+        formatTemperature(edition.high) + ' · ' + start + '–' + end + ' local'));
       list.append(entry);
     }
     section.append(list);
@@ -315,10 +315,6 @@ function renderRaceWeather(temperature) {
   }
   section.append(source);
   return section;
-}
-
-function formatWeatherTemperature(celsius) {
-  return celsius + ' °C / ' + Math.round(celsius * 9 / 5 + 32) + ' °F';
 }
 
 async function start() {

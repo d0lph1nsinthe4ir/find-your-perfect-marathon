@@ -1,4 +1,4 @@
-import {criteria, displayValue} from './criteria.mjs';
+import {criteria, displayValue, fahrenheit} from './criteria.mjs';
 
 const mostlyVariant = new Map([
   ['Mostly loop', 'Loop'],
@@ -9,7 +9,8 @@ const mostlyVariant = new Map([
 
 export function similarity(criterion, option, value) {
   if (Object.prototype.hasOwnProperty.call(option, 'low')) {
-    const distance = Math.max(option.low - value, value - option.high, 0);
+    const measurement = criterion.key === 'temperature' ? fahrenheit(value) : value;
+    const distance = Math.max(option.low - measurement, measurement - option.high, 0);
     return Math.max(0, 1 - distance / criterion.scale);
   }
   if (Array.isArray(value)) return Number(value.includes(option.value));
