@@ -30,3 +30,7 @@ Imported real editions also have a local calendar `date` (ISO date), a top-level
 A course information link does not imply that the site holds verified geometry
 or has permission to distribute files. Attributes that lack information may be
 omitted.
+
+Real records include `country`, a country or territory display name used for the
+exact country filter. Where the organizer publishes a marathon-specific entry cap
+as field-size evidence, set `basis` to `registration cap` and link its source.

@@ -437,7 +437,8 @@
       "courseSource": {
         "sourceUrl": "https://www.marathon.tokyo/en/about/course/",
         "verifiedOn": "2026-11-20"
-      }
+      },
+      "country": "Japan"
     },
     {
       "id": "boston-2027",
@@ -466,7 +467,8 @@
           "verifiedOn": "2026-11-20"
         }
       },
-      "courseVersions": []
+      "courseVersions": [],
+      "country": "United States"
     },
     {
       "id": "houston-2027",
@@ -495,7 +497,8 @@
           "verifiedOn": "2026-11-20"
         }
       },
-      "courseVersions": []
+      "courseVersions": [],
+      "country": "United States"
     },
     {
       "id": "hong-kong-2027",
@@ -524,7 +527,8 @@
           "verifiedOn": "2026-11-20"
         }
       },
-      "courseVersions": []
+      "courseVersions": [],
+      "country": "China"
     },
     {
       "id": "rome-2027",
@@ -553,7 +557,8 @@
           "verifiedOn": "2026-11-20"
         }
       },
-      "courseVersions": []
+      "courseVersions": [],
+      "country": "Italy"
     },
     {
       "id": "seoul-2027",
@@ -582,7 +587,8 @@
           "verifiedOn": "2026-11-20"
         }
       },
-      "courseVersions": []
+      "courseVersions": [],
+      "country": "South Korea"
     },
     {
       "id": "rotterdam-2027",
@@ -611,7 +617,8 @@
           "verifiedOn": "2026-11-20"
         }
       },
-      "courseVersions": []
+      "courseVersions": [],
+      "country": "Netherlands"
     },
     {
       "id": "manchester-2027",
@@ -640,7 +647,8 @@
           "verifiedOn": "2026-11-20"
         }
       },
-      "courseVersions": []
+      "courseVersions": [],
+      "country": "United Kingdom"
     },
     {
       "id": "vienna-2027",
@@ -669,7 +677,8 @@
           "verifiedOn": "2026-11-20"
         }
       },
-      "courseVersions": []
+      "courseVersions": [],
+      "country": "Austria"
     },
     {
       "id": "big-sur-2027",
@@ -696,13 +705,21 @@
           "sourceUrl": "https://www.bigsurmarathon.org/races/marathon/",
           "sourceTitle": "Big Sur Marathon race and course information",
           "verifiedOn": "2026-11-20"
+        },
+        "boston": {
+          "value": "eligible",
+          "status": "verified",
+          "sourceUrl": "https://www.bigsurmarathon.org/",
+          "sourceTitle": "Big Sur Marathon official website",
+          "verifiedOn": "2026-11-20"
         }
       },
       "courseVersions": [],
       "courseSource": {
         "sourceUrl": "https://www.bigsurmarathon.org/races/marathon/",
         "verifiedOn": "2026-11-20"
-      }
+      },
+      "country": "United States"
     },
     {
       "id": "eugene-2027",
@@ -735,7 +752,8 @@
       "courseSource": {
         "sourceUrl": "https://www.eugenemarathon.com/marathon",
         "verifiedOn": "2026-11-20"
-      }
+      },
+      "country": "United States"
     },
     {
       "id": "prague-2027",
@@ -764,7 +782,8 @@
           "verifiedOn": "2026-11-20"
         }
       },
-      "courseVersions": []
+      "courseVersions": [],
+      "country": "Czechia"
     },
     {
       "id": "vancouver-2027",
@@ -797,7 +816,8 @@
       "courseSource": {
         "sourceUrl": "https://www.bmovanmarathon.com/marathon",
         "verifiedOn": "2026-11-20"
-      }
+      },
+      "country": "Canada"
     },
     {
       "id": "copenhagen-2027",
@@ -830,7 +850,8 @@
       "courseSource": {
         "sourceUrl": "https://map.copenhagenmarathon.dk/?lang=en",
         "verifiedOn": "2026-11-20"
-      }
+      },
+      "country": "Denmark"
     },
     {
       "id": "cape-town-2027",
@@ -859,7 +880,8 @@
           "verifiedOn": "2026-11-20"
         }
       },
-      "courseVersions": []
+      "courseVersions": [],
+      "country": "South Africa"
     },
     {
       "id": "ottawa-2027",
@@ -892,7 +914,8 @@
       "courseSource": {
         "sourceUrl": "https://www.runottawa.ca/races-and-events/ottawa-marathon/",
         "verifiedOn": "2026-11-20"
-      }
+      },
+      "country": "Canada"
     },
     {
       "id": "grandmas-2027",
@@ -921,7 +944,8 @@
           "verifiedOn": "2026-11-20"
         }
       },
-      "courseVersions": []
+      "courseVersions": [],
+      "country": "United States"
     },
     {
       "id": "gold-coast-2027",
@@ -954,7 +978,8 @@
       "courseSource": {
         "sourceUrl": "https://goldcoastmarathon.com.au/races/marathon/",
         "verifiedOn": "2026-11-20"
-      }
+      },
+      "country": "Australia"
     },
     {
       "id": "sydney-2027",
@@ -983,7 +1008,8 @@
           "verifiedOn": "2026-11-20"
         }
       },
-      "courseVersions": []
+      "courseVersions": [],
+      "country": "Australia"
     },
     {
       "id": "chicago-2027",
@@ -1012,7 +1038,8 @@
           "verifiedOn": "2026-11-20"
         }
       },
-      "courseVersions": []
+      "courseVersions": [],
+      "country": "United States"
     },
     {
       "id": "auckland-2027",
@@ -1045,7 +1072,8 @@
       "courseSource": {
         "sourceUrl": "https://aucklandmarathon.co.nz/race-info/full-marathon",
         "verifiedOn": "2026-11-20"
-      }
+      },
+      "country": "New Zealand"
     },
     {
       "id": "richmond-2027",
@@ -1074,7 +1102,2415 @@
           "verifiedOn": "2026-11-20"
         }
       },
+      "courseVersions": [],
+      "country": "United States"
+    },
+    {
+      "id": "aims-5-2027",
+      "name": "Neujahrsmarathon Zürich",
+      "setting": "Zürich, Switzerland",
+      "date": "2027-01-01",
+      "country": "Switzerland",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/5.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/5.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/5.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
       "courseVersions": []
+    },
+    {
+      "id": "aims-20159-2027",
+      "name": "Freshworks Chennai Marathon",
+      "setting": "Chennai, India",
+      "date": "2027-01-03",
+      "country": "India",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/20159.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/20159.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/20159.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10228-2027",
+      "name": "PolarNight Marathon",
+      "setting": "Tromsø, Norway",
+      "date": "2027-01-09",
+      "country": "Norway",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10228.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10228.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10228.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10157-2027",
+      "name": "Marathon Mérida Banorte",
+      "setting": "Mérida, Mexico",
+      "date": "2027-01-10",
+      "country": "Mexico",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10157.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10157.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10157.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-632-2027",
+      "name": "C&D Xiamen Marathon",
+      "setting": "Xiamen, China",
+      "date": "2027-01-10",
+      "country": "China",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/632.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/632.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/632.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10491-2027",
+      "name": "Doha Marathon by Ooredoo",
+      "setting": "Doha, Qatar",
+      "date": "2027-01-15",
+      "country": "Qatar",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10491.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10491.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10491.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10180-2027",
+      "name": "Chombeung Marathon",
+      "setting": "Chom Bueng, Thailand",
+      "date": "2027-01-17",
+      "country": "Thailand",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10180.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10180.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10180.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-638-2027",
+      "name": "Maui Oceanfront Marathon",
+      "setting": "Maui, United States",
+      "date": "2027-01-17",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/638.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/638.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/638.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-635-2027",
+      "name": "Tata Mumbai Marathon",
+      "setting": "Mumbai, India",
+      "date": "2027-01-17",
+      "country": "India",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/635.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/635.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/635.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10224-2027",
+      "name": "Buriram Marathon Presented by Chang Mineral",
+      "setting": "Buriram, Thailand",
+      "date": "2027-01-23",
+      "country": "Thailand",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10224.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10224.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10224.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-918-2027",
+      "name": "Bank of Cyprus Nicosia Marathon",
+      "setting": "Nicosia, Cyprus",
+      "date": "2027-01-24",
+      "country": "Cyprus",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/918.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/918.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/918.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10131-2027",
+      "name": "Funchal Marathon",
+      "setting": "Funchal, Portugal",
+      "date": "2027-01-31",
+      "country": "Portugal",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10131.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10131.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10131.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10493-2027",
+      "name": "Johannesbad Thermen-Marathon",
+      "setting": "Bad Füssing, Germany",
+      "date": "2027-01-31",
+      "country": "Germany",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10493.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10493.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10493.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-642-2027",
+      "name": "Marrakech International Marathon",
+      "setting": "Marrakech, Morocco",
+      "date": "2027-01-31",
+      "country": "Morocco",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/642.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/642.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Africa",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/642.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-644-2027",
+      "name": "Beppu-Oita Mainichi Marathon",
+      "setting": "Beppu and Ōita, Japan",
+      "date": "2027-02-07",
+      "country": "Japan",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/644.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/644.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/644.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10251-2027",
+      "name": "Ehime Marathon",
+      "setting": "Matsuyama, Japan",
+      "date": "2027-02-07",
+      "country": "Japan",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10251.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10251.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10251.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-656-2027",
+      "name": "Kilimanjaro Marathon",
+      "setting": "Moshi, Tanzania",
+      "date": "2027-02-07",
+      "country": "Tanzania",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/656.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/656.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Africa",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/656.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10386-2027",
+      "name": "Pokhara International Marathon",
+      "setting": "Pokhara, Nepal",
+      "date": "2027-02-13",
+      "country": "Nepal",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10386.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10386.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10386.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10175-2027",
+      "name": "AU Jaipur Marathon",
+      "setting": "Jaipur, India",
+      "date": "2027-02-14",
+      "country": "India",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10175.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10175.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10175.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10156-2027",
+      "name": "Split Marathon",
+      "setting": "Split, Croatia",
+      "date": "2027-02-14",
+      "country": "Croatia",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10156.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10156.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10156.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-655-2027",
+      "name": "Maratón CAF Caracas",
+      "setting": "Caracas, Venezuela",
+      "date": "2027-02-21",
+      "country": "Venezuela",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/655.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/655.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "South America",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/655.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-636-2027",
+      "name": "China Coast Marathon",
+      "setting": "Hong Kong, China",
+      "date": "2027-02-21",
+      "country": "China",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/636.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/636.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/636.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10041-2027",
+      "name": "Kitakyushu Marathon",
+      "setting": "Kitakyushu, Japan",
+      "date": "2027-02-21",
+      "country": "Japan",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10041.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10041.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10041.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-940-2027",
+      "name": "Kyoto Marathon",
+      "setting": "Kyoto, Japan",
+      "date": "2027-02-21",
+      "country": "Japan",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/940.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/940.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/940.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-652-2027",
+      "name": "Zurich Maratón de Sevilla",
+      "setting": "Seville, Spain",
+      "date": "2027-02-21",
+      "country": "Spain",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/652.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/652.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/652.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10052-2027",
+      "name": "Maratona di San Valentino",
+      "setting": "Terni, Italy",
+      "date": "2027-02-21",
+      "country": "Italy",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10052.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10052.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10052.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-683-2027",
+      "name": "Tel Aviv Bank Leumi Marathon",
+      "setting": "Tel Aviv, Israel",
+      "date": "2027-02-26",
+      "country": "Israel",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/683.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/683.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/683.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-698-2027",
+      "name": "Daegu Marathon",
+      "setting": "Daegu, South Korea",
+      "date": "2027-02-28",
+      "country": "South Korea",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/698.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/698.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/698.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-895-2027",
+      "name": "Malta Marathon",
+      "setting": "Buġibba, Malta",
+      "date": "2027-02-28",
+      "country": "Malta",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/895.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/895.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/895.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10167-2027",
+      "name": "Cognizant New Delhi Marathon",
+      "setting": "New Delhi, India",
+      "date": "2027-02-28",
+      "country": "India",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10167.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10167.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10167.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-874-2027",
+      "name": "Osaka Marathon",
+      "setting": "Osaka, Japan",
+      "date": "2027-02-28",
+      "country": "Japan",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/874.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/874.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/874.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10202-2027",
+      "name": "Saipan Marathon",
+      "setting": "Saipan, Northern Mariana Islands",
+      "date": "2027-03-06",
+      "country": "Northern Mariana Islands",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10202.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10202.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Oceania",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10202.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-664-2027",
+      "name": "Maratón Internacional Lala",
+      "setting": "Torreón, Mexico",
+      "date": "2027-03-07",
+      "country": "Mexico",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/664.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/664.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/664.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-682-2027",
+      "name": "Zurich Marató de Barcelona",
+      "setting": "Barcelona, Spain",
+      "date": "2027-03-14",
+      "country": "Spain",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/682.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/682.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/682.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-672-2027",
+      "name": "Nagoya Women’s Marathon",
+      "setting": "Nagoya, Japan",
+      "date": "2027-03-14",
+      "country": "Japan",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/672.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/672.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/672.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10072-2027",
+      "name": "Tokushima Marathon",
+      "setting": "Tokushima, Japan",
+      "date": "2027-03-14",
+      "country": "Japan",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10072.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10072.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10072.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-674-2027",
+      "name": "Jerusalem Marathon",
+      "setting": "Jerusalem, Israel",
+      "date": "2027-03-19",
+      "country": "Israel",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/674.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/674.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/674.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10305-2027",
+      "name": "Chongqing International Marathon",
+      "setting": "Chongqing, China",
+      "date": "2027-03-21",
+      "country": "China",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10305.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10305.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10305.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10058-2027",
+      "name": "Danang International Marathon",
+      "setting": "Da Nang, Vietnam",
+      "date": "2027-03-21",
+      "country": "Vietnam",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10058.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10058.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10058.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-678-2027",
+      "name": "Standard Chartered Stanley Marathon",
+      "setting": "Stanley, Falkland Islands",
+      "date": "2027-03-21",
+      "country": "Falkland Islands",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/678.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/678.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "South America",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/678.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-1152-2027",
+      "name": "New Taipei City Wan Jin Shi Marathon",
+      "setting": "New Taipei City, Taiwan",
+      "date": "2027-03-21",
+      "country": "Taiwan",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/1152.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/1152.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/1152.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10488-2027",
+      "name": "Hobart Marathon Festival",
+      "setting": "Hobart, Australia",
+      "date": "2027-04-04",
+      "country": "Australia",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10488.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10488.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Oceania",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10488.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-702-2027",
+      "name": "Milano Marathon",
+      "setting": "Milan, Italy",
+      "date": "2027-04-04",
+      "country": "Italy",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/702.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/702.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/702.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-687-2027",
+      "name": "ČSOB Bratislava Marathon",
+      "setting": "Bratislava, Slovakia",
+      "date": "2027-04-11",
+      "country": "Slovakia",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/687.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/687.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/687.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10148-2027",
+      "name": "Wizz Air Cluj-Napoca Marathon",
+      "setting": "Cluj-Napoca, Romania",
+      "date": "2027-04-11",
+      "country": "Romania",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10148.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10148.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10148.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-710-2027",
+      "name": "Enschede Marathon",
+      "setting": "Enschede, Netherlands",
+      "date": "2027-04-11",
+      "country": "Netherlands",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/710.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/710.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/710.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10018-2027",
+      "name": "ADAC Marathon Hannover",
+      "setting": "Hanover, Germany",
+      "date": "2027-04-11",
+      "country": "Germany",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10018.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10018.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10018.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-713-2027",
+      "name": "Ochsner Sport Zürich Marathon",
+      "setting": "Zürich, Switzerland",
+      "date": "2027-04-11",
+      "country": "Switzerland",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/713.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/713.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/713.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-708-2027",
+      "name": "Cracovia Marathon",
+      "setting": "Kraków, Poland",
+      "date": "2027-04-18",
+      "country": "Poland",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/708.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/708.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/708.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-703-2027",
+      "name": "Nagano Marathon",
+      "setting": "Nagano, Japan",
+      "date": "2027-04-18",
+      "country": "Japan",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/703.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/703.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/703.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10089-2027",
+      "name": "TUI Rhodes Marathon",
+      "setting": "Rhodes, Greece",
+      "date": "2027-04-18",
+      "country": "Greece",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10089.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10089.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10089.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-20170-2027",
+      "name": "Rimini Marathon",
+      "setting": "Rimini, Italy",
+      "date": "2027-04-18",
+      "country": "Italy",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/20170.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/20170.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/20170.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10004-2027",
+      "name": "Fjordkraft Bergen City Marathon",
+      "setting": "Bergen, Norway",
+      "date": "2027-04-24",
+      "country": "Norway",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10004.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10004.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10004.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10431-2027",
+      "name": "Maratón de Cali",
+      "setting": "Cali, Colombia",
+      "date": "2027-04-25",
+      "country": "Colombia",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10431.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10431.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "South America",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10431.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-716-2027",
+      "name": "Haspa Marathon Hamburg",
+      "setting": "Hamburg, Germany",
+      "date": "2027-04-25",
+      "country": "Germany",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/716.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/716.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/716.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10109-2027",
+      "name": "Kaunas Marathon",
+      "setting": "Kaunas, Lithuania",
+      "date": "2027-04-25",
+      "country": "Lithuania",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10109.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10109.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10109.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-714-2027",
+      "name": "Zurich Rock ’n’ Roll Running Series Madrid",
+      "setting": "Madrid, Spain",
+      "date": "2027-04-25",
+      "country": "Spain",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/714.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/714.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/714.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-1163-2027",
+      "name": "Brooks Adelaide Marathon Festival",
+      "setting": "Adelaide, Australia",
+      "date": "2027-05-02",
+      "country": "Australia",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/1163.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/1163.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Oceania",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/1163.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-1113-2027",
+      "name": "Phoenix Energy Belfast City Marathon",
+      "setting": "Belfast, United Kingdom",
+      "date": "2027-05-02",
+      "country": "United Kingdom",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/1113.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/1113.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/1113.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10199-2027",
+      "name": "Maratón Internacional de Mendoza",
+      "setting": "Mendoza, Argentina",
+      "date": "2027-05-02",
+      "country": "Argentina",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10199.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10199.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "South America",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10199.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-724-2027",
+      "name": "Toronto Marathon",
+      "setting": "Toronto, Canada",
+      "date": "2027-05-02",
+      "country": "Canada",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/724.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/724.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/724.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-1160-2027",
+      "name": "Milton Keynes Marathon",
+      "setting": "Milton Keynes, United Kingdom",
+      "date": "2027-05-03",
+      "country": "United Kingdom",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/1160.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/1160.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/1160.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10055-2027",
+      "name": "Alliance Bank Borneo International Marathon",
+      "setting": "Kota Kinabalu, Malaysia",
+      "date": "2027-05-09",
+      "country": "Malaysia",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10055.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10055.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10055.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-711-2027",
+      "name": "Diacore Gaborone Marathon",
+      "setting": "Gaborone, Botswana",
+      "date": "2027-05-09",
+      "country": "Botswana",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/711.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/711.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Africa",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/711.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-1153-2027",
+      "name": "Generali Genève Marathon",
+      "setting": "Geneva, Switzerland",
+      "date": "2027-05-09",
+      "country": "Switzerland",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/1153.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/1153.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/1153.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-690-2027",
+      "name": "Maratón de Santiago",
+      "setting": "Santiago, Chile",
+      "date": "2027-05-16",
+      "country": "Chile",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/690.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/690.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "South America",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/690.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-734-2027",
+      "name": "Lima 42K Marathon",
+      "setting": "Lima, Peru",
+      "date": "2027-05-23",
+      "country": "Peru",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/734.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/734.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "South America",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/734.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10001-2027",
+      "name": "Salzburg Marathon",
+      "setting": "Salzburg, Austria",
+      "date": "2027-05-23",
+      "country": "Austria",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10001.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10001.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10001.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-733-2027",
+      "name": "WVV Marathon Wuerzburg",
+      "setting": "Würzburg, Germany",
+      "date": "2027-05-23",
+      "country": "Germany",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/733.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/733.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/733.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-796-2027",
+      "name": "Tórshavn Marathon",
+      "setting": "Tórshavn, Faroe Islands",
+      "date": "2027-06-06",
+      "country": "Faroe Islands",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/796.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "June",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/796.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/796.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-10103-2027",
+      "name": "Waterford Viking Marathon",
+      "setting": "Waterford, Ireland",
+      "date": "2027-06-20",
+      "country": "Ireland",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/10103.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "June",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10103.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/10103.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-785-2027",
+      "name": "Abbott Longford Marathon",
+      "setting": "Longford, Ireland",
+      "date": "2027-08-29",
+      "country": "Ireland",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/785.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "August",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/785.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/785.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "aims-821-2027",
+      "name": "Loch Ness Marathon",
+      "setting": "Loch Ness, United Kingdom",
+      "date": "2027-09-26",
+      "country": "United Kingdom",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aims-worldrunning.org/races/821.html",
+        "sourceTitle": "AIMS member race listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "September",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/821.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://aims-worldrunning.org/races/821.html",
+          "sourceTitle": "AIMS member race listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "mesa-2027",
+      "name": "Mesa Marathon",
+      "setting": "Mesa, United States",
+      "date": "2027-02-13",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://mesamarathon.com/info?tab=quick-info",
+        "sourceTitle": "Mesa Marathon race information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://mesamarathon.com/info?tab=quick-info",
+          "sourceTitle": "Mesa Marathon race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://mesamarathon.com/info?tab=quick-info",
+          "sourceTitle": "Mesa Marathon race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "boston": {
+          "value": "eligible",
+          "status": "verified",
+          "sourceUrl": "https://mesamarathon.com/faqs",
+          "sourceTitle": "Mesa Marathon FAQ",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "glass-city-2027",
+      "name": "Glass City Marathon",
+      "setting": "Toledo, United States",
+      "date": "2027-04-25",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://glasscitymarathon.org/",
+        "sourceTitle": "Glass City Marathon official website",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://glasscitymarathon.org/",
+          "sourceTitle": "Glass City Marathon official website",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://glasscitymarathon.org/",
+          "sourceTitle": "Glass City Marathon official website",
+          "verifiedOn": "2026-11-20"
+        },
+        "boston": {
+          "value": "eligible",
+          "status": "verified",
+          "sourceUrl": "https://glasscitymarathon.org/mercy-health-glass-city-marathon-toledo/",
+          "sourceTitle": "Glass City Marathon course certification",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "sugarloaf-2027",
+      "name": "Sugarloaf Marathon",
+      "setting": "Carrabassett Valley, United States",
+      "date": "2027-05-16",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.sugarloaf.com/events/marathon",
+        "sourceTitle": "Sugarloaf Marathon race information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://www.sugarloaf.com/events/marathon",
+          "sourceTitle": "Sugarloaf Marathon race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://www.sugarloaf.com/events/marathon",
+          "sourceTitle": "Sugarloaf Marathon race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "boston": {
+          "value": "eligible",
+          "status": "verified",
+          "sourceUrl": "https://www.sugarloaf.com/events/marathon",
+          "sourceTitle": "Sugarloaf Marathon race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "field": {
+          "value": 1500,
+          "status": "verified",
+          "basis": "registration cap",
+          "sourceUrl": "https://www.sugarloaf.com/events/marathon",
+          "sourceTitle": "Sugarloaf Marathon runner limit",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "bayshore-2027",
+      "name": "Bayshore Marathon",
+      "setting": "Traverse City, United States",
+      "date": "2027-05-29",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.bayshoremarathon.org/full-marathon",
+        "sourceTitle": "Bayshore Marathon race and course information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://www.bayshoremarathon.org/full-marathon",
+          "sourceTitle": "Bayshore Marathon race and course information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://www.bayshoremarathon.org/full-marathon",
+          "sourceTitle": "Bayshore Marathon race and course information",
+          "verifiedOn": "2026-11-20"
+        },
+        "boston": {
+          "value": "eligible",
+          "status": "verified",
+          "sourceUrl": "https://www.bayshoremarathon.org/full-marathon",
+          "sourceTitle": "Bayshore Marathon USATF course certification",
+          "verifiedOn": "2026-11-20"
+        },
+        "field": {
+          "value": 2000,
+          "status": "verified",
+          "basis": "registration cap",
+          "sourceUrl": "https://www.bayshoremarathon.org/full-marathon",
+          "sourceTitle": "Bayshore Marathon runner limit",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": [],
+      "courseSource": {
+        "sourceUrl": "https://www.bayshoremarathon.org/full-marathon",
+        "verifiedOn": "2026-11-20"
+      }
+    },
+    {
+      "id": "missoula-2027",
+      "name": "Missoula Marathon",
+      "setting": "Missoula, United States",
+      "date": "2027-06-27",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.missoulamarathon.org/events/marathon/",
+        "sourceTitle": "Missoula Marathon race and course information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "June",
+          "status": "verified",
+          "sourceUrl": "https://www.missoulamarathon.org/events/marathon/",
+          "sourceTitle": "Missoula Marathon race and course information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://www.missoulamarathon.org/events/marathon/",
+          "sourceTitle": "Missoula Marathon race and course information",
+          "verifiedOn": "2026-11-20"
+        },
+        "boston": {
+          "value": "eligible",
+          "status": "verified",
+          "sourceUrl": "https://www.missoulamarathon.org/events/marathon/",
+          "sourceTitle": "Missoula Marathon race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "field": {
+          "value": 2150,
+          "status": "verified",
+          "basis": "registration cap",
+          "sourceUrl": "https://www.missoulamarathon.org/race-info-2/",
+          "sourceTitle": "Missoula Marathon registration cap",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": [],
+      "courseSource": {
+        "sourceUrl": "https://www.missoulamarathon.org/events/marathon/",
+        "verifiedOn": "2026-11-20"
+      }
     }
   ]
 }

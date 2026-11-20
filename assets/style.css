@@ -2,3 +2,6 @@
 @media(min-width:40rem){.criteria,.course-panel,.section-head{grid-template-columns:1fr 1fr}.criterion{padding:1.15rem}.wrap{width:min(100% - 4rem,75rem)}}
 @media(min-width:60rem){.hero{grid-template-columns:1.1fr 1fr;align-items:center;gap:2.4rem;padding-block:5rem}.criteria{grid-template-columns:repeat(3,minmax(0,1fr))}.finder{padding-top:4rem}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+#country-filter{align-items:center;margin-bottom:1rem;border:1px solid var(--line)}
+#country-filter .meta{font-size:.85rem}

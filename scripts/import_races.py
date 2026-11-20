@@ -66,7 +66,7 @@ def import_batch(rows, catalog):
                           "month": {"value": MONTHS[day.month - 1], "status": "verified", **source},
                           "region": {"value": row["region"], "status": "verified", **source}}
             race = {**previous, "id": race_id, "name": row["name"], "setting": setting,
-                    "date": row["date"], "demo": False, "source": source, "attributes": attributes,
+                    "date": row["date"], "country": row["country"], "demo": False, "source": source, "attributes": attributes,
                     "courseVersions": previous.get("courseVersions", [])}
             if row["course_url"]:
                 race["courseSource"] = {"sourceUrl": https_url(row["course_url"]),

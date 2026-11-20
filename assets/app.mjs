@@ -97,7 +97,9 @@ form.addEventListener('submit', event => {
   const selections = Object.fromEntries(criteria.map(({key}) => [
     key, {value:inputs.get(key), importance:inputs.get(key + '-weight')},
   ]));
-  const ranked = rankRaces(races, selections);
+  const country = inputs.get('race-country');
+  const candidates = country ? races.filter(race => race.country === country) : races;
+  const ranked = rankRaces(candidates, selections);
   const matches = ranked.filter(result => !result.unmet && !result.unconfirmed);
   const pending = ranked.filter(result => !result.unmet && result.unconfirmed);
   const excluded = ranked.filter(result => result.unmet);
@@ -107,6 +109,8 @@ form.addEventListener('submit', event => {
   rankings.append(element('p', hasPreferences ?
     'Fit is the percentage of available weighted points earned. Near misses can earn partial points. Coverage shows how much weighted data is available.' :
     'Choose a preference to score races. Races are listed alphabetically.', 'muted'));
+  const scope = country ? ' in ' + country : '';
+  rankings.append(element('p', candidates.length + ' races searched' + scope + '.', 'meta'));
   if (!matches.length) rankings.append(element('p', 'No race confirms all your requirements.'));
   for (const match of matches) rankings.append(resultCard(match));
   for (const [title, group] of [['Requirements to confirm',pending],['Does not meet requirements',excluded]]) {
@@ -157,7 +161,15 @@ function renderRoute(initial = false) {
       const row = element('div');
       const actual = field?.status === 'unverified' ? 'Unverified' : value == null ? 'Missing' :
         Array.isArray(value) ? value.join(', ') : displayValue(criterion, value);
-      row.append(element('dt', criterion.label), element('dd', actual));
+      const fact = element('dd', actual);
+      if (criterion.key === 'boston' && field?.status === 'verified' && field.sourceUrl) {
+        fact.append(' · ', sourceLink(field.sourceUrl, 'Source'),
+          ' · ', sourceLink('https://www.baa.org/races/boston-marathon/qualify/', 'B.A.A. rules'));
+      }
+      if (criterion.key === 'field' && field?.basis === 'registration cap' && field.sourceUrl) {
+        fact.append(' · ', sourceLink(field.sourceUrl, 'Registration cap'));
+      }
+      row.append(element('dt', criterion.label), fact);
       facts.append(row);
     }
     const heading = element('h2', 'Course intelligence');
@@ -191,7 +203,17 @@ async function start() {
     const realRaces = data.races.filter(race => !race.demo);
     races = realRaces.length ? realRaces : data.races;
     if (realRaces.length) {
-      $('catalog-note').textContent = 'Course details vary by race. Missing and unverified details are shown separately.';
+      $('catalog-note').textContent = realRaces.length +
+        ' sourced races. Check with organizers before booking. Missing and unverified details are shown separately.';
+      const countries = [...new Set(realRaces.map(race => race.country).filter(Boolean))]
+        .sort((left, right) => left.localeCompare(right));
+      if (countries.length) {
+        const countryFilter = $('country-filter');
+        countryFilter.append(select('Race country', 'race-country',
+          [['', 'All countries'], ...countries.map(country => [country, country])], 'Race country'));
+        countryFilter.append(element('p', 'Choose your home country to see domestic races only.', 'meta'));
+        countryFilter.hidden = false;
+      }
       $('footer-note').textContent = 'Prototype · Sourced race listings';
     }
     $('submit').disabled = false;

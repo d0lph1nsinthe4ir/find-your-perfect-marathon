@@ -25,3 +25,9 @@ describes access for race calendars. Set up the appropriate account and obtain
 the necessary permission before connecting that feed.
 
 The initial source-reviewed batch is in `data/imports/official-starter.csv`.
+
+The `2027-regional.csv` batch includes confirmed single-day full-marathon listings
+from the [AIMS calendar](https://aims-worldrunning.org/calendar.html) and independent
+organizer sources for additional US races. Confirm dates with organizers before
+making arrangements. A calendar listing alone does not establish Boston eligibility.
+Country is stored separately so the matcher can restrict results to domestic races.
