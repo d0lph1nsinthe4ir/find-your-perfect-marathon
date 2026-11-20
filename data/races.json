@@ -3511,6 +3511,2753 @@
         "sourceUrl": "https://www.missoulamarathon.org/events/marathon/",
         "verifiedOn": "2026-11-20"
       }
+    },
+    {
+      "id": "us-texas-marathon-2027",
+      "name": "Texas Marathon",
+      "setting": "Kingwood, TX, United States",
+      "date": "2027-01-01",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Texas+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Texas+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Texas+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-lake-mead-marathon-2027",
+      "name": "Lake Mead Marathon",
+      "setting": "Boulder City, NV, United States",
+      "date": "2027-01-09",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Lake+Mead+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Lake+Mead+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Lake+Mead+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-buckeye-marathon-2027",
+      "name": "Buckeye Marathon",
+      "setting": "Buckeye, AZ, United States",
+      "date": "2027-01-09",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Buckeye+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Buckeye+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Buckeye+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-mobile-marathon-2027",
+      "name": "Mobile Marathon",
+      "setting": "Mobile, AL, United States",
+      "date": "2027-01-10",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mobile+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mobile+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mobile+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-walt-disney-world-marathon-2027",
+      "name": "Walt Disney World Marathon",
+      "setting": "Orlando, FL, United States",
+      "date": "2027-01-10",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Walt+Disney+World+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Walt+Disney+World+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Walt+Disney+World+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-mcallen-marathon-2027",
+      "name": "McAllen Marathon",
+      "setting": "McAllen, TX, United States",
+      "date": "2027-01-16",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=McAllen+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=McAllen+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=McAllen+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-daufuskie-island-marathon-2027",
+      "name": "Daufuskie Island Marathon",
+      "setting": "Daufuskie Island, SC, United States",
+      "date": "2027-01-16",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Daufuskie+Island+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Daufuskie+Island+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Daufuskie+Island+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-carlsbad-marathon-2027",
+      "name": "Carlsbad Marathon",
+      "setting": "Carlsbad, CA, United States",
+      "date": "2027-01-17",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Carlsbad+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Carlsbad+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Carlsbad+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-redding-marathon-2027",
+      "name": "Redding Marathon",
+      "setting": "Redding, CA, United States",
+      "date": "2027-01-17",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Redding+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Redding+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Redding+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-louisiana-marathon-2027",
+      "name": "Louisiana Marathon",
+      "setting": "Baton Rouge, LA, United States",
+      "date": "2027-01-17",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Louisiana+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Louisiana+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Louisiana+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-museum-of-aviation-marathon-2027",
+      "name": "Museum of Aviation Marathon",
+      "setting": "Warner Robins, GA, United States",
+      "date": "2027-01-30",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Museum+of+Aviation+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Museum+of+Aviation+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Museum+of+Aviation+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-yuma-territorial-marathon-2027",
+      "name": "Yuma Territorial Marathon",
+      "setting": "Yuma, AZ, United States",
+      "date": "2027-01-30",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Yuma+Territorial+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Yuma+Territorial+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Yuma+Territorial+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-miami-marathon-2027",
+      "name": "Miami Marathon",
+      "setting": "Miami, FL, United States",
+      "date": "2027-01-31",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Miami+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Miami+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Miami+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-town-of-celebration-marathon-2027",
+      "name": "Town of Celebration Marathon",
+      "setting": "Celebration, FL, United States",
+      "date": "2027-01-31",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Town+of+Celebration+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Town+of+Celebration+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Town+of+Celebration+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-big-beach-marathon-2027",
+      "name": "Big Beach Marathon",
+      "setting": "Gulf Shores, AL, United States",
+      "date": "2027-01-31",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Big+Beach+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Big+Beach+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Big+Beach+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-surfside-beach-marathon-2027",
+      "name": "Surfside Beach Marathon",
+      "setting": "Surfside, TX, United States",
+      "date": "2027-02-06",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Surfside+Beach+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Surfside+Beach+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Surfside+Beach+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-tallahassee-marathon-2027",
+      "name": "Tallahassee Marathon",
+      "setting": "Tallahassee, FL, United States",
+      "date": "2027-02-07",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Tallahassee+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Tallahassee+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Tallahassee+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-surf-city-marathon-2027",
+      "name": "Surf City Marathon",
+      "setting": "Huntington Beach, CA, United States",
+      "date": "2027-02-07",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Surf+City+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Surf+City+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Surf+City+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-florida-marathon-2027",
+      "name": "Florida Marathon",
+      "setting": "Melbourne, FL, United States",
+      "date": "2027-02-07",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Florida+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Florida+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Florida+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-donna-marathon-2027",
+      "name": "DONNA Marathon",
+      "setting": "Jacksonville Beach, FL, United States",
+      "date": "2027-02-07",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Donna+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Donna+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Donna+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-harlingen-marathon-2027",
+      "name": "Harlingen Marathon",
+      "setting": "Harlingen, TX, United States",
+      "date": "2027-02-07",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Harlingen+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Harlingen+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Harlingen+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-run-oak-island-marathon-2027",
+      "name": "Run Oak Island Marathon",
+      "setting": "Oak Island, NC, United States",
+      "date": "2027-02-13",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Run+Oak+Island+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Run+Oak+Island+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Run+Oak+Island+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-mississippi-blues-marathon-2027",
+      "name": "Mississippi Blues Marathon",
+      "setting": "Jackson, MS, United States",
+      "date": "2027-02-20",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mississippi+Blues+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mississippi+Blues+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mississippi+Blues+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-ventura-marathon-2027",
+      "name": "Ventura Marathon",
+      "setting": "Ventura, CA, United States",
+      "date": "2027-02-21",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Ventura+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Ventura+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Ventura+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-we-run-this-beach-marathon-2027",
+      "name": "We Run this Beach Marathon",
+      "setting": "Gulf Shores, AL, United States",
+      "date": "2027-02-21",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=We+Run+this+Beach+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=We+Run+this+Beach+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=We+Run+this+Beach+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-ellerbe-marathon-2027",
+      "name": "Ellerbe Marathon",
+      "setting": "Ellerbe, NC, United States",
+      "date": "2027-02-27",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Ellerbe+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Ellerbe+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Ellerbe+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-wilmington-marathon-2027",
+      "name": "Wilmington Marathon",
+      "setting": "Wilmington, NC, United States",
+      "date": "2027-02-27",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Wilmington+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Wilmington+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Wilmington+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-woodlands-marathon-2027",
+      "name": "Woodlands Marathon",
+      "setting": "The Woodlands, TX, United States",
+      "date": "2027-02-27",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Woodlands+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Woodlands+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Woodlands+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-el-paso-marathon-2027",
+      "name": "El Paso Marathon",
+      "setting": "El Paso, TX, United States",
+      "date": "2027-02-28",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=El+Paso+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=El+Paso+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=El+Paso+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-cowtown-marathon-2027",
+      "name": "Cowtown Marathon",
+      "setting": "Fort Worth, TX, United States",
+      "date": "2027-02-28",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Cowtown+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Cowtown+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Cowtown+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-myrtle-beach-marathon-2027",
+      "name": "Myrtle Beach Marathon",
+      "setting": "Myrtle Beach, SC, United States",
+      "date": "2027-03-06",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Myrtle+Beach+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Myrtle+Beach+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Myrtle+Beach+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-little-rock-marathon-2027",
+      "name": "Little Rock Marathon",
+      "setting": "Little Rock, AR, United States",
+      "date": "2027-03-07",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Little+Rock+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Little+Rock+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Little+Rock+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-los-angeles-marathon-2027",
+      "name": "Los Angeles Marathon",
+      "setting": "Los Angeles, CA, United States",
+      "date": "2027-03-07",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Los+Angeles+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Los+Angeles+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Los+Angeles+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-napa-valley-marathon-2027",
+      "name": "Napa Valley Marathon",
+      "setting": "Napa, CA, United States",
+      "date": "2027-03-07",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://napavalleymarathon.org/",
+        "sourceTitle": "Napa Valley Marathon official site",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://napavalleymarathon.org/",
+          "sourceTitle": "Napa Valley Marathon official site",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://napavalleymarathon.org/",
+          "sourceTitle": "Napa Valley Marathon official site",
+          "verifiedOn": "2026-11-20"
+        },
+        "boston": {
+          "value": "eligible",
+          "status": "verified",
+          "sourceUrl": "https://napavalleymarathon.org/race-information/",
+          "sourceTitle": "Napa Valley Marathon race weekend information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": [],
+      "courseSource": {
+        "sourceUrl": "https://napavalleymarathon.org/race-information/",
+        "verifiedOn": "2026-11-20"
+      }
+    },
+    {
+      "id": "us-b-and-a-marathon-2027",
+      "name": "B&A Trail Marathon",
+      "setting": "Severna Park, MD, United States",
+      "date": "2027-03-07",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=B+and+A+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=B+and+A+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=B+and+A+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-newport-news-one-city-marathon-2027",
+      "name": "Newport News One City Marathon",
+      "setting": "Newport News, VA, United States",
+      "date": "2027-03-07",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Newport+News+One+City+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Newport+News+One+City+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Newport+News+One+City+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-chattanooga-marathon-2027",
+      "name": "Chattanooga Marathon",
+      "setting": "Chattanooga, TN, United States",
+      "date": "2027-03-07",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Chattanooga+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Chattanooga+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Chattanooga+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-catalina-marathon-2027",
+      "name": "Catalina Marathon",
+      "setting": "Catalina Island, CA, United States",
+      "date": "2027-03-13",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Catalina+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Catalina+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Catalina+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-big-island-international-marathon-2027",
+      "name": "Big Island International Marathon",
+      "setting": "Hilo, HI, United States",
+      "date": "2027-03-14",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Big+Island+International+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Big+Island+International+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Big+Island+International+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-tobacco-road-marathon-2027",
+      "name": "Tobacco Road Marathon",
+      "setting": "Cary, NC, United States",
+      "date": "2027-03-14",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://tobaccoroadmarathon.com/quickfaq",
+        "sourceTitle": "Tobacco Road Marathon 2027 FAQ",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://tobaccoroadmarathon.com/quickfaq",
+          "sourceTitle": "Tobacco Road Marathon 2027 FAQ",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://tobaccoroadmarathon.com/quickfaq",
+          "sourceTitle": "Tobacco Road Marathon 2027 FAQ",
+          "verifiedOn": "2026-11-20"
+        },
+        "boston": {
+          "value": "eligible",
+          "status": "verified",
+          "sourceUrl": "https://tobaccoroadmarathon.com/quickfaq",
+          "sourceTitle": "Tobacco Road Marathon 2027 FAQ",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-asheville-marathon-2027",
+      "name": "Asheville Marathon",
+      "setting": "Asheville, NC, United States",
+      "date": "2027-03-20",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Asheville+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Asheville+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Asheville+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-shamrock-marathon-2027",
+      "name": "Shamrock Marathon",
+      "setting": "Virginia Beach, VA, United States",
+      "date": "2027-03-21",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Shamrock+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Shamrock+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Shamrock+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-oakland-marathon-2027",
+      "name": "Oakland Marathon",
+      "setting": "Oakland, CA, United States",
+      "date": "2027-03-21",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Oakland+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Oakland+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Oakland+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-yakima-river-canyon-marathon-2027",
+      "name": "Yakima River Canyon Marathon",
+      "setting": "Ellensburg, WA, United States",
+      "date": "2027-04-03",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Yakima+River+Canyon+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Yakima+River+Canyon+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Yakima+River+Canyon+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-salisbury-marathon-2027",
+      "name": "Salisbury Marathon",
+      "setting": "Salisbury, MD, United States",
+      "date": "2027-04-03",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Salisbury+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Salisbury+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Salisbury+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-cheap-marathon-2027",
+      "name": "Cheap Marathon",
+      "setting": "Derry, NH, United States",
+      "date": "2027-04-03",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Cheap+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Cheap+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Cheap+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-ohio-river-road-runners-club-marathon-2027",
+      "name": "Ohio River Road Runners Club Marathon",
+      "setting": "Xenia, OH, United States",
+      "date": "2027-04-04",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Ohio+River+Road+Runners+Club+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Ohio+River+Road+Runners+Club+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Ohio+River+Road+Runners+Club+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-virginia-creeper-marathon-2027",
+      "name": "Virginia Creeper Marathon",
+      "setting": "Abingdon, VA, United States",
+      "date": "2027-04-04",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Virginia+Creeper+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Virginia+Creeper+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Virginia+Creeper+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-martian-marathon-2027",
+      "name": "Martian Marathon",
+      "setting": "Dearborn, MI, United States",
+      "date": "2027-04-10",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Martian+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Martian+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Martian+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-knoxville-marathon-2027",
+      "name": "Knoxville Marathon",
+      "setting": "Knoxville, TN, United States",
+      "date": "2027-04-11",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Knoxville+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Knoxville+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Knoxville+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-athens-marathon-2027",
+      "name": "Athens Marathon",
+      "setting": "Athens, OH, United States",
+      "date": "2027-04-11",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Athens+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Athens+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Athens+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-vernonia-marathon-2027",
+      "name": "Vernonia Marathon",
+      "setting": "Banks, OR, United States",
+      "date": "2027-04-11",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Vernonia+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Vernonia+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Vernonia+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-carmel-marathon-2027",
+      "name": "Carmel Marathon",
+      "setting": "Carmel, IN, United States",
+      "date": "2027-04-17",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.carmelmarathon.com/volunteer",
+        "sourceTitle": "Carmel Marathon Weekend 2027 organizer notice",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://www.carmelmarathon.com/volunteer",
+          "sourceTitle": "Carmel Marathon Weekend 2027 organizer notice",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://www.carmelmarathon.com/volunteer",
+          "sourceTitle": "Carmel Marathon Weekend 2027 organizer notice",
+          "verifiedOn": "2026-11-20"
+        },
+        "boston": {
+          "value": "eligible",
+          "status": "verified",
+          "sourceUrl": "https://www.carmelmarathon.com/marathon",
+          "sourceTitle": "Carmel Marathon full marathon information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": [],
+      "courseSource": {
+        "sourceUrl": "https://www.carmelmarathon.com/marathon",
+        "verifiedOn": "2026-11-20"
+      }
+    },
+    {
+      "id": "us-blue-ridge-marathon-2027",
+      "name": "Blue Ridge Marathon",
+      "setting": "Roanoke, VA, United States",
+      "date": "2027-04-17",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Blue+Ridge+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Blue+Ridge+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Blue+Ridge+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-jersey-city-marathon-2027",
+      "name": "Jersey City Marathon",
+      "setting": "Jersey City, NJ, United States",
+      "date": "2027-04-18",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Jersey+City+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Jersey+City+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Jersey+City+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-illinois-marathon-2027",
+      "name": "Illinois Marathon",
+      "setting": "Champaign-Urbana, IL, United States",
+      "date": "2027-04-24",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Illinois+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Illinois+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Illinois+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-oklahoma-city-memorial-marathon-2027",
+      "name": "Oklahoma City Memorial Marathon",
+      "setting": "Oklahoma City, OK, United States",
+      "date": "2027-04-25",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Oklahoma+City+Memorial+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Oklahoma+City+Memorial+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Oklahoma+City+Memorial+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-kalamazoo-marathon-2027",
+      "name": "Kalamazoo Marathon",
+      "setting": "Kalamazoo, MI, United States",
+      "date": "2027-04-25",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Kalamazoo+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Kalamazoo+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Kalamazoo+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-shiprock-marathon-2027",
+      "name": "Shiprock Marathon",
+      "setting": "Shiprock, NM, United States",
+      "date": "2027-05-01",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Shiprock+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Shiprock+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Shiprock+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-flying-pig-marathon-2027",
+      "name": "Flying Pig Marathon",
+      "setting": "Cincinnati, OH, United States",
+      "date": "2027-05-02",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Flying+Pig+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Flying+Pig+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Flying+Pig+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-pittsburgh-marathon-2027",
+      "name": "Pittsburgh Marathon",
+      "setting": "Pittsburgh, PA, United States",
+      "date": "2027-05-02",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Pittsburgh+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Pittsburgh+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Pittsburgh+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-colorado-marathon-2027",
+      "name": "Colorado Marathon",
+      "setting": "Fort Collins, CO, United States",
+      "date": "2027-05-02",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Colorado+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Colorado+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Colorado+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-lincoln-marathon-2027",
+      "name": "Lincoln Marathon",
+      "setting": "Lincoln, NE, United States",
+      "date": "2027-05-02",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Lincoln+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Lincoln+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Lincoln+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-avenue-of-the-giants-marathon-2027",
+      "name": "Avenue of the Giants Marathon",
+      "setting": "Weott, CA, United States",
+      "date": "2027-05-02",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Avenue+of+the+Giants+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Avenue+of+the+Giants+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Avenue+of+the+Giants+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-maine-coast-marathon-2027",
+      "name": "Maine Coast Marathon",
+      "setting": "Wells, ME, United States",
+      "date": "2027-05-02",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Maine+Coast+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Maine+Coast+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Maine+Coast+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-lake-wobegon-trail-marathon-2027",
+      "name": "Lake Wobegon Trail Marathon",
+      "setting": "St. Joseph, MN, United States",
+      "date": "2027-05-08",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://runsignup.com/Race/MN/Holdingford/LakeWobegonTrailMarathon",
+        "sourceTitle": "Organizer registration listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://runsignup.com/Race/MN/Holdingford/LakeWobegonTrailMarathon",
+          "sourceTitle": "Organizer registration listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://runsignup.com/Race/MN/Holdingford/LakeWobegonTrailMarathon",
+          "sourceTitle": "Organizer registration listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "boston": {
+          "value": "eligible",
+          "status": "verified",
+          "sourceUrl": "https://runsignup.com/Race/MN/Holdingford/LakeWobegonTrailMarathon",
+          "sourceTitle": "Organizer registration listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-ogden-marathon-2027",
+      "name": "Ogden Marathon",
+      "setting": "Ogden, UT, United States",
+      "date": "2027-05-15",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Ogden+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Ogden+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Ogden+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-new-river-marathon-2027",
+      "name": "New River Marathon",
+      "setting": "Fleetwood, NC, United States",
+      "date": "2027-05-15",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=New+River+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=New+River+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=New+River+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-capital-city-marathon-2027",
+      "name": "Capital City Marathon",
+      "setting": "Olympia, WA, United States",
+      "date": "2027-05-16",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Capital+City+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Capital+City+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Capital+City+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-whitefish-marathon-2027",
+      "name": "Whitefish Marathon",
+      "setting": "Whitefish, MT, United States",
+      "date": "2027-05-22",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Whitefish+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Whitefish+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Whitefish+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-vermont-city-marathon-2027",
+      "name": "Vermont City Marathon",
+      "setting": "Burlington, VT, United States",
+      "date": "2027-05-30",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Vermont+City+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Vermont+City+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Vermont+City+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-buffalo-marathon-2027",
+      "name": "Buffalo Marathon",
+      "setting": "Buffalo, NY, United States",
+      "date": "2027-05-30",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Buffalo+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Buffalo+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Buffalo+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-utah-valley-marathon-2027",
+      "name": "Utah Valley Marathon",
+      "setting": "Provo, UT, United States",
+      "date": "2027-06-05",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Utah+Valley+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "June",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Utah+Valley+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Utah+Valley+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-newport-marathon-or-2027",
+      "name": "Newport Marathon",
+      "setting": "Newport, OR, United States",
+      "date": "2027-06-05",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Newport+Marathon+%28OR%29",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "June",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Newport+Marathon+%28OR%29",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Newport+Marathon+%28OR%29",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-deadwood-mickelson-trail-marathon-2027",
+      "name": "Deadwood-Mickelson Trail Marathon",
+      "setting": "Deadwood, SD, United States",
+      "date": "2027-06-06",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Deadwood-Mickelson+Trail+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "June",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Deadwood-Mickelson+Trail+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Deadwood-Mickelson+Trail+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-lake-placid-marathon-2027",
+      "name": "Lake Placid Marathon",
+      "setting": "Lake Placid, NY, United States",
+      "date": "2027-06-13",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Lake+Placid+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "June",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Lake+Placid+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Lake+Placid+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-charlevoix-marathon-2027",
+      "name": "Charlevoix Marathon",
+      "setting": "Charlevoix, MI, United States",
+      "date": "2027-06-19",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Charlevoix+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "June",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Charlevoix+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Charlevoix+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-mad-marathon-2027",
+      "name": "Mad Marathon",
+      "setting": "Waitsfield, VT, United States",
+      "date": "2027-07-11",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mad+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "July",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mad+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mad+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-mesa-falls-marathon-2027",
+      "name": "Mesa Falls Marathon",
+      "setting": "Ashton, ID, United States",
+      "date": "2027-07-17",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mesa+Falls+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "July",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mesa+Falls+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mesa+Falls+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-deseret-news-marathon-2027",
+      "name": "Deseret News Marathon",
+      "setting": "Salt Lake City, UT, United States",
+      "date": "2027-07-24",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Deseret+News+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "July",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Deseret+News+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Deseret+News+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-juneau-marathon-2027",
+      "name": "Juneau Marathon",
+      "setting": "Juneau, AK, United States",
+      "date": "2027-07-31",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Juneau+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "July",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Juneau+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Juneau+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-marquette-marathon-2027",
+      "name": "Marquette Marathon",
+      "setting": "Marquette, MI, United States",
+      "date": "2027-09-04",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Marquette+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "September",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Marquette+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Marquette+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-clarence-demar-marathon-2027",
+      "name": "Clarence DeMar Marathon",
+      "setting": "Keene, NH, United States",
+      "date": "2027-09-26",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://clarencedemar.com/",
+        "sourceTitle": "Clarence DeMar Marathon official site",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "September",
+          "status": "verified",
+          "sourceUrl": "https://clarencedemar.com/",
+          "sourceTitle": "Clarence DeMar Marathon official site",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://clarencedemar.com/",
+          "sourceTitle": "Clarence DeMar Marathon official site",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-wineglass-marathon-2027",
+      "name": "Wineglass Marathon",
+      "setting": "Corning, NY, United States",
+      "date": "2027-10-03",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.wineglassmarathon.com/races/guthrie-wineglass-marathon/",
+        "sourceTitle": "Wineglass Marathon official race page",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "October",
+          "status": "verified",
+          "sourceUrl": "https://www.wineglassmarathon.com/races/guthrie-wineglass-marathon/",
+          "sourceTitle": "Wineglass Marathon official race page",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://www.wineglassmarathon.com/races/guthrie-wineglass-marathon/",
+          "sourceTitle": "Wineglass Marathon official race page",
+          "verifiedOn": "2026-11-20"
+        },
+        "boston": {
+          "value": "eligible",
+          "status": "verified",
+          "sourceUrl": "https://www.wineglassmarathon.com/races/guthrie-wineglass-marathon/",
+          "sourceTitle": "Wineglass Marathon official race page",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": [],
+      "courseSource": {
+        "sourceUrl": "https://www.wineglassmarathon.com/races/guthrie-wineglass-marathon/",
+        "verifiedOn": "2026-11-20"
+      }
+    },
+    {
+      "id": "us-hartford-marathon-2027",
+      "name": "Hartford Marathon",
+      "setting": "Hartford, CT, United States",
+      "date": "2027-10-09",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Hartford+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "October",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Hartford+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Hartford+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-cape-cod-marathon-2027",
+      "name": "Cape Cod Marathon",
+      "setting": "Falmouth, MA, United States",
+      "date": "2027-10-10",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Cape+Cod+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "October",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Cape+Cod+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Cape+Cod+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-baystate-marathon-2027",
+      "name": "Baystate Marathon",
+      "setting": "Lowell, MA, United States",
+      "date": "2027-10-17",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Baystate+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "October",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Baystate+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Baystate+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-mount-desert-island-marathon-2027",
+      "name": "Mount Desert Island Marathon",
+      "setting": "Bar Harbor, ME, United States",
+      "date": "2027-10-17",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mount+Desert+Island+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "October",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mount+Desert+Island+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Mount+Desert+Island+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-indianapolis-monumental-marathon-2027",
+      "name": "Indianapolis Monumental Marathon",
+      "setting": "Indianapolis, IN, United States",
+      "date": "2027-11-06",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Indianapolis+Monumental+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "November",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Indianapolis+Monumental+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=Indianapolis+Monumental+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "us-new-york-city-marathon-2027",
+      "name": "New York City Marathon",
+      "setting": "New York City, NY, United States",
+      "date": "2027-11-07",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=New+York+City+Marathon",
+        "sourceTitle": "FindMyMarathon calendar listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "November",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=New+York+City+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://findmymarathon.com/race-detail.php?zname=New+York+City+Marathon",
+          "sourceTitle": "FindMyMarathon calendar listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
     }
   ]
 }

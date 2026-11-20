@@ -31,3 +31,8 @@ from the [AIMS calendar](https://aims-worldrunning.org/calendar.html) and indepe
 organizer sources for additional US races. Confirm dates with organizers before
 making arrangements. A calendar listing alone does not establish Boston eligibility.
 Country is stored separately so the matcher can restrict results to domestic races.
+
+The `2027-us.csv` batch adds U.S. race editions using organizer announcements where
+available and attributed FindMyMarathon calendar listings for other dates. Calendar
+dates can change and should be confirmed with organizers. Boston eligibility was
+added separately only where an organizer source supported it.
