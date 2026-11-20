@@ -18,7 +18,7 @@ export const criteria = [
   {key:'boston', label:'Boston qualifying eligibility', options:[choice('eligible','Eligible course')], icon:'M4 22V3m0 1h15l-3 4 3 4H4'},
   {key:'field', label:'Field size', options:ranges(['Under 2,000',0,1999],['2,000–9,999',2000,9999],['10,000 or more',10000,Infinity]), scale:10000, unit:' runners', icon:'M3 20v-4l4-4 4 4v4m2 0v-4l4-4 4 4v4M5 6h4v4H5zm10 0h4v4h-4z'},
   {key:'scenery', label:'Scenery', options:categories('Waterfront','Urban','Forest','Mountains','Countryside'), icon:'M3 4h18v16H3zM3 17l6-7 4 5 3-3 5 5M16 8h2'},
-  {key:'cost', label:'Registration cost', options:upper(['At most $80 USD',80],['At most $130 USD',130],['At most $200 USD',200]), scale:100, unit:' USD', icon:'M3 6h18v12H3zm9 3v6M9 10h6m-6 4h6'},
+  {key:'cost', label:'Registration cost', matchable:false, options:upper(['At most $80 USD',80],['At most $130 USD',130],['At most $200 USD',200]), scale:100, unit:' USD', icon:'M3 6h18v12H3zm9 3v6M9 10h6m-6 4h6'},
   {key:'travel', label:'Travel convenience', options:categories('Airport and transit','Airport nearby','Car recommended'), scale:2, icon:'M3 18h18M4 11l5 2 10-7 2 1-7 7-5 1z'},
   {key:'configuration', label:'Course configuration', options:categories('Loop','Mostly loop','Multiple loops','Point-to-point','Out-and-back','Mostly out-and-back','Multiple out-and-backs'), icon:'M8 5h8l4 4v7l-4 4H8l-4-4V9zm7-2 2 2-2 2'},
   {key:'registration', label:'Registration availability', options:categories('Open','Upcoming','Waitlist','Closed'), icon:'M3 5h18v14H3zm4 7 3 3 7-7'},

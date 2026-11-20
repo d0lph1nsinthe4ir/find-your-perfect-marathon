@@ -61,7 +61,9 @@ function syncDateRange() {
 for (const input of [startDate, endDate]) input.addEventListener('input', syncDateRange);
 syncDateRange();
 
-for (const criterion of criteria.filter(item => item.key !== 'month')) {
+const matchingCriteria = criteria.filter(item => item.key !== 'month' && item.matchable !== false);
+
+for (const criterion of matchingCriteria) {
   const item = element('div', '', 'criterion');
   const title = element('div', '', 'criterion-title');
   title.append(icon(criterion.icon), criterion.label);
@@ -142,7 +144,7 @@ form.addEventListener('submit', event => {
 
 function renderMatches() {
   const inputs = new FormData(form);
-  const selections = Object.fromEntries(criteria.map(({key}) => [
+  const selections = Object.fromEntries(matchingCriteria.map(({key}) => [
     key, {value:inputs.get(key), importance:inputs.get(key + '-weight') ?? '1'},
   ]));
   selections.date = {start:inputs.get('race-start'), end:inputs.get('race-end'),
