@@ -1,8 +1,10 @@
 import {criteria, displayValue} from './criteria.mjs';
 
-const mostlyConfiguration = new Map([
+const mostlyVariant = new Map([
   ['Mostly loop', 'Loop'],
   ['Mostly out-and-back', 'Out-and-back'],
+  ['Mostly road', 'Road'],
+  ['Mostly trail', 'Trail'],
 ]);
 
 export function similarity(criterion, option, value) {
@@ -12,8 +14,7 @@ export function similarity(criterion, option, value) {
   }
   if (Array.isArray(value)) return Number(value.includes(option.value));
   if (value === option.value) return 1;
-  if (criterion.key === 'configuration' && (mostlyConfiguration.get(value) === option.value ||
-      mostlyConfiguration.get(option.value) === value)) return 0.5;
+  if (mostlyVariant.get(value) === option.value || mostlyVariant.get(option.value) === value) return 0.5;
   if (!criterion.scale) return 0;
   const index = criterion.options.findIndex(item => item.value === value);
   if (index < 0) return 0;
@@ -77,7 +78,7 @@ export function rankRaces(races, selections) {
       const status = fraction === 1 ? 'Fit' : fraction > 0 && !required ? 'Near match' : 'Compromise';
       const actual = isDate ? dateFormatter.format(Date.parse(race.date)) :
         Array.isArray(field.value) ? field.value.join(', ') : displayValue(criterion, field.value);
-      const basis = criterion.key === 'temperature' && field.basis;
+      const basis = field.year ? String(field.year) : field.basis;
       return {criterion, option, importance, status, actual: basis ? actual + ' (' + basis + ')' : actual, fraction};
     });
     return {race, details, score:known ? Math.round(100 * earned / known) : null,

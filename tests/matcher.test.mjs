@@ -11,7 +11,7 @@ test('demo records cover the criteria and contain no invented geometry', () => {
   for (const race of races.filter(race => race.demo)) {
     assert.equal(race.demo, true);
     assert.deepEqual(race.courseVersions, []);
-    assert.deepEqual(Object.keys(race.attributes), criteria.map(({key}) => key));
+    assert.deepEqual(Object.keys(race.attributes), criteria.filter(({key}) => key !== 'airportDistance').map(({key}) => key));
   }
 });
 

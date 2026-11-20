@@ -209,7 +209,7 @@ function renderRoute(initial = false) {
       profile.append(attribution);
     }
     const facts = element('dl', '', 'facts');
-    for (const criterion of criteria) {
+    for (const criterion of criteria.filter(item => item.key !== 'travel')) {
       const field = race.attributes[criterion.key];
       const value = field?.value;
       const row = element('div');
@@ -217,6 +217,7 @@ function renderRoute(initial = false) {
         Array.isArray(value) ? value.join(', ') : displayValue(criterion, value);
       const fact = element('dd', actual);
       if (criterion.key === 'boston' && field?.status === 'verified' && field.sourceUrl) {
+        if (field.basis) fact.append(' · ' + field.basis);
         fact.append(' · ', sourceLink(field.sourceUrl, 'Source'),
           ' · ', sourceLink('https://www.baa.org/races/boston-marathon/qualify/', 'B.A.A. rules'));
       }
@@ -235,8 +236,19 @@ function renderRoute(initial = false) {
       if (criterion.key === 'configuration' && field?.status === 'verified' && field.sourceUrl) {
         fact.append(' · ', sourceLink(field.sourceUrl, 'Course type source'));
       }
-      if (criterion.key === 'field' && field?.basis === 'registration cap' && field.sourceUrl) {
-        fact.append(' · ', sourceLink(field.sourceUrl, 'Registration cap'));
+      if (criterion.key === 'field' && field?.year && field.sourceUrl) {
+        fact.append(' · ', sourceLink(field.sourceUrl, field.year + ' results'));
+      }
+      if (criterion.key === 'field' && race.registrationCap?.sourceUrl) {
+        const cap = race.registrationCap;
+        fact.append(element('p', cap.value.toLocaleString('en-US') + ' runner cap · ', 'meta'));
+        fact.lastElementChild.append(sourceLink(cap.sourceUrl, 'Organizer cap'));
+      }
+      if (criterion.key === 'airportDistance' && field?.airport) {
+        fact.append(' straight-line from ' + field.location + ' · ', sourceLink(field.sourceUrl, field.airport));
+      }
+      if (['gain','loss','surface','season'].includes(criterion.key) && field?.sourceUrl) {
+        fact.append(' · ', sourceLink(field.sourceUrl, 'Source'));
       }
       row.append(element('dt', criterion.label), fact);
       facts.append(row);

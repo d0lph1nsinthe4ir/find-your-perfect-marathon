@@ -9,16 +9,16 @@ Each attribute is an object with `value` and `status`. Use `demo` for fictional 
 | month, season, region | English month, local season, continent |
 | temperature | Typical whole-degree Celsius race-day value |
 | gain, loss | Nonnegative meters, stored independently |
-| surface | Road, Trail, Mixed |
-| boston | eligible or ineligible for the specified edition |
-| field | Nonnegative integer runner count |
+| surface | Road, Mostly road, Trail, Mostly trail, Mixed |
+| boston | eligible or ineligible, with directory basis where applicable |
+| field | Recent full-marathon finisher count and its edition year |
 | scenery | Array of category strings |
 | cost | Nonnegative USD prototype estimate |
-| travel | Airport and transit, Airport nearby, Car recommended |
+| airportDistance | Approximate straight-line distance in kilometers and the named airport |
 | configuration | Loop, Point-to-point, Out-and-back, Multiple loops |
 | registration | Open, Upcoming, Waitlist, Closed |
 
-The option vocabulary is defined in `assets/criteria.mjs`. Demo and verified values are usable in scoring. Missing or unverified values earn no evaluated points and are omitted from the possible points used for fit. Coverage is evaluated weight divided by total selected weight. With no evaluated weight, the race is unscored. The weighted preference multipliers are 1, 2, and 4. An exact fit earns all available points. A range, month, or travel preference can earn partial points based on distance using criterion-specific scales. Required criteria use exact fits (or values in the chosen band) and carry no points. An unknown requirement needs confirmation and a known miss excludes the race from the eligible shortlist. Eligible results sort by displayed fit, coverage, then name.
+The option vocabulary is defined in `assets/criteria.mjs`. Demo and verified values are usable in scoring. Missing or unverified values earn no evaluated points and are omitted from the possible points used for fit. Coverage is evaluated weight divided by total selected weight. With no evaluated weight, the race is unscored. The weighted preference multipliers are 1, 2, and 4. An exact fit earns all available points. A range or month preference can earn partial points based on distance using criterion-specific scales. Required criteria use exact fits (or values in the chosen band) and carry no points. An unknown requirement needs confirmation and a known miss excludes the race from the eligible shortlist. Eligible results sort by displayed fit, coverage, then name.
 
 ## Course version fields planned for verified profiles
 
@@ -32,8 +32,8 @@ or has permission to distribute files. Attributes that lack information may be
 omitted.
 
 Real records include `country`, a country or territory display name used for the
-exact country filter. Where the organizer publishes a marathon-specific entry cap
-as field-size evidence, set `basis` to `registration cap` and link its source.
+exact country filter. A marathon-specific entry cap belongs in a separate
+`registrationCap` record with its organizer source.
 
 ### Historical temperature
 
@@ -71,3 +71,23 @@ item records a `tag`, a short course-specific reason, a `sourceUrl`, and a
 sources where available. A missing tag in a partial list is unverified in the
 matcher. Preserve that distinction when adding more evidence. City names, park
 names, and generic marketing descriptions alone do not establish a scenery tag.
+
+## Course, field, and travel coverage
+
+- Season uses NOAA meteorological month boundaries and the race latitude's
+  hemisphere. Races within 23.44 degrees of the equator are left without a
+  four-season label.
+- Directory course gain and loss come from the linked elevation profile. They
+  are rounded to whole meters from published feet. A source profile date is
+  retained when listed. Mostly road and mostly trail remain distinct surfaces
+  and earn partial credit toward the corresponding weighted surface preference.
+- A Boston status with `basis: "directory-reported"` reflects the linked course
+  listing. An organizer-sourced status takes precedence. Check the B.A.A.
+  rules, certification and qualifying window before using a result to apply.
+- The `field` attribute for real races is the latest available full-marathon
+  finisher count from 2024–2026, with its year. Organizer caps are separate
+  `registrationCap` records and do not score as finisher counts.
+- `airportDistance` is the straight-line distance from the race's nearby
+  catalog location to the nearest land airport listed with scheduled service
+  and an IATA code in [OurAirports](https://ourairports.com/data/). This distance
+  can include cross-border airports and does not measure driving or transit.
