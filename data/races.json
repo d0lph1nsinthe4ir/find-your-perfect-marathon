@@ -1,0 +1,410 @@
+{
+  "schemaVersion": 1,
+  "races": [
+    {
+      "id": "tideline",
+      "name": "Tideline Marathon",
+      "setting": "Europe",
+      "demo": true,
+      "attributes": {
+        "month": {
+          "value": "October",
+          "status": "demo"
+        },
+        "season": {
+          "value": "Autumn",
+          "status": "demo"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "demo"
+        },
+        "temperature": {
+          "value": 14,
+          "status": "demo"
+        },
+        "gain": {
+          "value": 130,
+          "status": "demo"
+        },
+        "loss": {
+          "value": 130,
+          "status": "demo"
+        },
+        "surface": {
+          "value": "Road",
+          "status": "demo"
+        },
+        "boston": {
+          "value": "eligible",
+          "status": "demo"
+        },
+        "field": {
+          "value": 4200,
+          "status": "demo"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront",
+            "Urban"
+          ],
+          "status": "demo"
+        },
+        "cost": {
+          "value": 105,
+          "status": "demo"
+        },
+        "travel": {
+          "value": "Airport and transit",
+          "status": "demo"
+        },
+        "configuration": {
+          "value": "Loop",
+          "status": "demo"
+        },
+        "registration": {
+          "value": "Open",
+          "status": "demo"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "silver-grove",
+      "name": "Silver Grove Marathon",
+      "setting": "North America",
+      "demo": true,
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "demo"
+        },
+        "season": {
+          "value": "Spring",
+          "status": "demo"
+        },
+        "region": {
+          "value": "North America",
+          "status": "demo"
+        },
+        "temperature": {
+          "value": 15,
+          "status": "demo"
+        },
+        "gain": {
+          "value": 280,
+          "status": "demo"
+        },
+        "loss": {
+          "value": 340,
+          "status": "demo"
+        },
+        "surface": {
+          "value": "Mixed",
+          "status": "demo"
+        },
+        "boston": {
+          "value": null,
+          "status": "missing"
+        },
+        "field": {
+          "value": 1800,
+          "status": "demo"
+        },
+        "scenery": {
+          "value": [
+            "Forest",
+            "Countryside"
+          ],
+          "status": "demo"
+        },
+        "cost": {
+          "value": 72,
+          "status": "demo"
+        },
+        "travel": {
+          "value": "Car recommended",
+          "status": "demo"
+        },
+        "configuration": {
+          "value": "Point-to-point",
+          "status": "demo"
+        },
+        "registration": {
+          "value": "Open",
+          "status": "demo"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "blue-estuary",
+      "name": "Blue Estuary Marathon",
+      "setting": "Oceania",
+      "demo": true,
+      "attributes": {
+        "month": {
+          "value": "November",
+          "status": "demo"
+        },
+        "season": {
+          "value": "Spring",
+          "status": "demo"
+        },
+        "region": {
+          "value": "Oceania",
+          "status": "demo"
+        },
+        "temperature": {
+          "value": 18,
+          "status": "demo"
+        },
+        "gain": {
+          "value": 165,
+          "status": "demo"
+        },
+        "loss": {
+          "value": 155,
+          "status": "demo"
+        },
+        "surface": {
+          "value": "Road",
+          "status": "demo"
+        },
+        "boston": {
+          "value": "ineligible",
+          "status": "demo"
+        },
+        "field": {
+          "value": 6600,
+          "status": "demo"
+        },
+        "scenery": {
+          "value": [
+            "Waterfront"
+          ],
+          "status": "demo"
+        },
+        "cost": {
+          "value": 128,
+          "status": "demo"
+        },
+        "travel": {
+          "value": "Airport nearby",
+          "status": "demo"
+        },
+        "configuration": {
+          "value": "Out-and-back",
+          "status": "demo"
+        },
+        "registration": {
+          "value": "Upcoming",
+          "status": "demo"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "meridian-city",
+      "name": "Meridian City Marathon",
+      "setting": "Asia",
+      "demo": true,
+      "attributes": {
+        "month": {
+          "value": "February",
+          "status": "demo"
+        },
+        "season": {
+          "value": "Winter",
+          "status": "demo"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "demo"
+        },
+        "temperature": {
+          "value": 11,
+          "status": "demo"
+        },
+        "gain": {
+          "value": 90,
+          "status": "demo"
+        },
+        "loss": {
+          "value": 90,
+          "status": "demo"
+        },
+        "surface": {
+          "value": "Road",
+          "status": "demo"
+        },
+        "boston": {
+          "value": "eligible",
+          "status": "demo"
+        },
+        "field": {
+          "value": 12800,
+          "status": "demo"
+        },
+        "scenery": {
+          "value": [
+            "Urban"
+          ],
+          "status": "demo"
+        },
+        "cost": {
+          "value": 145,
+          "status": "demo"
+        },
+        "travel": {
+          "value": "Airport and transit",
+          "status": "demo"
+        },
+        "configuration": {
+          "value": "Loop",
+          "status": "demo"
+        },
+        "registration": {
+          "value": "Waitlist",
+          "status": "demo"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "granite-pass",
+      "name": "Granite Pass Marathon",
+      "setting": "South America",
+      "demo": true,
+      "attributes": {
+        "month": {
+          "value": "July",
+          "status": "demo"
+        },
+        "season": {
+          "value": "Winter",
+          "status": "demo"
+        },
+        "region": {
+          "value": "South America",
+          "status": "demo"
+        },
+        "temperature": {
+          "value": 9,
+          "status": "demo"
+        },
+        "gain": {
+          "value": 720,
+          "status": "demo"
+        },
+        "loss": {
+          "value": 840,
+          "status": "demo"
+        },
+        "surface": {
+          "value": "Trail",
+          "status": "demo"
+        },
+        "boston": {
+          "value": "ineligible",
+          "status": "demo"
+        },
+        "field": {
+          "value": 850,
+          "status": "demo"
+        },
+        "scenery": {
+          "value": [
+            "Mountains",
+            "Forest"
+          ],
+          "status": "demo"
+        },
+        "cost": {
+          "value": 65,
+          "status": "demo"
+        },
+        "travel": {
+          "value": "Car recommended",
+          "status": "demo"
+        },
+        "configuration": {
+          "value": "Point-to-point",
+          "status": "demo"
+        },
+        "registration": {
+          "value": "Open",
+          "status": "demo"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "low-sun",
+      "name": "Low Sun Marathon",
+      "setting": "Africa",
+      "demo": true,
+      "attributes": {
+        "month": {
+          "value": "September",
+          "status": "demo"
+        },
+        "season": {
+          "value": "Spring",
+          "status": "demo"
+        },
+        "region": {
+          "value": "Africa",
+          "status": "demo"
+        },
+        "temperature": {
+          "value": null,
+          "status": "unverified"
+        },
+        "gain": {
+          "value": 210,
+          "status": "demo"
+        },
+        "loss": {
+          "value": 210,
+          "status": "demo"
+        },
+        "surface": {
+          "value": "Road",
+          "status": "demo"
+        },
+        "boston": {
+          "value": "ineligible",
+          "status": "demo"
+        },
+        "field": {
+          "value": 2400,
+          "status": "demo"
+        },
+        "scenery": {
+          "value": [
+            "Countryside"
+          ],
+          "status": "demo"
+        },
+        "cost": {
+          "value": null,
+          "status": "missing"
+        },
+        "travel": {
+          "value": "Airport nearby",
+          "status": "demo"
+        },
+        "configuration": {
+          "value": "Multiple loops",
+          "status": "demo"
+        },
+        "registration": {
+          "value": "Closed",
+          "status": "demo"
+        }
+      },
+      "courseVersions": []
+    }
+  ]
+}

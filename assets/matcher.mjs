@@ -1,0 +1,58 @@
+import {criteria, displayValue} from './criteria.mjs';
+
+export function similarity(criterion, option, value) {
+  if (Object.hasOwn(option, 'low')) {
+    const distance = Math.max(option.low - value, value - option.high, 0);
+    return Math.max(0, 1 - distance / criterion.scale);
+  }
+  if (Array.isArray(value)) return Number(value.includes(option.value));
+  if (value === option.value) return 1;
+  if (!criterion.scale) return 0;
+  const index = criterion.options.findIndex(item => item.value === value);
+  if (index < 0) return 0;
+  const target = criterion.options.indexOf(option);
+  const distance = Math.abs(index - target);
+  const gap = criterion.key === 'month' ? Math.min(distance, 12 - distance) : distance;
+  return Math.max(0, 1 - gap / criterion.scale);
+}
+
+export function rankRaces(races, selections) {
+  const selected = criteria.flatMap(criterion => {
+    const selection = selections[criterion.key];
+    const option = criterion.options.find(item => item.value === selection?.value);
+    return option ? [{criterion, option, importance:selection.importance}] : [];
+  });
+  return races.map(race => {
+    let total = 0;
+    let known = 0;
+    let earned = 0;
+    let unmet = false;
+    let unconfirmed = false;
+    const details = selected.map(({criterion, option, importance}) => {
+      const field = race.attributes[criterion.key];
+      const required = importance === 'required';
+      const weight = required ? 0 : Number(importance);
+      total += weight;
+      const available = field?.value != null && ['demo','verified'].includes(field.status);
+      if (!available) {
+        unconfirmed ||= required;
+        const status = field?.status === 'unverified' ? 'Unverified' : 'Missing';
+        return {criterion, option, importance, status, actual:status, fraction:null};
+      }
+      const fraction = similarity(criterion, option, field.value);
+      unmet ||= required && fraction !== 1;
+      known += weight;
+      earned += weight * fraction;
+      const status = fraction === 1 ? 'Fit' : fraction > 0 && !required ? 'Near match' : 'Compromise';
+      const actual = Array.isArray(field.value) ? field.value.join(', ') : displayValue(criterion, field.value);
+      return {criterion, option, importance, status, actual, fraction};
+    });
+    return {race, details, score:known ? Math.round(100 * earned / known) : null,
+      coverage:total ? Math.round(100 * known / total) : null, unmet, unconfirmed};
+  }).sort((left, right) =>
+    Number(left.unmet) - Number(right.unmet) ||
+    Number(left.unconfirmed) - Number(right.unconfirmed) ||
+    (right.score ?? -1) - (left.score ?? -1) ||
+    (right.coverage ?? -1) - (left.coverage ?? -1) ||
+    left.race.name.localeCompare(right.race.name));
+}

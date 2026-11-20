@@ -1,0 +1,25 @@
+# Race data schema and scoring
+
+The catalog object contains `schemaVersion` (currently 1) and a `races` array. Each record has a stable, URL-safe `id`, a `name`, a display `setting`, a boolean `demo`, an `attributes` object, and a `courseVersions` array.
+
+Each attribute is an object with `value` and `status`. Use `demo` for fictional values, `verified` for sourced values, `missing` when no value is available, and `unverified` for claims awaiting a reliable source. Use null for missing values. The demo catalog also uses null for its unverified example. Verified fields should include `sourceUrl` (absolute URL), `sourceTitle`, and `verifiedOn` (ISO date). Record the relevant edition before using real race data, especially for registration and qualifying eligibility.
+
+| Attribute | Representation |
+| --- | --- |
+| month, season, region | English month, local season, continent |
+| temperature | Typical whole-degree Celsius race-day value |
+| gain, loss | Nonnegative meters, stored independently |
+| surface | Road, Trail, Mixed |
+| boston | eligible or ineligible for the specified edition |
+| field | Nonnegative integer runner count |
+| scenery | Array of category strings |
+| cost | Nonnegative USD prototype estimate |
+| travel | Airport and transit, Airport nearby, Car recommended |
+| configuration | Loop, Point-to-point, Out-and-back, Multiple loops |
+| registration | Open, Upcoming, Waitlist, Closed |
+
+The option vocabulary is defined in `assets/criteria.mjs`. Demo and verified values are usable in scoring. Missing or unverified values earn no evaluated points and are omitted from the possible points used for fit. Coverage is evaluated weight divided by total selected weight. With no evaluated weight, the race is unscored. The weighted preference multipliers are 1, 2, and 4. An exact fit earns all available points. A range, month, or travel preference can earn partial points based on distance using criterion-specific scales. Required criteria use exact fits (or values in the chosen band) and carry no points. An unknown requirement needs confirmation and a known miss excludes the race from the eligible shortlist. Eligible results sort by displayed fit, coverage, then name.
+
+## Course version fields planned for verified profiles
+
+Each version should hold the race year, version ID, source title and URL, verification date, configuration, terrain, and optional geographic geometry with its coordinate reference system and provenance. A GPX source record should hold the original URL, verification date, license or permission evidence, and an optional hosted file URL when authorized. Record elevation source and processing method alongside any derived metrics. The demo catalog has empty version arrays and the profile intentionally displays availability placeholders.
