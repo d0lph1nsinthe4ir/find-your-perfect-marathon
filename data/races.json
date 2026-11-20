@@ -6258,6 +6258,91 @@
         }
       },
       "courseVersions": []
+    },
+    {
+      "id": "dismal-swamp-2026",
+      "name": "Dismal Swamp Marathon",
+      "setting": "Chesapeake, VA, United States",
+      "date": "2026-12-06",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderDismalSwamp50Kand100K",
+        "sourceTitle": "Tidewater Striders Dismal Swamp event listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "December",
+          "status": "verified",
+          "sourceUrl": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderDismalSwamp50Kand100K",
+          "sourceTitle": "Tidewater Striders Dismal Swamp event listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderDismalSwamp50Kand100K",
+          "sourceTitle": "Tidewater Striders Dismal Swamp event listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "registration": {
+          "value": "Waitlist",
+          "status": "verified",
+          "sourceUrl": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderDismalSwamp50Kand100K",
+          "sourceTitle": "Tidewater Striders Dismal Swamp event listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "tidewater-striders-spring-2027",
+      "name": "Tidewater Striders Spring Marathon at Dismal Swamp",
+      "setting": "Chesapeake, VA, United States",
+      "date": "2027-04-25",
+      "country": "United States",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderMarathonandHalfMarathonSpringEdition",
+        "sourceTitle": "Tidewater Striders spring marathon event listing",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderMarathonandHalfMarathonSpringEdition",
+          "sourceTitle": "Tidewater Striders spring marathon event listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderMarathonandHalfMarathonSpringEdition",
+          "sourceTitle": "Tidewater Striders spring marathon event listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "boston": {
+          "value": "eligible",
+          "status": "verified",
+          "sourceUrl": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderMarathonandHalfMarathonSpringEdition",
+          "sourceTitle": "Tidewater Striders spring marathon event listing",
+          "verifiedOn": "2026-11-20"
+        },
+        "surface": {
+          "value": "Road",
+          "status": "verified",
+          "sourceUrl": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderMarathonandHalfMarathonSpringEdition",
+          "sourceTitle": "Tidewater Striders spring marathon event listing",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": [],
+      "courseSource": {
+        "sourceUrl": "https://runsignup.com/Race/VA/Chesapeake/TidewaterStriderMarathonandHalfMarathonSpringEdition",
+        "verifiedOn": "2026-11-20"
+      }
     }
   ]
 }
