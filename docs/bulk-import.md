@@ -36,3 +36,10 @@ The `2027-us.csv` batch adds U.S. race editions using organizer announcements wh
 available and attributed FindMyMarathon calendar listings for other dates. Calendar
 dates can change and should be confirmed with organizers. Boston eligibility was
 added separately only where an organizer source supported it.
+
+The `findmymarathon-us-2026-2027.csv` snapshot covers dated U.S. full-marathon
+listings from the [FindMyMarathon calendar](https://findmymarathon.com/calendar-all.php)
+between November 20, 2026 and December 31, 2027. Dates without a published day
+were held for review. Existing entries and organizer sources take precedence over
+directory duplicates. The snapshot stores names, dates, locations, and source links.
+It does not infer course, registration, or Boston eligibility details.
