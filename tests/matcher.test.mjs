@@ -16,7 +16,7 @@ test('demo records cover the criteria and contain no invented geometry', () => {
 });
 
 test('weighted fit rewards exact and near matches and handles missing data separately', () => {
-  const ranked = rankRaces(races.filter(race => race.demo), {gain:pick('At most 150 m','4'), cost:pick('At most $130 USD')});
+  const ranked = rankRaces(races.filter(race => race.demo), {gain:pick('At most 500 ft','4'), cost:pick('At most $130 USD')});
   assert.equal(ranked[0].race.id, 'tideline');
   const estuary = ranked.find(x => x.race.id === 'blue-estuary');
   assert.equal(estuary.score, 98);

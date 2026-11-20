@@ -8,13 +8,13 @@ Each attribute is an object with `value` and `status`. Use `demo` for fictional 
 | --- | --- |
 | month, season, region | English month, local season, continent |
 | temperature | Typical whole-degree Celsius race-day value |
-| gain, loss | Nonnegative meters, stored independently |
+| gain, loss | Nonnegative meters, stored independently and converted to feet for matching and display |
 | surface | Road, Mostly road, Trail, Mostly trail, Mixed |
 | boston | eligible or ineligible, with directory basis where applicable |
 | field | Recent full-marathon finisher count and its edition year |
 | scenery | Array of category strings |
 | cost | Nonnegative USD prototype estimate |
-| airportDistance | Approximate straight-line distance in kilometers and the named airport |
+| airportDistance | Approximate straight-line distance stored in kilometers with the named airport, converted to miles for matching and display |
 | configuration | Loop, Point-to-point, Out-and-back, Multiple loops |
 | registration | Open, Upcoming, Waitlist, Closed |
 
