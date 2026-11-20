@@ -34,3 +34,26 @@ omitted.
 Real records include `country`, a country or territory display name used for the
 exact country filter. Where the organizer publishes a marathon-specific entry cap
 as field-size evidence, set `basis` to `registration cap` and link its source.
+
+### Historical temperature
+
+The temperature attribute can contain a `basis` of `seasonal estimate` or
+`past editions`. Both use modeled hourly air temperatures from
+[Open-Meteo historical reanalysis](https://open-meteo.com/en/docs/historical-weather-api)
+(CC BY 4.0). They estimate local conditions and do not predict future race-day
+weather. Coordinates in `data/weather-locations.csv` represent the race city or a
+nearby named location, with GeoNames links where available. They do not represent
+course geometry.
+
+The seasonal estimator takes the median of morning averages from 2023–2025,
+using the seven calendar days centered on the scheduled month and day. Each
+daily average uses five hourly values from 7 through 11 a.m. local time. Race
+dates in `data/weather-editions.csv` also have sourced historical editions.
+For those, the matcher uses the median of the past edition morning averages
+and the profiles show each edition's low and high across its sampled hours.
+The historical start hour is rounded to the nearest whole hour. The matcher
+uses rounded Celsius values. Source and sample metadata travel with each estimate.
+
+Run `python3 scripts/import_weather.py --checked-on YYYY-MM-DD --cache /tmp/marathon-weather-cache` from the
+repository root to refresh the catalog from the input sheets. Use an API access
+plan appropriate to the project's use and keep the source attribution visible.

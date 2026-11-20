@@ -68,7 +68,8 @@ export function rankRaces(races, selections) {
       const status = fraction === 1 ? 'Fit' : fraction > 0 && !required ? 'Near match' : 'Compromise';
       const actual = isDate ? dateFormatter.format(Date.parse(race.date)) :
         Array.isArray(field.value) ? field.value.join(', ') : displayValue(criterion, field.value);
-      return {criterion, option, importance, status, actual, fraction};
+      const basis = criterion.key === 'temperature' && field.basis;
+      return {criterion, option, importance, status, actual: basis ? actual + ' (' + basis + ')' : actual, fraction};
     });
     return {race, details, score:known ? Math.round(100 * earned / known) : null,
       coverage:total ? Math.round(100 * known / total) : null, unmet, unconfirmed};

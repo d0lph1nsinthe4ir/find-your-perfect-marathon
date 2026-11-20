@@ -206,7 +206,12 @@ function renderRoute(initial = false) {
       element('h3', 'Elevation and gradients'),
       element('p', 'Elevation profiles and significant climbs or descents require a verified course route.'));
     panel.append(map, gpx);
-    profile.append(facts, heading, panel);
+    profile.append(facts);
+    const temperature = race.attributes.temperature;
+    if (temperature?.status === 'verified' && temperature.basis) {
+      profile.append(renderRaceWeather(temperature));
+    }
+    profile.append(heading, panel);
   }
   if (!initial) {
     title.focus({preventScroll:true});
@@ -214,37 +219,44 @@ function renderRoute(initial = false) {
   }
 }
 
-function renderRacePreview(realRaces) {
-  const today = new Date().toISOString().slice(0, 10);
-  const featured = realRaces.filter(race => {
-    const {boston, field} = race.attributes;
-    return race.date >= today && boston?.status === 'verified' && boston.value === 'eligible' &&
-      field?.status === 'verified' && field.basis === 'registration cap' &&
-      Number.isInteger(field.value) && field.value > 0 && field.value <= 2500;
-  }).sort((left, right) => left.attributes.field.value - right.attributes.field.value ||
-    left.date.localeCompare(right.date)).slice(0, 3);
-  if (!featured.length) return;
+function renderRaceWeather(temperature) {
+  const section = element('section', '', 'weather');
+  section.setAttribute('aria-labelledby', 'weather-title');
+  const heading = element('h2', 'Historical race weather');
+  heading.id = 'weather-title';
+  const pastEditions = temperature.basis === 'past editions';
+  const basis = pastEditions ? 'Median of the morning averages from the editions below.' :
+    'Seasonal estimate based on ' + temperature.sampleDays + ' mornings within three days of the scheduled month and day, ' +
+      temperature.years[0] + '–' + temperature.years.at(-1) + ', at 7–11 a.m. local time.';
+  section.append(heading, element('p', 'Typical morning near ' + temperature.location + ' · ' +
+    formatWeatherTemperature(temperature.value)), element('p', basis, 'meta'));
 
-  const largestCap = featured.at(-1).attributes.field.value;
-  const date = new Intl.DateTimeFormat('en-US', {dateStyle:'medium', timeZone:'UTC'});
-  const number = new Intl.NumberFormat('en-US');
-  const list = $('race-preview-list');
-  for (const race of featured) {
-    const entry = element('li');
-    const row = element('div', '', 'race-preview-row');
-    const link = element('a', race.name);
-    link.href = '#race/' + race.id;
-    const cap = race.attributes.field.value;
-    row.append(link, element('span', number.format(cap), 'race-preview-count'));
-    const track = element('div', '', 'race-preview-track');
-    track.setAttribute('aria-hidden', 'true');
-    const bar = element('span');
-    bar.style.width = (cap / largestCap * 100) + '%';
-    track.append(bar);
-    entry.append(row, element('p', race.setting + ' · ' + date.format(Date.parse(race.date)), 'meta'), track);
-    list.append(entry);
+  if (pastEditions) {
+    const list = element('ul', '', 'weather-history');
+    for (const edition of temperature.editions) {
+      const date = sourceLink(edition.dateSource, edition.date);
+      const entry = element('li');
+      const start = String(edition.startHour).padStart(2, '0') + ':00';
+      const end = String(edition.startHour + 4).padStart(2, '0') + ':00';
+      entry.append(date, element('span', formatWeatherTemperature(edition.low) + ' to ' +
+        formatWeatherTemperature(edition.high) + ' · ' + start + '–' + end + ' local'));
+      list.append(entry);
+    }
+    section.append(list);
   }
-  $('race-preview').hidden = false;
+
+  const source = element('p', 'Modeled local air temperatures, for planning ahead. ', 'meta');
+  source.append(sourceLink(temperature.sourceUrl, 'Open-Meteo / ERA5'), ' · ',
+    sourceLink('https://creativecommons.org/licenses/by/4.0/', 'CC BY 4.0'));
+  if (temperature.locationSource) {
+    source.append(' · ', sourceLink(temperature.locationSource, 'GeoNames location'));
+  }
+  section.append(source);
+  return section;
+}
+
+function formatWeatherTemperature(celsius) {
+  return celsius + ' °C / ' + Math.round(celsius * 9 / 5 + 32) + ' °F';
 }
 
 async function start() {
@@ -255,7 +267,6 @@ async function start() {
     const realRaces = data.races.filter(race => !race.demo);
     races = realRaces.length ? realRaces : data.races;
     if (realRaces.length) {
-      renderRacePreview(realRaces);
       $('catalog-note').textContent = realRaces.length +
         ' sourced races. Check with organizers before booking. Missing and unverified details are shown separately.';
       const countries = [...new Set(realRaces.map(race => race.country).filter(Boolean))]

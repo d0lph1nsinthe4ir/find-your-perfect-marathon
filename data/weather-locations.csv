@@ -1,0 +1,546 @@
+id,latitude,longitude,label,locationSource
+tokyo-2027,35.6895,139.69171,Tokyo,https://www.geonames.org/1850147/
+boston-2027,42.35843,-71.05977,Boston,https://www.geonames.org/4930956/
+houston-2027,29.76328,-95.36327,Houston,https://www.geonames.org/4699066/
+hong-kong-2027,22.27832,114.17469,Hong Kong,https://www.geonames.org/1819729/
+rome-2027,41.89193,12.51133,Rome,https://www.geonames.org/3169070/
+seoul-2027,37.566,126.9784,Seoul,https://www.geonames.org/1835848/
+rotterdam-2027,51.9225,4.47917,Rotterdam,https://www.geonames.org/2747891/
+manchester-2027,53.48095,-2.23743,Manchester,https://www.geonames.org/2643123/
+vienna-2027,48.20849,16.37208,Vienna,https://www.geonames.org/2761369/
+big-sur-2027,36.27024,-121.80745,Big Sur,https://www.geonames.org/5328563/
+eugene-2027,44.05207,-123.08675,Eugene,https://www.geonames.org/5725846/
+prague-2027,50.08804,14.42076,Prague,https://www.geonames.org/3067696/
+vancouver-2027,49.24966,-123.11934,Vancouver,https://www.geonames.org/6173331/
+copenhagen-2027,55.67594,12.56553,Copenhagen,https://www.geonames.org/2618425/
+cape-town-2027,-33.92584,18.42322,Cape Town,https://www.geonames.org/3369157/
+ottawa-2027,45.41117,-75.69812,Ottawa,https://www.geonames.org/6094817/
+grandmas-2027,46.78327,-92.10658,Duluth,https://www.geonames.org/5024719/
+gold-coast-2027,-28.00029,153.43088,Gold Coast,https://www.geonames.org/2165087/
+sydney-2027,-33.86785,151.20732,Sydney,https://www.geonames.org/2147714/
+chicago-2027,41.85003,-87.65005,Chicago,https://www.geonames.org/4887398/
+auckland-2027,-36.84853,174.76349,Auckland,https://www.geonames.org/2193733/
+richmond-2027,37.55376,-77.46026,Richmond,https://www.geonames.org/4781708/
+aims-5-2027,47.36667,8.55,Zürich,https://www.geonames.org/2657896/
+aims-20159-2027,13.08784,80.27847,Chennai,https://www.geonames.org/1264527/
+aims-10228-2027,69.6489,18.95508,Tromsø,https://www.geonames.org/3133895/
+aims-10157-2027,20.967,-89.62318,Mérida,https://www.geonames.org/3523349/
+aims-632-2027,24.47979,118.08187,Xiamen,https://www.geonames.org/1790645/
+aims-10491-2027,25.28545,51.53096,Doha,https://www.geonames.org/290030/
+aims-10180-2027,13.62,99.59169,Chom Bueng,https://www.geonames.org/1153646/
+aims-638-2027,20.87,-156.68,"Lahaina area, Maui",
+aims-635-2027,19.07283,72.88261,Mumbai,https://www.geonames.org/1275339/
+aims-10224-2027,14.99433,103.10392,Buri Ram,https://www.geonames.org/1611453/
+aims-918-2027,35.17284,33.35397,Nicosia,https://www.geonames.org/146268/
+aims-10131-2027,32.66568,-16.92547,Funchal,https://www.geonames.org/2267827/
+aims-10493-2027,48.351,13.312,Bad Füssing,https://www.geonames.org/2923500/
+aims-642-2027,31.63,-8.00,Marrakech,
+aims-644-2027,33.28,131.50,Beppu,
+aims-10251-2027,33.83916,132.76574,Matsuyama,https://www.geonames.org/1926099/
+aims-656-2027,-3.35,37.33333,Moshi,https://www.geonames.org/153209/
+aims-10386-2027,28.26689,83.96851,Pokhara,https://www.geonames.org/1282898/
+aims-10175-2027,26.91962,75.78781,Jaipur,https://www.geonames.org/1269515/
+aims-10156-2027,43.50891,16.43915,Split,https://www.geonames.org/3190261/
+aims-655-2027,10.48801,-66.87919,Caracas,https://www.geonames.org/3646738/
+aims-636-2027,22.27832,114.17469,Hong Kong,https://www.geonames.org/1819729/
+aims-10041-2027,33.85181,130.85034,Kitakyushu,https://www.geonames.org/1859307/
+aims-940-2027,35.02107,135.75385,Kyoto,https://www.geonames.org/1857910/
+aims-652-2027,37.39,-5.99,Seville,
+aims-10052-2027,42.56335,12.64329,Terni,https://www.geonames.org/3165771/
+aims-683-2027,32.08088,34.78057,Tel Aviv,https://www.geonames.org/293397/
+aims-698-2027,35.87102,128.60121,Daegu,https://www.geonames.org/1835329/
+aims-895-2027,35.95,14.41,Buġibba,
+aims-10167-2027,28.62137,77.2148,New Delhi,https://www.geonames.org/1261481/
+aims-874-2027,34.69379,135.50107,Osaka,https://www.geonames.org/1853909/
+aims-10202-2027,15.21233,145.7545,Saipan,https://www.geonames.org/7828758/
+aims-664-2027,25.54389,-103.41898,Torreón,https://www.geonames.org/3981254/
+aims-682-2027,41.38879,2.15899,Barcelona,https://www.geonames.org/3128760/
+aims-672-2027,35.18147,136.90641,Nagoya,https://www.geonames.org/1856057/
+aims-10072-2027,34.06667,134.56667,Tokushima,https://www.geonames.org/1850158/
+aims-674-2027,31.76904,35.21633,Jerusalem,https://www.geonames.org/281184/
+aims-10305-2027,29.56026,106.55771,Chongqing,https://www.geonames.org/1814906/
+aims-10058-2027,16.06778,108.22083,Da Nang,https://www.geonames.org/1583992/
+aims-678-2027,-51.69382,-57.85701,Stanley,https://www.geonames.org/3426691/
+aims-1152-2027,25.06199,121.45703,New Taipei City,https://www.geonames.org/12908892/
+aims-10488-2027,-42.87936,147.32941,Hobart,https://www.geonames.org/2163355/
+aims-702-2027,45.46427,9.18951,Milan,https://www.geonames.org/3173435/
+aims-687-2027,48.14816,17.10674,Bratislava,https://www.geonames.org/3060972/
+aims-10148-2027,46.76667,23.6,Cluj-Napoca,https://www.geonames.org/681290/
+aims-710-2027,52.21833,6.89583,Enschede,https://www.geonames.org/2756071/
+aims-10018-2027,52.37,9.73,Hanover,
+aims-713-2027,47.36667,8.55,Zürich,https://www.geonames.org/2657896/
+aims-708-2027,50.06143,19.93658,Kraków,https://www.geonames.org/3094802/
+aims-703-2027,36.65,138.18333,Nagano,https://www.geonames.org/1856215/
+aims-10089-2027,36.43556,28.22199,Rhodes,https://www.geonames.org/400666/
+aims-20170-2027,44.05755,12.56528,Rimini,https://www.geonames.org/3169361/
+aims-10004-2027,60.39299,5.32415,Bergen,https://www.geonames.org/3161732/
+aims-10431-2027,3.43054,-76.5199,Cali,https://www.geonames.org/3687925/
+aims-716-2027,53.55073,9.99302,Hamburg,https://www.geonames.org/2911298/
+aims-10109-2027,54.90156,23.90909,Kaunas,https://www.geonames.org/598316/
+aims-714-2027,40.4165,-3.70256,Madrid,https://www.geonames.org/3117735/
+aims-1163-2027,-34.92866,138.59863,Adelaide,https://www.geonames.org/2078025/
+aims-1113-2027,54.59682,-5.92541,Belfast,https://www.geonames.org/2655984/
+aims-10199-2027,-32.88946,-68.84582,Mendoza,https://www.geonames.org/3844421/
+aims-724-2027,43.65333,-79.38389,Toronto,https://www.geonames.org/6167865/
+aims-1160-2027,52.04172,-0.75583,Milton Keynes,https://www.geonames.org/2642465/
+aims-10055-2027,5.9749,116.0724,Kota Kinabalu,https://www.geonames.org/1733432/
+aims-711-2027,-24.65451,25.90859,Gaborone,https://www.geonames.org/933773/
+aims-1153-2027,46.20222,6.14569,Geneva,https://www.geonames.org/2660646/
+aims-690-2027,-33.45694,-70.64827,Santiago,https://www.geonames.org/3871336/
+aims-734-2027,-12.04318,-77.02824,Lima,https://www.geonames.org/3936456/
+aims-10001-2027,47.79941,13.04399,Salzburg,https://www.geonames.org/2766824/
+aims-733-2027,49.79391,9.95121,Würzburg,https://www.geonames.org/2805615/
+aims-796-2027,62.00973,-6.77164,Tórshavn,https://www.geonames.org/2611396/
+aims-10103-2027,52.25833,-7.11194,Waterford,https://www.geonames.org/2960992/
+aims-785-2027,53.72536,-7.79823,Longford,https://www.geonames.org/2962840/
+aims-821-2027,57.25,-4.42,Loch Ness area,
+mesa-2027,33.42227,-111.82264,Mesa,https://www.geonames.org/5304391/
+glass-city-2027,41.66394,-83.55521,Toledo,https://www.geonames.org/5174035/
+sugarloaf-2027,45.1893,-70.4625,"Cathedral Pines Campground, Eustis",
+bayshore-2027,44.7690,-85.5824,"Northwestern Michigan College, Traverse City",
+missoula-2027,47.02,-114.23,Frenchtown start area,
+us-texas-marathon-2027,30.05,-95.19,Kingwood,
+us-lake-mead-marathon-2027,35.97859,-114.83249,Boulder City,https://www.geonames.org/5500539/
+us-buckeye-marathon-2027,33.37032,-112.58378,Buckeye,https://www.geonames.org/5287262/
+us-mobile-marathon-2027,30.69436,-88.04305,Mobile,https://www.geonames.org/4076598/
+us-walt-disney-world-marathon-2027,28.53834,-81.37924,Orlando,https://www.geonames.org/4167147/
+us-mcallen-marathon-2027,26.20341,-98.23001,McAllen,https://www.geonames.org/4709796/
+us-daufuskie-island-marathon-2027,32.12,-80.85,Daufuskie Island,
+us-carlsbad-marathon-2027,33.15809,-117.35059,Carlsbad,https://www.geonames.org/5334223/
+us-redding-marathon-2027,40.58654,-122.39168,Redding,https://www.geonames.org/5570160/
+us-louisiana-marathon-2027,30.44332,-91.18747,Baton Rouge,https://www.geonames.org/4315588/
+us-museum-of-aviation-marathon-2027,32.61574,-83.62664,Warner Robins,https://www.geonames.org/4229476/
+us-yuma-territorial-marathon-2027,32.72532,-114.6244,Yuma,https://www.geonames.org/5322053/
+us-miami-marathon-2027,25.77427,-80.19366,Miami,https://www.geonames.org/4164138/
+us-town-of-celebration-marathon-2027,28.32529,-81.53313,Celebration,https://www.geonames.org/4150394/
+us-big-beach-marathon-2027,30.24604,-87.70082,Gulf Shores,https://www.geonames.org/4065552/
+us-surfside-beach-marathon-2027,28.94,-95.29,Surfside Beach,
+us-tallahassee-marathon-2027,30.43826,-84.28073,Tallahassee,https://www.geonames.org/4174715/
+us-surf-city-marathon-2027,33.6603,-117.99923,Huntington Beach,https://www.geonames.org/5358705/
+us-florida-marathon-2027,28.08363,-80.60811,Melbourne,https://www.geonames.org/4163971/
+us-donna-marathon-2027,30.29469,-81.39314,Jacksonville Beach,https://www.geonames.org/4160023/
+us-harlingen-marathon-2027,26.19063,-97.6961,Harlingen,https://www.geonames.org/4696233/
+us-run-oak-island-marathon-2027,33.91656,-78.16111,Oak Island,https://www.geonames.org/4482916/
+us-mississippi-blues-marathon-2027,32.29876,-90.18481,Jackson,https://www.geonames.org/4431410/
+us-ventura-marathon-2027,34.27834,-119.29317,Ventura,https://www.geonames.org/5405878/
+us-we-run-this-beach-marathon-2027,30.24604,-87.70082,Gulf Shores,https://www.geonames.org/4065552/
+us-ellerbe-marathon-2027,35.07126,-79.76144,Ellerbe,https://www.geonames.org/4465198/
+us-wilmington-marathon-2027,34.23556,-77.94604,Wilmington,https://www.geonames.org/4499379/
+us-woodlands-marathon-2027,30.15799,-95.48938,The Woodlands,https://www.geonames.org/4736476/
+us-el-paso-marathon-2027,31.75872,-106.48693,El Paso,https://www.geonames.org/5520993/
+us-cowtown-marathon-2027,32.72541,-97.32085,Fort Worth,https://www.geonames.org/4691930/
+us-myrtle-beach-marathon-2027,33.68906,-78.88669,Myrtle Beach,https://www.geonames.org/4588718/
+us-little-rock-marathon-2027,34.74648,-92.28959,Little Rock,https://www.geonames.org/4119403/
+us-los-angeles-marathon-2027,34.05223,-118.24368,Los Angeles,https://www.geonames.org/5368361/
+us-napa-valley-marathon-2027,38.29714,-122.28553,Napa,https://www.geonames.org/5376095/
+us-b-and-a-marathon-2027,39.07039,-76.54524,Severna Park,https://www.geonames.org/4369224/
+us-newport-news-one-city-marathon-2027,36.98038,-76.42975,Newport News,https://www.geonames.org/4776024/
+us-chattanooga-marathon-2027,35.04563,-85.30968,Chattanooga,https://www.geonames.org/4612862/
+us-catalina-marathon-2027,33.44,-118.50,"Two Harbors, Catalina Island",
+us-big-island-international-marathon-2027,19.72991,-155.09073,Hilo,https://www.geonames.org/5855927/
+us-tobacco-road-marathon-2027,35.79154,-78.78112,Cary,https://www.geonames.org/4459467/
+us-asheville-marathon-2027,35.60095,-82.55402,Asheville,https://www.geonames.org/4453066/
+us-shamrock-marathon-2027,36.85293,-75.97799,Virginia Beach,https://www.geonames.org/4791259/
+us-oakland-marathon-2027,37.80437,-122.2708,Oakland,https://www.geonames.org/5378538/
+us-yakima-river-canyon-marathon-2027,46.99651,-120.54785,Ellensburg,https://www.geonames.org/5793639/
+us-salisbury-marathon-2027,38.36067,-75.59937,Salisbury,https://www.geonames.org/4368711/
+us-cheap-marathon-2027,42.88064,-71.32729,Derry,https://www.geonames.org/5085374/
+us-ohio-river-road-runners-club-marathon-2027,39.68478,-83.92965,Xenia,https://www.geonames.org/4528810/
+us-virginia-creeper-marathon-2027,36.70983,-81.97735,Abingdon,https://www.geonames.org/4743815/
+us-martian-marathon-2027,42.32226,-83.17631,Dearborn,https://www.geonames.org/4990510/
+us-knoxville-marathon-2027,35.96064,-83.92074,Knoxville,https://www.geonames.org/4634946/
+us-athens-marathon-2027,39.32924,-82.10126,Athens,https://www.geonames.org/4505542/
+us-vernonia-marathon-2027,45.61872,-123.11428,Banks,https://www.geonames.org/5712430/
+us-carmel-marathon-2027,39.97837,-86.11804,Carmel,https://www.geonames.org/4255466/
+us-blue-ridge-marathon-2027,37.27097,-79.94143,Roanoke,https://www.geonames.org/4782167/
+us-jersey-city-marathon-2027,40.72816,-74.07764,Jersey City,https://www.geonames.org/5099836/
+us-illinois-marathon-2027,40.10,-88.24,"University of Illinois, Champaign",
+us-oklahoma-city-memorial-marathon-2027,35.46756,-97.51643,Oklahoma City,https://www.geonames.org/4544349/
+us-kalamazoo-marathon-2027,42.29171,-85.58723,Kalamazoo,https://www.geonames.org/4997787/
+us-shiprock-marathon-2027,36.78555,-108.68703,Shiprock,https://www.geonames.org/5491288/
+us-flying-pig-marathon-2027,39.12711,-84.51439,Cincinnati,https://www.geonames.org/4508722/
+us-pittsburgh-marathon-2027,40.44062,-79.99589,Pittsburgh,https://www.geonames.org/5206379/
+us-colorado-marathon-2027,40.58526,-105.08442,Fort Collins,https://www.geonames.org/5577147/
+us-lincoln-marathon-2027,40.8,-96.66696,Lincoln,https://www.geonames.org/5072006/
+us-avenue-of-the-giants-marathon-2027,40.32,-123.93,Weott area,
+us-maine-coast-marathon-2027,43.32,-70.58,Wells,
+us-lake-wobegon-trail-marathon-2027,45.73,-94.47,Holdingford start area,
+us-ogden-marathon-2027,41.223,-111.97383,Ogden,https://www.geonames.org/5779206/
+us-new-river-marathon-2027,36.29,-81.51,Fleetwood,
+us-capital-city-marathon-2027,47.04491,-122.90169,Olympia,https://www.geonames.org/5805687/
+us-whitefish-marathon-2027,48.41108,-114.33763,Whitefish,https://www.geonames.org/5686121/
+us-vermont-city-marathon-2027,44.47588,-73.21207,Burlington,https://www.geonames.org/5234372/
+us-buffalo-marathon-2027,42.88645,-78.87837,Buffalo,https://www.geonames.org/5110629/
+us-utah-valley-marathon-2027,40.23384,-111.65853,Provo,https://www.geonames.org/5780026/
+us-newport-marathon-or-2027,44.63678,-124.05345,Newport,https://www.geonames.org/5742750/
+us-deadwood-mickelson-trail-marathon-2027,44.37665,-103.72964,Deadwood,https://www.geonames.org/5764048/
+us-lake-placid-marathon-2027,44.27962,-73.98198,Lake Placid,https://www.geonames.org/5123831/
+us-charlevoix-marathon-2027,45.31806,-85.2584,Charlevoix,https://www.geonames.org/4988575/
+us-mad-marathon-2027,44.19,-72.83,Waitsfield,
+us-mesa-falls-marathon-2027,44.07158,-111.44829,Ashton,https://www.geonames.org/5584299/
+us-deseret-news-marathon-2027,40.76078,-111.89105,Salt Lake City,https://www.geonames.org/5780993/
+us-juneau-marathon-2027,58.30194,-134.41972,Juneau,https://www.geonames.org/5554072/
+us-marquette-marathon-2027,46.54354,-87.39542,Marquette,https://www.geonames.org/5000947/
+us-clarence-demar-marathon-2027,42.93369,-72.27814,Keene,https://www.geonames.org/5088262/
+us-wineglass-marathon-2027,42.14285,-77.05469,Corning,https://www.geonames.org/5113760/
+us-hartford-marathon-2027,41.76371,-72.68509,Hartford,https://www.geonames.org/4835797/
+us-cape-cod-marathon-2027,41.5515,-70.61475,Falmouth,https://www.geonames.org/4936174/
+us-baystate-marathon-2027,42.63342,-71.31617,Lowell,https://www.geonames.org/4942618/
+us-mount-desert-island-marathon-2027,44.38758,-68.2039,Bar Harbor,https://www.geonames.org/4957320/
+us-indianapolis-monumental-marathon-2027,39.76838,-86.15804,Indianapolis,https://www.geonames.org/4259418/
+us-new-york-city-marathon-2027,40.71427,-74.00597,New York City,https://www.geonames.org/5128581/
+dismal-swamp-2026,36.81904,-76.27494,Chesapeake,https://www.geonames.org/4752186/
+tidewater-striders-spring-2027,36.81904,-76.27494,Chesapeake,https://www.geonames.org/4752186/
+fmm-honoring-our-heroes-marathon-mo-2026,37.95143,-91.77127,Rolla,https://www.geonames.org/4406282/
+fmm-monument-valley-veterans-marathon-ut-2026,36.98,-110.11,Monument Valley,
+fmm-shiner-beer-run-marathon-tx-2026,29.42913,-97.17054,Shiner,https://www.geonames.org/4728482/
+fmm-white-river-marathon-ar-2026,36.27118,-92.53544,Cotter,https://www.geonames.org/4106721/
+fmm-gobbler-grind-marathon-ks-2026,38.98223,-94.67079,Overland Park,https://www.geonames.org/4276873/
+fmm-harpeth-hills-flying-monkey-marathon-tn-2026,36.16589,-86.78444,Nashville,https://www.geonames.org/4644585/
+fmm-log-jammer-marathon-la-2026,32.52515,-93.75018,Shreveport,https://www.geonames.org/4341513/
+fmm-philadelphia-marathon-pa-2026,39.95238,-75.16362,Philadelphia,https://www.geonames.org/4560349/
+fmm-route-66-marathon-ok-2026,36.15398,-95.99277,Tulsa,https://www.geonames.org/4553433/
+fmm-space-coast-marathon-fl-2026,28.38612,-80.742,Cocoa,https://www.geonames.org/4151440/
+fmm-north-central-rail-trail-marathon-md-2026,39.55,-76.64,Sparks area,
+fmm-seattle-ghost-marathon-wa-2026,47.60621,-122.33207,Seattle,https://www.geonames.org/5809844/
+fmm-stennis-space-center-marathon-ms-2026,30.41131,-88.82781,Ocean Springs,https://www.geonames.org/4439506/
+fmm-seattle-marathon-wa-2026,47.60621,-122.33207,Seattle,https://www.geonames.org/5809844/
+fmm-3-bridges-marathon-ar-2026,34.74648,-92.28959,Little Rock,https://www.geonames.org/4119403/
+fmm-brazos-bend-100-marathon-tx-2026,29.39941,-95.83773,Needville,https://www.geonames.org/4713946/
+fmm-death-valley-trail-marathon-ca-2026,36.23962,-116.81133,Death Valley,https://www.geonames.org/12523068/
+fmm-hoover-dam-marathon-nv-2026,35.97859,-114.83249,Boulder City,https://www.geonames.org/5500539/
+fmm-millinocket-marathon-me-2026,45.65727,-68.70976,Millinocket,https://www.geonames.org/4972220/
+fmm-panama-city-beach-marathon-fl-2026,30.15946,-85.65983,Panama City,https://www.geonames.org/4167694/
+fmm-rehoboth-beach-marathon-de-2026,38.72095,-75.07601,Rehoboth Beach,https://www.geonames.org/4144284/
+fmm-st-jude-memphis-marathon-tn-2026,35.14953,-90.04898,Memphis,https://www.geonames.org/4641239/
+fmm-wildwood-trail-marathon-mo-2026,38.58283,-90.6629,Wildwood,https://www.geonames.org/4414749/
+fmm-bergen-to-back-bay-marathon-nj-2026,40.90732,-74.07514,Rochelle Park,https://www.geonames.org/5103384/
+fmm-bound-for-boston-sarasota-marathon-fl-2026,27.33643,-82.53065,Sarasota,https://www.geonames.org/4172131/
+fmm-california-international-marathon-ca-2026,38.58157,-121.4944,Sacramento,https://www.geonames.org/5389489/
+fmm-eod-warrior-holiday-dash-marathon-dc-2026,38.89511,-77.03637,Washington,https://www.geonames.org/4140963/
+fmm-queens-marathon-fall-ny-2026,40.68149,-73.83652,Queens,https://www.geonames.org/5133273/
+fmm-san-antonio-marathon-tx-2026,29.42412,-98.49363,San Antonio,https://www.geonames.org/4726206/
+fmm-tallahassee-ultra-distance-classic-marathon-fl-2026,30.43826,-84.28073,Tallahassee,https://www.geonames.org/4174715/
+fmm-topo-trail-marathon-oh-2026,39.02,-84.07,East Fork State Park near Bethel,
+fmm-jacksonville-marathon-fl-2026,30.33218,-81.65565,Jacksonville,https://www.geonames.org/4160021/
+fmm-kiawah-island-marathon-sc-2026,32.60824,-80.08482,Kiawah Island,https://www.geonames.org/4584020/
+fmm-marathon-project-gold-wave-az-2026,33.30616,-111.84125,Chandler,https://www.geonames.org/5289282/
+fmm-phoenix-marathon-az-2026,33.44838,-112.07404,Phoenix,https://www.geonames.org/5308655/
+fmm-brownsville-chief-of-police-marathon-tx-2026,25.90175,-97.49748,Brownsville,https://www.geonames.org/4676740/
+fmm-bryan-college-station-marathon-tx-2026,30.62798,-96.33441,College Station,https://www.geonames.org/4682464/
+fmm-dallas-marathon-tx-2026,32.78306,-96.80667,Dallas,https://www.geonames.org/4684888/
+fmm-honolulu-marathon-hi-2026,21.30694,-157.85833,Honolulu,https://www.geonames.org/5856195/
+fmm-marathon-project-pro-az-2026,33.30616,-111.84125,Chandler,https://www.geonames.org/5289282/
+fmm-mississippi-gulf-coast-marathon-ms-2026,30.39603,-88.88531,Biloxi,https://www.geonames.org/4418478/
+fmm-palm-beaches-marathon-fl-2026,26.71534,-80.05337,West Palm Beach,https://www.geonames.org/4177887/
+fmm-rocket-city-marathon-al-2026,34.7304,-86.58594,Huntsville,https://www.geonames.org/4068590/
+fmm-star-of-texas-marathon-tx-2026,30.48,-98.16,Spicewood,
+fmm-tucson-marathon-az-2026,32.22174,-110.92648,Tucson,https://www.geonames.org/5318313/
+fmm-irving-frost-marathon-tx-2026,32.81402,-96.94889,Irving,https://www.geonames.org/4700168/
+fmm-run-for-the-ranch-marathon-mo-2026,37.21533,-93.29824,Springfield,https://www.geonames.org/4409896/
+fmm-hawaii-bird-conservation-marathon-hi-2026,19.72991,-155.09073,Hilo,https://www.geonames.org/5855927/
+fmm-holly-jolly-marathon-ca-2026,34.21639,-119.0376,Camarillo,https://www.geonames.org/5333180/
+fmm-corpus-christi-marathon-tx-2026,27.80058,-97.39638,Corpus Christi,https://www.geonames.org/4683416/
+fmm-last-chance-marathon-wa-2026,48.75955,-122.48822,Bellingham,https://www.geonames.org/5786899/
+fmm-new-years-eve-double-marathon-tx-2026,33.10317,-96.67055,Allen,https://www.geonames.org/4670300/
+fmm-new-years-day-double-marathon-tx-2027,33.10317,-96.67055,Allen,https://www.geonames.org/4670300/
+fmm-revolution-run-marathon-ut-2027,40.65995,-111.99633,Kearns,https://www.geonames.org/5776727/
+fmm-athens-big-fork-trail-marathon-ar-2027,34.48,-93.97,Big Fork area,
+fmm-river-city-micro-marathon-al-2027,34.60593,-86.98334,Decatur,https://www.geonames.org/4058553/
+fmm-san-diego-trail-runs-marathon-ca-2027,32.71571,-117.16472,San Diego,https://www.geonames.org/5391811/
+fmm-state-47-las-cruces-marathon-nm-2027,32.31232,-106.77834,Las Cruces,https://www.geonames.org/5475352/
+fmm-las-vegas-marathon-nv-2027,36.17497,-115.13722,Las Vegas,https://www.geonames.org/5506956/
+fmm-florida-track-club-mary-andrews-marathon-fl-2027,29.59,-82.09,Hawthorne,
+fmm-mangum-marathon-nc-2027,35.07126,-79.76144,Ellerbe,https://www.geonames.org/4465198/
+fmm-crystal-springs-trail-run-marathon-ca-2027,37.42994,-122.25386,Woodside,https://www.geonames.org/5410535/
+fmm-jekyll-island-marathon-ga-2027,31.07021,-81.42272,Jekyll Island,https://www.geonames.org/4202705/
+fmm-lost-dutchman-marathon-az-2027,33.41505,-111.54958,Apache Junction,https://www.geonames.org/5551535/
+fmm-icebreaker-marathon-ny-2027,40.71399,-73.55902,East Meadow,https://www.geonames.org/5115960/
+fmm-red-rock-canyon-marathon-nv-2027,36.17497,-115.13722,Las Vegas,https://www.geonames.org/5506956/
+fmm-sun-marathon-ut-2027,37.13304,-113.65413,Santa Clara,https://www.geonames.org/5546441/
+fmm-renegade-rehab-run-marathon-fl-2027,28.85165,-82.4876,Lecanto,https://www.geonames.org/4161733/
+fmm-death-valley-marathon-ca-2027,36.23962,-116.81133,Death Valley,https://www.geonames.org/12523068/
+fmm-clearwater-marathon-fl-2027,27.96585,-82.8001,Clearwater,https://www.geonames.org/4151316/
+fmm-usa-fit-marathon-tx-2027,29.61968,-95.63495,Sugar Land,https://www.geonames.org/4734825/
+fmm-groundhog-day-marathon-mi-2027,42.96336,-85.66809,Grand Rapids,https://www.geonames.org/4994358/
+fmm-jed-smith-ultra-classic-marathon-ca-2027,38.58157,-121.4944,Sacramento,https://www.geonames.org/5389489/
+fmm-mt-umunhum-trail-marathon-ca-2027,37.33939,-121.89496,San Jose,https://www.geonames.org/5392171/
+fmm-railway-marathon-al-2027,33.60483,-86.79388,Fultondale,https://www.geonames.org/4063570/
+fmm-warm-up-columbus-oh-2027,40.09923,-83.11408,Dublin,https://www.geonames.org/5152333/
+fmm-love-chocolate-marathon-ga-2027,32.08354,-81.09983,Savannah,https://www.geonames.org/4221552/
+fmm-rescue-rover-marathon-dalmatian-run-fest-tx-2027,32.84402,-97.14307,Bedford,https://www.geonames.org/4673094/
+fmm-austin-marathon-tx-2027,30.26715,-97.74306,Austin,https://www.geonames.org/4671654/
+fmm-ft-lauderdale-a1a-marathon-fl-2027,26.12,-80.14,Fort Lauderdale,
+fmm-puppy-power-marathon-dalmatian-run-fest-tx-2027,32.84402,-97.14307,Bedford,https://www.geonames.org/4673094/
+fmm-valentines-day-massacre-marathon-nc-2027,36.07264,-79.79198,Greensboro,https://www.geonames.org/4469146/
+fmm-mighty-mutt-marathon-dalmatian-run-fest-tx-2027,32.84402,-97.14307,Bedford,https://www.geonames.org/4673094/
+fmm-buzz-marathon-ca-2027,35.75247,-120.69628,San Miguel,https://www.geonames.org/5392448/
+fmm-fort-ebey-kettles-trail-marathon-wa-2027,48.21,-122.76,"Fort Ebey, Whidbey Island",
+fmm-montara-mountain-marathon-ca-2027,37.61383,-122.48692,Pacifica,https://www.geonames.org/5380420/
+fmm-running-from-yeti-marathon-mo-2027,37.21533,-93.29824,Springfield,https://www.geonames.org/4409896/
+fmm-galveston-marathon-tx-2027,29.30135,-94.7977,Galveston,https://www.geonames.org/4692883/
+fmm-cummins-falls-marathon-tn-2027,36.16284,-85.50164,Cookeville,https://www.geonames.org/4615145/
+fmm-socal-marathon-ca-2027,33.6603,-117.99923,Huntington Beach,https://www.geonames.org/5358705/
+fmm-wicked-fast-az-marathon-az-2027,32.22174,-110.92648,Tucson,https://www.geonames.org/5318313/
+fmm-every-womans-marathon-la-2027,29.95465,-90.07507,New Orleans,https://www.geonames.org/4335045/
+fmm-oak-ridge-to-kingston-express-marathon-tn-2027,36.01036,-84.26964,Oak Ridge,https://www.geonames.org/4646571/
+fmm-combos-marathon-ga-2027,31.57851,-84.15574,Albany,https://www.geonames.org/4179320/
+fmm-hachie-marathon-tx-2027,32.38653,-96.84833,Waxahachie,https://www.geonames.org/4740328/
+fmm-run-the-alamo-26-2-marathon-tx-2027,29.42412,-98.49363,San Antonio,https://www.geonames.org/4726206/
+fmm-seneca-creek-greenway-trail-marathon-md-2027,39.28844,-77.20387,Damascus,https://www.geonames.org/4352728/
+fmm-umstead-marathon-nc-2027,35.7721,-78.63861,Raleigh,https://www.geonames.org/4487042/
+fmm-atlanta-marathon-ga-2027,33.749,-84.38798,Atlanta,https://www.geonames.org/4180439/
+fmm-marathon-of-the-treasure-coast-fl-2027,27.19755,-80.25283,Stuart,https://www.geonames.org/4174201/
+fmm-zydeco-marathon-la-2027,30.22409,-92.01984,Lafayette,https://www.geonames.org/4330145/
+fmm-des-moines-st-paddys-marathon-ia-2027,41.60054,-93.60911,Des Moines,https://www.geonames.org/4853828/
+fmm-land-between-the-lakes-marathon-ky-2027,37.00,-88.23,Grand Rivers,
+fmm-run-through-time-marathon-co-2027,38.53472,-105.9989,Salida,https://www.geonames.org/5437555/
+fmm-run-the-rainbow-for-childrens-marathon-ms-2027,32.29876,-90.18481,Jackson,https://www.geonames.org/4431410/
+fmm-sand-hollow-marathon-ut-2027,37.17526,-113.28995,Hurricane,https://www.geonames.org/5540831/
+fmm-seabrook-lucky-trail-marathon-tx-2027,29.56412,-95.02548,Seabrook,https://www.geonames.org/4727596/
+fmm-bound-for-boston-las-vegas-marathon-nv-2027,36.0397,-114.98194,Henderson,https://www.geonames.org/5505411/
+fmm-st-patricks-marathon-dc-2027,38.89511,-77.03637,Washington,https://www.geonames.org/4140963/
+fmm-bataan-memorial-death-march-marathon-nm-2027,32.38,-106.48,White Sands Missile Range main post,
+fmm-grasslands-trail-run-marathon-tx-2027,33.23428,-97.58614,Decatur,https://www.geonames.org/4685617/
+fmm-heroes-of-america-marathon-ga-2027,32.46098,-84.98771,Columbus,https://www.geonames.org/4188985/
+fmm-napa-valley-trail-marathon-ca-2027,38.5788,-122.57971,Calistoga,https://www.geonames.org/5332937/
+fmm-fort-smith-marathon-ar-2027,35.38592,-94.39855,Fort Smith,https://www.geonames.org/4111410/
+fmm-irving-marathon-tx-2027,32.81402,-96.94889,Irving,https://www.geonames.org/4700168/
+fmm-race-to-space-marathon-al-2027,34.7304,-86.58594,Huntsville,https://www.geonames.org/4068590/
+fmm-mckirdy-micro-marathon-breaking-3-ny-2027,41.11815,-73.95542,Valley Cottage,https://www.geonames.org/5142101/
+fmm-mission-run-in-the-ozarks-marathon-ar-2027,35.86841,-92.11765,Mountain View,https://www.geonames.org/4122986/
+fmm-rend-lake-marathon-il-2027,38.08,-88.95,Whittington,
+fmm-mckirdy-micro-marathon-microotq-ny-2027,41.11815,-73.95542,Valley Cottage,https://www.geonames.org/5142101/
+fmm-albuquerque-marathon-nm-2027,35.08449,-106.65114,Albuquerque,https://www.geonames.org/5454711/
+fmm-bedrock-valley-trail-marathon-ca-2027,33.74761,-116.97307,Hemet,https://www.geonames.org/5356277/
+fmm-black-mountain-marathon-nc-2027,35.6179,-82.32123,Black Mountain,https://www.geonames.org/4456121/
+fmm-charlottesville-marathon-va-2027,38.02931,-78.47668,Charlottesville,https://www.geonames.org/4752031/
+fmm-golden-gate-headlands-marathon-ca-2027,37.85909,-122.48525,Sausalito,https://www.geonames.org/5393611/
+fmm-little-apple-marathon-ks-2027,39.18361,-96.57167,Manhattan,https://www.geonames.org/4274994/
+fmm-revel-mt-charleston-marathon-nv-2027,36.17497,-115.13722,Las Vegas,https://www.geonames.org/5506956/
+fmm-savin-rock-marathon-ct-2027,41.27065,-72.94705,West Haven,https://www.geonames.org/4845419/
+fmm-st-louis-marathon-mo-2027,38.62727,-90.19789,St. Louis,https://www.geonames.org/4407066/
+fmm-victory-marathon-in-2027,39.77,-87.36,Hillsdale area,
+fmm-bakersfield-marathon-ca-2027,35.37329,-119.01871,Bakersfield,https://www.geonames.org/5325738/
+fmm-coast-guard-marathon-nc-2027,36.2946,-76.25105,Elizabeth City,https://www.geonames.org/4465088/
+fmm-modesto-marathon-ca-2027,37.6391,-120.99688,Modesto,https://www.geonames.org/5373900/
+fmm-trailbreaker-marathon-wi-2027,43.01168,-88.23148,Waukesha,https://www.geonames.org/5278052/
+fmm-horse-capital-marathon-ky-2027,37.98869,-84.47772,Lexington,https://www.geonames.org/4297983/
+fmm-milwaukee-marathon-wi-2027,43.0389,-87.90647,Milwaukee,https://www.geonames.org/5263045/
+fmm-new-south-trail-marathon-nc-2027,35.22709,-80.84313,Charlotte,https://www.geonames.org/4460243/
+fmm-philadelphia-trail-marathon-pa-2027,39.95238,-75.16362,Philadelphia,https://www.geonames.org/4560349/
+fmm-bend-marathon-or-2027,44.05817,-121.31531,Bend,https://www.geonames.org/5713587/
+fmm-coastal-delaware-running-festival-marathon-de-2027,38.72095,-75.07601,Rehoboth Beach,https://www.geonames.org/4144284/
+fmm-millbrook-marathon-ny-2027,41.78509,-73.69402,Millbrook,https://www.geonames.org/5127007/
+fmm-spring-chance-bq-2-marathon-il-2027,41.88753,-88.30535,Geneva,https://www.geonames.org/4893591/
+fmm-university-of-charleston-marathon-wv-2027,38.34982,-81.63262,Charleston,https://www.geonames.org/4801859/
+fmm-brew-city-marathon-wi-2027,43.0389,-87.90647,Milwaukee,https://www.geonames.org/5263045/
+fmm-golden-driller-marathon-ok-2027,36.15398,-95.99277,Tulsa,https://www.geonames.org/4553433/
+fmm-horseshoe-lake-trail-run-marathon-ca-2027,37.44188,-122.14302,Palo Alto,https://www.geonames.org/5380748/
+fmm-london-oh-marathon-oh-2027,39.88645,-83.44825,London,https://www.geonames.org/4517009/
+fmm-newport-rhode-races-marathon-ri-2027,41.4901,-71.31283,Newport,https://www.geonames.org/5223593/
+fmm-pine-line-trail-marathon-wi-2027,45.13858,-90.34014,Medford,https://www.geonames.org/5262475/
+fmm-run-the-river-marathon-wa-2027,46.21125,-119.13723,Kennewick,https://www.geonames.org/5799610/
+fmm-virginia-marathon-va-2027,38.96872,-77.73555,Middleburg,https://www.geonames.org/4772904/
+fmm-wenatchee-marathon-wa-2027,47.42346,-120.31035,Wenatchee,https://www.geonames.org/5815342/
+fmm-delaware-marathon-de-2027,39.74595,-75.54659,Wilmington,https://www.geonames.org/4145381/
+fmm-mountains-2-beach-marathon-ca-2027,34.27834,-119.29317,Ventura,https://www.geonames.org/5405878/
+fmm-washington-state-marathon-wa-2027,47.60621,-122.33207,Seattle,https://www.geonames.org/5809844/
+fmm-frisco-marathon-mo-2027,37.30505,-93.42853,Willard,https://www.geonames.org/4414816/
+fmm-garmin-olathe-marathon-ks-2027,38.8814,-94.81913,Olathe,https://www.geonames.org/4276614/
+fmm-kentucky-derby-festival-marathon-ky-2027,38.25424,-85.75941,Louisville,https://www.geonames.org/4299276/
+fmm-kewash-marathon-ia-2027,41.29918,-91.69294,Washington,https://www.geonames.org/4880731/
+fmm-lewis-and-clark-marathon-ia-2027,41.26194,-95.86083,Council Bluffs,https://www.geonames.org/4852832/
+fmm-non-cancelled-marathon-wi-2027,43.11167,-88.49927,Oconomowoc,https://www.geonames.org/5265499/
+fmm-rock-n-roll-nashville-marathon-tn-2027,36.16589,-86.78444,Nashville,https://www.geonames.org/4644585/
+fmm-thelma-and-louise-marathon-ut-2027,38.57332,-109.54984,Moab,https://www.geonames.org/5543307/
+fmm-valley-thaw-out-races-marathon-ak-2027,61.59941,-149.11456,Palmer,https://www.geonames.org/5871146/
+fmm-wisconsin-marathon-wi-2027,42.58474,-87.82119,Kenosha,https://www.geonames.org/5258393/
+fmm-2slow4boston-marathon-sc-2027,34.93873,-82.22706,Greer,https://www.geonames.org/4580599/
+fmm-cedar-rapids-marathon-ia-2027,42.00833,-91.64407,Cedar Rapids,https://www.geonames.org/4850751/
+fmm-fort-wayne-marathon-in-2027,41.1306,-85.12886,Fort Wayne,https://www.geonames.org/4920423/
+fmm-gettysburg-north-south-marathon-pa-2027,39.83093,-77.2311,Gettysburg,https://www.geonames.org/4558183/
+fmm-jim-thorpe-marathon-pa-2027,40.87592,-75.73241,Jim Thorpe,https://www.geonames.org/5195460/
+fmm-maui-marathon-hi-2027,20.92881,-156.69422,Kā‘anapali,https://www.geonames.org/5856844/
+fmm-run-the-rock-marathon-wi-2027,42.68279,-89.01872,Janesville,https://www.geonames.org/5257754/
+fmm-mv-spring-classic-marathon-ma-2027,41.41,-70.62,Martha's Vineyard,
+fmm-farm-park-marathon-md-2027,39.11733,-77.16109,Derwood,https://www.geonames.org/4353084/
+fmm-garmin-marathon-durham-nc-2027,35.99403,-78.89862,Durham,https://www.geonames.org/4464368/
+fmm-great-allegheny-ohiopyle-marathon-pa-2027,39.87,-79.49,Ohiopyle,
+fmm-ironhorse-marathon-ia-2027,43.36386,-92.55407,Riceville,https://www.geonames.org/4872882/
+fmm-boise-river-marathon-id-2027,43.6135,-116.20345,Boise,https://www.geonames.org/5586437/
+fmm-chicagoland-spring-marathon-il-2027,42.03336,-88.08341,Schaumburg,https://www.geonames.org/4910713/
+fmm-eau-claire-marathon-wi-2027,44.81135,-91.49849,Eau Claire,https://www.geonames.org/5251436/
+fmm-hudson-valley-marathon-at-the-walkway-over-the-hudson-ny-2027,41.72093,-73.96014,Highland,https://www.geonames.org/5120741/
+fmm-long-island-marathon-ny-2027,40.71399,-73.55902,East Meadow,https://www.geonames.org/5115960/
+fmm-oc-marathon-ca-2027,33.64113,-117.91867,Costa Mesa,https://www.geonames.org/5339840/
+fmm-providence-rhode-races-marathon-ri-2027,41.82399,-71.41283,Providence,https://www.geonames.org/5224151/
+fmm-sombrero-marathon-ca-2027,34.39166,-118.54259,Santa Clarita,https://www.geonames.org/5393049/
+fmm-tacoma-city-marathon-wa-2027,47.25288,-122.44429,Tacoma,https://www.geonames.org/5812944/
+fmm-york-marathon-pa-2027,39.9626,-76.72774,York,https://www.geonames.org/4562407/
+fmm-maple-leaf-marathon-vt-2027,43.91,-72.14,Fairlee,
+fmm-granite-state-marathon-nh-2027,42.76537,-71.46757,Nashua,https://www.geonames.org/5090046/
+fmm-grizzly-peak-trail-run-marathon-ca-2027,37.87159,-122.27275,Berkeley,https://www.geonames.org/5327684/
+fmm-starved-rock-country-marathon-il-2027,41.34559,-88.84258,Ottawa,https://www.geonames.org/4905006/
+fmm-pine-tree-marathon-me-2027,43.65737,-70.2589,Portland,https://www.geonames.org/4975802/
+fmm-beach-to-bay-marathon-tx-2027,27.80058,-97.39638,Corpus Christi,https://www.geonames.org/4683416/
+fmm-famous-idaho-potato-marathon-id-2027,43.6135,-116.20345,Boise,https://www.geonames.org/5586437/
+fmm-cleveland-marathon-oh-2027,41.4995,-81.69541,Cleveland,https://www.geonames.org/5150529/
+fmm-colfax-marathon-co-2027,39.73915,-104.9847,Denver,https://www.geonames.org/5419384/
+fmm-epic-marathon-wi-2027,44.51916,-88.01983,Green Bay,https://www.geonames.org/5254962/
+fmm-three-days-at-the-fair-marathon-spring-nj-2027,41.14,-74.72,Augusta,
+fmm-conquer-the-canal-marathon-de-2027,39.57775,-75.58945,Delaware City,https://www.geonames.org/4142191/
+fmm-dances-with-dirt-marathon-indiana-in-2027,39.20,-86.17,Gnaw Bone,
+fmm-fargo-marathon-nd-2027,46.87719,-96.7898,Fargo,https://www.geonames.org/5059163/
+fmm-madeline-island-marathon-wi-2027,46.78,-90.79,La Pointe,
+fmm-old-colony-marathon-ma-2027,42.10148,-72.58981,Springfield,https://www.geonames.org/4951788/
+fmm-mud-mountain-dam-spring-marathon-wa-2027,47.20427,-121.9915,Enumclaw,https://www.geonames.org/5793822/
+fmm-nutmeg-state-marathon-ct-2027,41.76371,-72.68509,Hartford,https://www.geonames.org/4835797/
+fmm-conquer-the-cove-trail-marathon-va-2027,37.27097,-79.94143,Roanoke,https://www.geonames.org/4782167/
+fmm-northwoods-escape-marathon-wi-2027,45.87,-89.71,Minocqua,
+fmm-red-island-marathon-ri-2027,41.7001,-71.41617,Warwick,https://www.geonames.org/5225507/
+fmm-wyoming-marathon-wy-2027,41.31137,-105.5911,Laramie,https://www.geonames.org/5830062/
+fmm-bear-lake-wyoming-marathon-wy-2027,42.08244,-110.95519,Cokeville,https://www.geonames.org/5821618/
+fmm-bear-lake-idaho-marathon-id-2027,42.04,-111.39,"Bear Lake, Idaho",
+fmm-1-2-sauer-1-2-kraut-marathon-pa-2027,39.95238,-75.16362,Philadelphia,https://www.geonames.org/4560349/
+fmm-bear-lake-utah-marathon-ut-2027,41.94688,-111.39354,Garden City,https://www.geonames.org/5775057/
+fmm-bear-paw-marathon-mt-2027,48.55,-109.68409,Havre,https://www.geonames.org/5656497/
+fmm-gods-country-marathon-race-series-pa-2027,41.73312,-77.64193,Galeton,https://www.geonames.org/5190743/
+fmm-green-river-marathon-wa-2027,47.38093,-122.23484,Kent,https://www.geonames.org/5799625/
+fmm-mish-waterfront-marathon-mi-2027,45.85274,-87.0218,Gladstone,https://www.geonames.org/4993981/
+fmm-race-the-lake-marathon-ny-2027,42.70048,-74.92426,Cooperstown,https://www.geonames.org/5113664/
+fmm-sevier-valley-marathon-ut-2027,38.77247,-112.08409,Richfield,https://www.geonames.org/5545710/
+fmm-teton-dam-marathon-id-2027,43.82602,-111.78969,Rexburg,https://www.geonames.org/5605242/
+fmm-timberline-marathon-or-2027,45.11,-121.79,Timothy Lake,
+fmm-zip-code-07662-marathon-nj-2027,40.90732,-74.07514,Rochelle Park,https://www.geonames.org/5103384/
+fmm-casper-marathon-wy-2027,42.86663,-106.31308,Casper,https://www.geonames.org/5820705/
+fmm-maritime-marathon-wi-2027,44.08861,-87.65758,Manitowoc,https://www.geonames.org/5261585/
+fmm-north-olympic-discovery-marathon-wa-2027,48.11815,-123.43074,Port Angeles,https://www.geonames.org/5807212/
+fmm-rock-n-roll-san-diego-marathon-ca-2027,32.71571,-117.16472,San Diego,https://www.geonames.org/5391811/
+fmm-seaside-marathon-ca-2027,34.27834,-119.29317,Ventura,https://www.geonames.org/5405878/
+fmm-steamboat-marathon-co-2027,40.48498,-106.83172,Steamboat Springs,https://www.geonames.org/5582371/
+fmm-hatfield-mccoy-marathon-wv-2027,37.67427,-82.27736,Williamson,https://www.geonames.org/4827333/
+fmm-jackson-river-scenic-trail-marathon-va-2027,37.79346,-79.99395,Covington,https://www.geonames.org/4754358/
+fmm-skagway-marathon-ak-2027,59.45833,-135.31389,Skagway,https://www.geonames.org/5557317/
+fmm-two-hearted-trail-marathon-mi-2027,46.63,-85.03,Paradise area,
+fmm-bound-for-boston-seattle-marathon-wa-2027,47.04491,-122.90169,Olympia,https://www.geonames.org/5805687/
+fmm-great-bangor-marathon-me-2027,44.79884,-68.77265,Bangor,https://www.geonames.org/4957280/
+fmm-moosehead-marathon-me-2027,45.45949,-69.59061,Greenville,https://www.geonames.org/4965978/
+fmm-mayors-marathon-ak-2027,61.21806,-149.90028,Anchorage,https://www.geonames.org/5879400/
+fmm-super-hyak-marathon-wa-2027,47.49566,-121.78678,North Bend,https://www.geonames.org/5804915/
+fmm-bay-of-fundy-marathon-me-2027,44.86,-66.98,Lubec,
+fmm-boise-marathon-id-2027,43.6135,-116.20345,Boise,https://www.geonames.org/5586437/
+fmm-estes-park-marathon-co-2027,40.37721,-105.52167,Estes Park,https://www.geonames.org/5576882/
+fmm-leadville-trail-marathon-co-2027,39.25082,-106.29252,Leadville,https://www.geonames.org/5428184/
+fmm-morgan-valley-marathon-ut-2027,41.03606,-111.67688,Morgan,https://www.geonames.org/5778518/
+fmm-wicked-fast-mt-marathon-mt-2027,45.51,-110.56,Pine Creek area,
+fmm-foot-traffic-flat-marathon-or-2027,45.52345,-122.67621,Portland,https://www.geonames.org/5746545/
+fmm-dances-with-dirt-marathon-devils-lake-wi-2027,43.47109,-89.74429,Baraboo,https://www.geonames.org/5244638/
+fmm-madison-marathon-montana-mt-2027,45.34882,-111.7297,Ennis,https://www.geonames.org/5651062/
+fmm-san-lorenzo-river-marathon-ca-2027,36.97412,-122.0308,Santa Cruz,https://www.geonames.org/5393052/
+fmm-waugoshance-trail-marathon-mi-2027,45.7777,-84.72982,Mackinaw City,https://www.geonames.org/5000460/
+fmm-big-sky-marathon-mt-2027,45.25,-111.76,Varney area,
+fmm-shoreline-marathon-ca-2027,34.27834,-119.29317,Ventura,https://www.geonames.org/5405878/
+fmm-austin-solstice-circuit-marathon-tx-2027,30.48,-98.16,Spicewood,
+fmm-king-salmon-marathon-ak-2027,60.5432,-145.75867,Cordova,https://www.geonames.org/5859888/
+fmm-great-augusta-marathon-me-2027,44.31062,-69.77949,Augusta,https://www.geonames.org/4957003/
+fmm-conquer-the-canyon-marathon-pa-2027,41.74868,-77.30053,Wellsboro,https://www.geonames.org/5218450/
+fmm-idaho-falls-marathon-id-2027,43.46658,-112.03414,Idaho Falls,https://www.geonames.org/5596475/
+fmm-jack-and-jills-downhill-marathon-saturday-wa-2027,47.49566,-121.78678,North Bend,https://www.geonames.org/5804915/
+fmm-run-the-pier-marathon-mi-2027,44.24445,-86.32425,Manistee,https://www.geonames.org/5000611/
+fmm-jack-and-jills-downhill-marathon-wa-2027,47.49566,-121.78678,North Bend,https://www.geonames.org/5804915/
+fmm-run-for-the-elk-marathon-pa-2027,41.51145,-78.23529,Emporium,https://www.geonames.org/5188737/
+fmm-san-francisco-marathon-ca-2027,37.77493,-122.41942,San Francisco,https://www.geonames.org/5391959/
+fmm-grand-island-trail-marathon-mi-2027,46.4112,-86.64926,Munising,https://www.geonames.org/5003065/
+fmm-bound-for-boston-denver-marathon-co-2027,39.73915,-104.9847,Denver,https://www.geonames.org/5419384/
+fmm-camarillo-marathon-ca-2027,34.21639,-119.0376,Camarillo,https://www.geonames.org/5333180/
+fmm-haulin-aspen-trail-marathon-or-2027,44.05817,-121.31531,Bend,https://www.geonames.org/5713587/
+fmm-valentine-marathon-ne-2027,42.87278,-100.55097,Valentine,https://www.geonames.org/5700344/
+fmm-humboldt-bay-marathon-ca-2027,40.80207,-124.16367,Eureka,https://www.geonames.org/5563397/
+fmm-extraterrestrial-full-moon-midnight-marathon-nv-2027,37.65,-115.75,Rachel,
+fmm-paavo-marathon-wi-2027,46.44967,-90.18656,Hurley,https://www.geonames.org/5257163/
+fmm-bound-for-boston-minneapolis-marathon-mn-2027,44.8833,-93.283,Richfield,https://www.geonames.org/5043193/
+fmm-moonlight-on-the-falls-marathon-wv-2027,39.12872,-79.46477,Davis,https://www.geonames.org/4803685/
+fmm-bound-for-boston-milwaukee-marathon-wi-2027,43.1789,-88.11731,Menomonee Falls,https://www.geonames.org/5262630/
+fmm-garmin-marathon-ventura-ca-2027,34.27834,-119.29317,Ventura,https://www.geonames.org/5405878/
+fmm-new-england-green-river-marathon-ma-2027,42.58759,-72.59953,Greenfield,https://www.geonames.org/4938378/
+fmm-santa-rosa-marathon-ca-2027,38.44047,-122.71443,Santa Rosa,https://www.geonames.org/5393287/
+fmm-wausau-marathon-wi-2027,44.95914,-89.63012,Wausau,https://www.geonames.org/5278120/
+fmm-runtastic-nebo-marathon-ut-2027,40.0444,-111.73215,Payson,https://www.geonames.org/5779548/
+fmm-millennium-meadows-marathon-mi-2027,42.96336,-85.66809,Grand Rapids,https://www.geonames.org/4994358/
+fmm-devil-after-dark-marathon-nv-2027,36.17497,-115.13722,Las Vegas,https://www.geonames.org/5506956/
+fmm-east-canyon-marathon-ut-2027,41.03606,-111.67688,Morgan,https://www.geonames.org/5778518/
+fmm-mud-mountain-dam-fall-marathon-wa-2027,47.20427,-121.9915,Enumclaw,https://www.geonames.org/5793822/
+fmm-pocatello-marathon-id-2027,42.8713,-112.44553,Pocatello,https://www.geonames.org/5604045/
+fmm-salmon-marathon-id-2027,45.17575,-113.8959,Salmon,https://www.geonames.org/5606275/
+fmm-appletree-marathon-wa-2027,45.63873,-122.66149,Vancouver,https://www.geonames.org/5814616/
+fmm-bound-for-boston-marathon-atlanta-ga-2027,34.05149,-84.0713,Suwanee,https://www.geonames.org/4225309/
+fmm-kauai-marathon-hi-2027,21.8735,-159.44857,Po‘ipū,https://www.geonames.org/5852508/
+fmm-minuteman-bq-marathon-ma-2027,42.41537,-71.15644,Arlington,https://www.geonames.org/4929180/
+fmm-sackets-harbor-marathon-ny-2027,43.94617,-76.11909,Sackets Harbor,https://www.geonames.org/5134736/
+fmm-surfers-point-marathon-ca-2027,34.27834,-119.29317,Ventura,https://www.geonames.org/5405878/
+fmm-lock-2-lock-marathon-md-2027,39.60065,-77.82055,Williamsport,https://www.geonames.org/4373719/
+fmm-malad-valley-marathon-id-2027,42.19159,-112.2508,Malad City,https://www.geonames.org/5600035/
+fmm-odyssey-trail-running-rampage-marathon-va-2027,37.98,-79.60,Millboro,
+fmm-revel-big-cottonwood-marathon-ut-2027,40.66689,-111.88799,Murray,https://www.geonames.org/5778755/
+fmm-run-woodstock-marathon-mi-2027,42.46,-84.07,Gregory,
+fmm-sunbury-marathon-oh-2027,40.24256,-82.85907,Sunbury,https://www.geonames.org/5173412/
+fmm-boston-or-bust-marathon-al-2027,34.7304,-86.58594,Huntsville,https://www.geonames.org/4068590/
+fmm-holland-haven-marathon-mi-2027,42.78752,-86.10893,Holland,https://www.geonames.org/4996248/
+fmm-air-force-marathon-oh-2027,39.75895,-84.19161,Dayton,https://www.geonames.org/4509884/
+fmm-best-of-the-west-marathon-oh-2027,41.15756,-81.24205,Ravenna,https://www.geonames.org/5167737/
+fmm-bismarck-marathon-nd-2027,46.80833,-100.78374,Bismarck,https://www.geonames.org/5688025/
+fmm-priest-lake-marathon-id-2027,48.58,-116.89,Priest Lake area,
+fmm-back-your-badge-marathon-in-2027,39.70421,-86.39944,Plainfield,https://www.geonames.org/4263108/
+fmm-bound-for-boston-marathon-oklahoma-city-ok-2027,35.50672,-97.76254,Yukon,https://www.geonames.org/4556165/
+fmm-great-lincoln-marathon-me-2027,45.36228,-68.50502,Lincoln,https://www.geonames.org/4969547/
+fmm-honest-abe-trail-marathon-in-2027,38.12,-86.99,Lincoln City,
+fmm-nebraska-marathon-ne-2027,41.15444,-96.04224,Papillion,https://www.geonames.org/5074792/
+fmm-pikes-peak-marathon-co-2027,38.85971,-104.9172,Manitou Springs,https://www.geonames.org/5430023/
+fmm-sioux-falls-marathon-sd-2027,43.54369,-96.72796,Sioux Falls,https://www.geonames.org/5231851/
+fmm-akron-marathon-oh-2027,41.08144,-81.51901,Akron,https://www.geonames.org/5145476/
+fmm-american-birkebeiner-marathon-wi-2027,46.01301,-91.48462,Hayward,https://www.geonames.org/5255882/
+fmm-fidalgo-trail-run-marathon-wa-2027,48.5126,-122.61267,Anacortes,https://www.geonames.org/5785657/
+fmm-jackson-hole-marathon-wy-2027,43.48,-110.76,Jackson,
+fmm-mill-race-marathon-in-2027,39.20144,-85.92138,Columbus,https://www.geonames.org/4256038/
+fmm-monument-marathon-ne-2027,41.8258,-103.6605,Gering,https://www.geonames.org/5695604/
+fmm-temple-to-temple-marathon-ut-2027,39.2683,-111.63686,Manti,https://www.geonames.org/5542758/
+fmm-adirondack-marathon-ny-2027,43.83867,-73.76096,Schroon Lake,https://www.geonames.org/5137353/
+fmm-boulderthon-boulder-marathon-co-2027,40.01499,-105.27055,Boulder,https://www.geonames.org/5574991/
+fmm-waterville-marathon-me-2027,44.55201,-69.63171,Waterville,https://www.geonames.org/4982236/
+fmm-colorado-springs-marathon-co-2027,38.83388,-104.82136,Colorado Springs,https://www.geonames.org/5417598/
+fmm-leavenworth-marathon-wa-2027,47.59623,-120.66148,Leavenworth,https://www.geonames.org/5800683/
+fmm-molokai-marathon-hi-2027,21.08939,-157.02255,Kaunakakai,https://www.geonames.org/5848652/
+fmm-st-george-marathon-ut-2027,37.10,-113.58,St. George,
+fmm-greenbrier-river-trail-marathon-wv-2027,38.40,-79.91,Cass,
+fmm-long-beach-marathon-ca-2027,33.76696,-118.18923,Long Beach,https://www.geonames.org/5367929/
+fmm-portland-marathon-or-2027,45.52345,-122.67621,Portland,https://www.geonames.org/5746545/
+fmm-antelope-island-marathon-ut-2027,41.06,-112.24,Antelope Island,
+fmm-bemidji-blue-ox-marathon-mn-2027,47.47356,-94.88028,Bemidji,https://www.geonames.org/5017822/
+fmm-escalante-canyons-marathon-ut-2027,37.77027,-111.60212,Escalante,https://www.geonames.org/5538942/
+fmm-hayden-lake-marathon-id-2027,47.75879,-116.75686,Hayden Lake,https://www.geonames.org/5595336/
+fmm-pocono-mountains-marathon-pa-2027,41.32,-75.31,Greentown,
+fmm-raquette-river-marathon-ny-2027,44.66978,-74.98131,Potsdam,https://www.geonames.org/5132103/
+fmm-humboldt-redwoods-marathon-ca-2027,40.32,-123.93,Weott area,
+fmm-newport-marathon-ri-ri-2027,41.4901,-71.31283,Newport,https://www.geonames.org/5223593/
+fmm-spokane-marathon-wa-2027,47.65966,-117.42908,Spokane,https://www.geonames.org/5811696/
+fmm-steamtown-marathon-pa-2027,41.40916,-75.6649,Scranton,https://www.geonames.org/5211303/
+fmm-cal-neva-marathon-ca-2027,39.17,-120.14,Tahoe City,
+fmm-home-for-freedom-marathon-tx-2027,33.91371,-98.49339,Wichita Falls,https://www.geonames.org/4741752/
+fmm-atlantic-city-marathon-nj-2027,39.36415,-74.42306,Atlantic City,https://www.geonames.org/4500546/
+fmm-columbia-gorge-marathon-or-2027,45.7054,-121.52146,Hood River,https://www.geonames.org/5731777/
+fmm-columbus-marathon-oh-2027,39.96118,-82.99879,Columbus,https://www.geonames.org/4509177/
+fmm-des-moines-marathon-ia-2027,41.60054,-93.60911,Des Moines,https://www.geonames.org/4853828/
+fmm-detroit-free-press-marathon-mi-2027,42.33143,-83.04575,Detroit,https://www.geonames.org/4990729/
+fmm-great-new-york-state-marathon-ny-2027,43.04812,-76.14742,Syracuse,https://www.geonames.org/5140405/
+fmm-lake-tahoe-marathon-ca-2027,38.93324,-119.98435,South Lake Tahoe,https://www.geonames.org/5397664/
+fmm-silver-falls-trail-marathon-or-2027,45.00512,-122.78315,Silverton,https://www.geonames.org/5752024/
+fmm-snohomish-river-run-marathon-wa-2027,47.91288,-122.09818,Snohomish,https://www.geonames.org/5810988/
+fmm-emerald-isle-marathon-nc-2027,34.67794,-76.95078,Emerald Isle,https://www.geonames.org/4465303/
+fmm-kansas-city-marathon-mo-2027,39.09973,-94.57857,Kansas City,https://www.geonames.org/4393217/
+fmm-bears-ears-marathon-ut-2027,37.28,-109.55,Bluff,
+fmm-two-cities-marathon-ca-2027,36.74773,-119.77237,Fresno,https://www.geonames.org/5350937/
+fmm-we-got-your-six-running-festival-marathon-md-2027,38.59,-76.94,White Plains,
+fmm-bg26-2-marathon-ky-2027,36.99032,-86.4436,Bowling Green,https://www.geonames.org/4285268/
+fmm-mobius-marathon-pa-2027,40.15511,-74.82877,Levittown,https://www.geonames.org/5197796/
+fmm-st-pete-marathon-fl-2027,27.77086,-82.67927,St. Petersburg,https://www.geonames.org/4171563/

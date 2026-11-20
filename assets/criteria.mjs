@@ -11,7 +11,7 @@ export const criteria = [
   {key:'month', label:'Race month', options:categories(...'January February March April May June July August September October November December'.split(' ')), scale:2, icon:'M4 6h16v15H4zM4 10h16M8 3v5m8-5v5'},
   {key:'season', label:'Race season', options:categories('Spring','Summer','Autumn','Winter'), icon:'M12 2v4m0 12v4M2 12h4m12 0h4M8 8l8 8m0-8-8 8'},
   {key:'region', label:'Geographic region', options:categories('Africa','Asia','Europe','North America','Oceania','South America'), icon:'M3 5l6-2 6 2 6-2v16l-6 2-6-2-6 2zM9 3v16m6-14v16'},
-  {key:'temperature', label:'Typical race-day temperature', options:ranges(['Below 10 °C',-Infinity,9],['10–16 °C',10,16],['17–23 °C',17,23],['24 °C or warmer',24,Infinity]), scale:10, unit:' °C', icon:'M10 14V5a2 2 0 014 0v9a4 4 0 11-4 0Zm2-5v8'},
+  {key:'temperature', label:'Typical morning temperature', options:ranges(['Below 10 °C',-Infinity,9],['10–16 °C',10,16],['17–23 °C',17,23],['24 °C or warmer',24,Infinity]), scale:10, unit:' °C', icon:'M10 14V5a2 2 0 014 0v9a4 4 0 11-4 0Zm2-5v8'},
   {key:'gain', label:'Elevation gain', options:upper(['At most 150 m',150],['At most 350 m',350],['At most 600 m',600]), scale:500, unit:' m', icon:'M2 20 9 9l4 5 4-8 5 14M5 10V3m-3 3 3-3 3 3'},
   {key:'loss', label:'Elevation loss', options:upper(['At most 150 m',150],['At most 350 m',350],['At most 600 m',600]), scale:500, unit:' m', icon:'M2 20 7 6l5 8 4-5 6 11M19 3v7m-3-3 3 3 3-3'},
   {key:'surface', label:'Course surface', options:categories('Road','Trail','Mixed'), icon:'M8 3 3 21h18L16 3M12 3v4m0 3v4m0 3v4'},
