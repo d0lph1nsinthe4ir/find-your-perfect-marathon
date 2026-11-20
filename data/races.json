@@ -467,6 +467,614 @@
         }
       },
       "courseVersions": []
+    },
+    {
+      "id": "houston-2027",
+      "name": "Chevron Houston Marathon",
+      "setting": "Houston, United States",
+      "date": "2027-01-17",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.chevronhoustonmarathon.com/schedule/",
+        "sourceTitle": "Houston Marathon race weekend schedule",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://www.chevronhoustonmarathon.com/schedule/",
+          "sourceTitle": "Houston Marathon race weekend schedule",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://www.chevronhoustonmarathon.com/schedule/",
+          "sourceTitle": "Houston Marathon race weekend schedule",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "hong-kong-2027",
+      "name": "Standard Chartered Hong Kong Marathon",
+      "setting": "Hong Kong, China",
+      "date": "2027-01-17",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.hkmarathon.com/race-information",
+        "sourceTitle": "Hong Kong Marathon race information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "January",
+          "status": "verified",
+          "sourceUrl": "https://www.hkmarathon.com/race-information",
+          "sourceTitle": "Hong Kong Marathon race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://www.hkmarathon.com/race-information",
+          "sourceTitle": "Hong Kong Marathon race information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "rome-2027",
+      "name": "Run Rome The Marathon",
+      "setting": "Rome, Italy",
+      "date": "2027-03-14",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.runromethemarathon.com/wp-content/uploads/2026/04/RRTM27-regolamento-inglese-23-4-2026.pdf",
+        "sourceTitle": "Rome Marathon official 2027 rules",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://www.runromethemarathon.com/wp-content/uploads/2026/04/RRTM27-regolamento-inglese-23-4-2026.pdf",
+          "sourceTitle": "Rome Marathon official 2027 rules",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://www.runromethemarathon.com/wp-content/uploads/2026/04/RRTM27-regolamento-inglese-23-4-2026.pdf",
+          "sourceTitle": "Rome Marathon official 2027 rules",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "seoul-2027",
+      "name": "Seoul Marathon",
+      "setting": "Seoul, South Korea",
+      "date": "2027-03-21",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://en.seoul-marathon.com/83",
+        "sourceTitle": "Seoul Marathon 2027 race information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "March",
+          "status": "verified",
+          "sourceUrl": "https://en.seoul-marathon.com/83",
+          "sourceTitle": "Seoul Marathon 2027 race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Asia",
+          "status": "verified",
+          "sourceUrl": "https://en.seoul-marathon.com/83",
+          "sourceTitle": "Seoul Marathon 2027 race information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "rotterdam-2027",
+      "name": "NN Marathon Rotterdam",
+      "setting": "Rotterdam, Netherlands",
+      "date": "2027-04-11",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://nnmarathonrotterdam.nl/en/",
+        "sourceTitle": "Rotterdam Marathon official website",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://nnmarathonrotterdam.nl/en/",
+          "sourceTitle": "Rotterdam Marathon official website",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://nnmarathonrotterdam.nl/en/",
+          "sourceTitle": "Rotterdam Marathon official website",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "manchester-2027",
+      "name": "adidas Manchester Marathon",
+      "setting": "Manchester, United Kingdom",
+      "date": "2027-04-18",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.manchestermarathon.co.uk/event-info/about-event/",
+        "sourceTitle": "Manchester Marathon event information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://www.manchestermarathon.co.uk/event-info/about-event/",
+          "sourceTitle": "Manchester Marathon event information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://www.manchestermarathon.co.uk/event-info/about-event/",
+          "sourceTitle": "Manchester Marathon event information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "vienna-2027",
+      "name": "Vienna City Marathon",
+      "setting": "Vienna, Austria",
+      "date": "2027-04-18",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.vienna-marathon.com/?go=marathon&lang=en",
+        "sourceTitle": "Vienna City Marathon race information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://www.vienna-marathon.com/?go=marathon&lang=en",
+          "sourceTitle": "Vienna City Marathon race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://www.vienna-marathon.com/?go=marathon&lang=en",
+          "sourceTitle": "Vienna City Marathon race information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "big-sur-2027",
+      "name": "Big Sur International Marathon",
+      "setting": "Big Sur, United States",
+      "date": "2027-04-25",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.bigsurmarathon.org/races/marathon/",
+        "sourceTitle": "Big Sur Marathon race and course information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://www.bigsurmarathon.org/races/marathon/",
+          "sourceTitle": "Big Sur Marathon race and course information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://www.bigsurmarathon.org/races/marathon/",
+          "sourceTitle": "Big Sur Marathon race and course information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": [],
+      "courseSource": {
+        "sourceUrl": "https://www.bigsurmarathon.org/races/marathon/",
+        "verifiedOn": "2026-11-20"
+      }
+    },
+    {
+      "id": "eugene-2027",
+      "name": "Eugene Marathon",
+      "setting": "Eugene, United States",
+      "date": "2027-04-25",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.eugenemarathon.com/marathon",
+        "sourceTitle": "Eugene Marathon race and course information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "April",
+          "status": "verified",
+          "sourceUrl": "https://www.eugenemarathon.com/marathon",
+          "sourceTitle": "Eugene Marathon race and course information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://www.eugenemarathon.com/marathon",
+          "sourceTitle": "Eugene Marathon race and course information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": [],
+      "courseSource": {
+        "sourceUrl": "https://www.eugenemarathon.com/marathon",
+        "verifiedOn": "2026-11-20"
+      }
+    },
+    {
+      "id": "prague-2027",
+      "name": "Vodafone Prague Marathon",
+      "setting": "Prague, Czechia",
+      "date": "2027-05-02",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.runczech.com/en/events/vodafone-prague-marathon-2027",
+        "sourceTitle": "RunCzech race information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://www.runczech.com/en/events/vodafone-prague-marathon-2027",
+          "sourceTitle": "RunCzech race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://www.runczech.com/en/events/vodafone-prague-marathon-2027",
+          "sourceTitle": "RunCzech race information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "vancouver-2027",
+      "name": "BMO Vancouver Marathon",
+      "setting": "Vancouver, Canada",
+      "date": "2027-05-02",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.bmovanmarathon.com/marathon",
+        "sourceTitle": "Vancouver Marathon race and course information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://www.bmovanmarathon.com/marathon",
+          "sourceTitle": "Vancouver Marathon race and course information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://www.bmovanmarathon.com/marathon",
+          "sourceTitle": "Vancouver Marathon race and course information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": [],
+      "courseSource": {
+        "sourceUrl": "https://www.bmovanmarathon.com/marathon",
+        "verifiedOn": "2026-11-20"
+      }
+    },
+    {
+      "id": "copenhagen-2027",
+      "name": "Copenhagen Marathon",
+      "setting": "Copenhagen, Denmark",
+      "date": "2027-05-09",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://copenhagenmarathon.dk/en/my-race/",
+        "sourceTitle": "Copenhagen Marathon race information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://copenhagenmarathon.dk/en/my-race/",
+          "sourceTitle": "Copenhagen Marathon race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Europe",
+          "status": "verified",
+          "sourceUrl": "https://copenhagenmarathon.dk/en/my-race/",
+          "sourceTitle": "Copenhagen Marathon race information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": [],
+      "courseSource": {
+        "sourceUrl": "https://map.copenhagenmarathon.dk/?lang=en",
+        "verifiedOn": "2026-11-20"
+      }
+    },
+    {
+      "id": "cape-town-2027",
+      "name": "Sanlam Cape Town Marathon",
+      "setting": "Cape Town, South Africa",
+      "date": "2027-05-23",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://capetownmarathon.com/faq/",
+        "sourceTitle": "Cape Town Marathon official FAQ",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://capetownmarathon.com/faq/",
+          "sourceTitle": "Cape Town Marathon official FAQ",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Africa",
+          "status": "verified",
+          "sourceUrl": "https://capetownmarathon.com/faq/",
+          "sourceTitle": "Cape Town Marathon official FAQ",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "ottawa-2027",
+      "name": "Tamarack Ottawa International Marathon",
+      "setting": "Ottawa, Canada",
+      "date": "2027-05-30",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.runottawa.ca/races-and-events/ottawa-marathon/",
+        "sourceTitle": "Run Ottawa race and course information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "May",
+          "status": "verified",
+          "sourceUrl": "https://www.runottawa.ca/races-and-events/ottawa-marathon/",
+          "sourceTitle": "Run Ottawa race and course information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://www.runottawa.ca/races-and-events/ottawa-marathon/",
+          "sourceTitle": "Run Ottawa race and course information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": [],
+      "courseSource": {
+        "sourceUrl": "https://www.runottawa.ca/races-and-events/ottawa-marathon/",
+        "verifiedOn": "2026-11-20"
+      }
+    },
+    {
+      "id": "grandmas-2027",
+      "name": "Grandma's Marathon",
+      "setting": "Duluth, United States",
+      "date": "2027-06-19",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://grandmasmarathon.com/",
+        "sourceTitle": "Grandma's Marathon official website",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "June",
+          "status": "verified",
+          "sourceUrl": "https://grandmasmarathon.com/",
+          "sourceTitle": "Grandma's Marathon official website",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://grandmasmarathon.com/",
+          "sourceTitle": "Grandma's Marathon official website",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "gold-coast-2027",
+      "name": "ASICS Gold Coast Marathon",
+      "setting": "Gold Coast, Australia",
+      "date": "2027-07-04",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://goldcoastmarathon.com.au/races/marathon/",
+        "sourceTitle": "Gold Coast Marathon race information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "July",
+          "status": "verified",
+          "sourceUrl": "https://goldcoastmarathon.com.au/races/marathon/",
+          "sourceTitle": "Gold Coast Marathon race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Oceania",
+          "status": "verified",
+          "sourceUrl": "https://goldcoastmarathon.com.au/races/marathon/",
+          "sourceTitle": "Gold Coast Marathon race information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": [],
+      "courseSource": {
+        "sourceUrl": "https://goldcoastmarathon.com.au/races/marathon/",
+        "verifiedOn": "2026-11-20"
+      }
+    },
+    {
+      "id": "sydney-2027",
+      "name": "TCS Sydney Marathon",
+      "setting": "Sydney, Australia",
+      "date": "2027-08-29",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.tcssydneymarathon.com/marathon",
+        "sourceTitle": "Sydney Marathon race information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "August",
+          "status": "verified",
+          "sourceUrl": "https://www.tcssydneymarathon.com/marathon",
+          "sourceTitle": "Sydney Marathon race information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Oceania",
+          "status": "verified",
+          "sourceUrl": "https://www.tcssydneymarathon.com/marathon",
+          "sourceTitle": "Sydney Marathon race information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "chicago-2027",
+      "name": "Bank of America Chicago Marathon",
+      "setting": "Chicago, United States",
+      "date": "2027-10-10",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.chicagomarathon.com/apply/",
+        "sourceTitle": "Chicago Marathon entry information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "October",
+          "status": "verified",
+          "sourceUrl": "https://www.chicagomarathon.com/apply/",
+          "sourceTitle": "Chicago Marathon entry information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://www.chicagomarathon.com/apply/",
+          "sourceTitle": "Chicago Marathon entry information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
+    },
+    {
+      "id": "auckland-2027",
+      "name": "Barfoot & Thompson Auckland Marathon",
+      "setting": "Auckland, New Zealand",
+      "date": "2027-10-31",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://aucklandmarathon.co.nz/race-info/full-marathon",
+        "sourceTitle": "Auckland Marathon race and course information",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "October",
+          "status": "verified",
+          "sourceUrl": "https://aucklandmarathon.co.nz/race-info/full-marathon",
+          "sourceTitle": "Auckland Marathon race and course information",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "Oceania",
+          "status": "verified",
+          "sourceUrl": "https://aucklandmarathon.co.nz/race-info/full-marathon",
+          "sourceTitle": "Auckland Marathon race and course information",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": [],
+      "courseSource": {
+        "sourceUrl": "https://aucklandmarathon.co.nz/race-info/full-marathon",
+        "verifiedOn": "2026-11-20"
+      }
+    },
+    {
+      "id": "richmond-2027",
+      "name": "Allianz Richmond Marathon",
+      "setting": "Richmond, United States",
+      "date": "2027-11-13",
+      "demo": false,
+      "source": {
+        "sourceUrl": "https://www.richmondmarathon.org/",
+        "sourceTitle": "Richmond Marathon official website",
+        "verifiedOn": "2026-11-20"
+      },
+      "attributes": {
+        "month": {
+          "value": "November",
+          "status": "verified",
+          "sourceUrl": "https://www.richmondmarathon.org/",
+          "sourceTitle": "Richmond Marathon official website",
+          "verifiedOn": "2026-11-20"
+        },
+        "region": {
+          "value": "North America",
+          "status": "verified",
+          "sourceUrl": "https://www.richmondmarathon.org/",
+          "sourceTitle": "Richmond Marathon official website",
+          "verifiedOn": "2026-11-20"
+        }
+      },
+      "courseVersions": []
     }
   ]
 }

@@ -1,0 +1,21 @@
+id,name,date,city,country,region,source_url,source_title,verified_on,distance_km,format,course_url
+houston-2027,Chevron Houston Marathon,2027-01-17,Houston,United States,North America,https://www.chevronhoustonmarathon.com/schedule/,Houston Marathon race weekend schedule,2026-11-20,42.195,in-person,
+hong-kong-2027,Standard Chartered Hong Kong Marathon,2027-01-17,Hong Kong,China,Asia,https://www.hkmarathon.com/race-information,Hong Kong Marathon race information,2026-11-20,42.195,in-person,
+rome-2027,Run Rome The Marathon,2027-03-14,Rome,Italy,Europe,https://www.runromethemarathon.com/wp-content/uploads/2026/04/RRTM27-regolamento-inglese-23-4-2026.pdf,Rome Marathon official 2027 rules,2026-11-20,42.195,in-person,
+seoul-2027,Seoul Marathon,2027-03-21,Seoul,South Korea,Asia,https://en.seoul-marathon.com/83,Seoul Marathon 2027 race information,2026-11-20,42.195,in-person,
+rotterdam-2027,NN Marathon Rotterdam,2027-04-11,Rotterdam,Netherlands,Europe,https://nnmarathonrotterdam.nl/en/,Rotterdam Marathon official website,2026-11-20,42.195,in-person,
+manchester-2027,adidas Manchester Marathon,2027-04-18,Manchester,United Kingdom,Europe,https://www.manchestermarathon.co.uk/event-info/about-event/,Manchester Marathon event information,2026-11-20,42.195,in-person,
+vienna-2027,Vienna City Marathon,2027-04-18,Vienna,Austria,Europe,https://www.vienna-marathon.com/?go=marathon&lang=en,Vienna City Marathon race information,2026-11-20,42.195,in-person,
+big-sur-2027,Big Sur International Marathon,2027-04-25,Big Sur,United States,North America,https://www.bigsurmarathon.org/races/marathon/,Big Sur Marathon race and course information,2026-11-20,42.195,in-person,https://www.bigsurmarathon.org/races/marathon/
+eugene-2027,Eugene Marathon,2027-04-25,Eugene,United States,North America,https://www.eugenemarathon.com/marathon,Eugene Marathon race and course information,2026-11-20,42.195,in-person,https://www.eugenemarathon.com/marathon
+prague-2027,Vodafone Prague Marathon,2027-05-02,Prague,Czechia,Europe,https://www.runczech.com/en/events/vodafone-prague-marathon-2027,RunCzech race information,2026-11-20,42.195,in-person,
+vancouver-2027,BMO Vancouver Marathon,2027-05-02,Vancouver,Canada,North America,https://www.bmovanmarathon.com/marathon,Vancouver Marathon race and course information,2026-11-20,42.195,in-person,https://www.bmovanmarathon.com/marathon
+copenhagen-2027,Copenhagen Marathon,2027-05-09,Copenhagen,Denmark,Europe,https://copenhagenmarathon.dk/en/my-race/,Copenhagen Marathon race information,2026-11-20,42.195,in-person,https://map.copenhagenmarathon.dk/?lang=en
+cape-town-2027,Sanlam Cape Town Marathon,2027-05-23,Cape Town,South Africa,Africa,https://capetownmarathon.com/faq/,Cape Town Marathon official FAQ,2026-11-20,42.195,in-person,
+ottawa-2027,Tamarack Ottawa International Marathon,2027-05-30,Ottawa,Canada,North America,https://www.runottawa.ca/races-and-events/ottawa-marathon/,Run Ottawa race and course information,2026-11-20,42.195,in-person,https://www.runottawa.ca/races-and-events/ottawa-marathon/
+grandmas-2027,Grandma's Marathon,2027-06-19,Duluth,United States,North America,https://grandmasmarathon.com/,Grandma's Marathon official website,2026-11-20,42.195,in-person,
+gold-coast-2027,ASICS Gold Coast Marathon,2027-07-04,Gold Coast,Australia,Oceania,https://goldcoastmarathon.com.au/races/marathon/,Gold Coast Marathon race information,2026-11-20,42.195,in-person,https://goldcoastmarathon.com.au/races/marathon/
+sydney-2027,TCS Sydney Marathon,2027-08-29,Sydney,Australia,Oceania,https://www.tcssydneymarathon.com/marathon,Sydney Marathon race information,2026-11-20,42.195,in-person,
+chicago-2027,Bank of America Chicago Marathon,2027-10-10,Chicago,United States,North America,https://www.chicagomarathon.com/apply/,Chicago Marathon entry information,2026-11-20,42.195,in-person,
+auckland-2027,Barfoot & Thompson Auckland Marathon,2027-10-31,Auckland,New Zealand,Oceania,https://aucklandmarathon.co.nz/race-info/full-marathon,Auckland Marathon race and course information,2026-11-20,42.195,in-person,https://aucklandmarathon.co.nz/race-info/full-marathon
+richmond-2027,Allianz Richmond Marathon,2027-11-13,Richmond,United States,North America,https://www.richmondmarathon.org/,Richmond Marathon official website,2026-11-20,42.195,in-person,
